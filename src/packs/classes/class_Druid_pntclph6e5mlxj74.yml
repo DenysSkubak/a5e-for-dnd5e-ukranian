@@ -1,10 +1,10 @@
-name: Druid
+name: Друїд
 type: class
 img: icons/magic/nature/root-vines-face-glow-green.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Druid</strong></p>
+      <p><strong>Таблиця: Друїд</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       12.3936%;"><col style="width: 10.2176%;"><col style="width:
@@ -15,12 +15,12 @@ system:
 
       <tr style="height: 33.5938px;">
 
-      <td style="text-align: center; height: 33.5938px;">Level</td>
+      <td style="text-align: center; height: 33.5938px;">Рівень</td>
 
       <td style="text-align: center; height:
       33.5938px;">Proficiency<br>Bonus</td>
 
-      <td style="text-align: center; height: 33.5938px;">Features</td>
+      <td style="text-align: center; height: 33.5938px;">Особливості</td>
 
       <td style="text-align: center; height: 33.5938px;">Wild
       Shapes<br>Known</td>
@@ -43,7 +43,7 @@ system:
       center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.0ummig34seznbvnq]{Druidic
       Training}
       @UUID[Compendium.a5e-for-dnd5e.class-features.Item.tv37v168w5e89vdv]{Secrets
-      of Nature}
+      of Природа}
       @UUID[Compendium.a5e-for-dnd5e.class-features.Item.92q69mibuicvsutc]{Spellcasting}</td>
 
       <td style="text-align: center;">&mdash;</td>
@@ -59,7 +59,7 @@ system:
       <td style="text-align: center;">+2</td>
 
       <td style="text-align: center;">Druid Archetype
-      @UUID[Compendium.a5e-for-dnd5e.class-features.Item.n3fwfhqf1bkyjqux]{Nature's
+      @UUID[Compendium.a5e-for-dnd5e.class-features.Item.n3fwfhqf1bkyjqux]{Природа's
       Bond}
       @UUID[Compendium.a5e-for-dnd5e.class-features.Item.3jdfihvtbyhbv9ez]{Wild
       Shape}</td>
@@ -358,17 +358,17 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d8 per druid level</p>
+      <p><strong>Кістки здоров’я: </strong>1d8 за кожний рівень друїда</p>
 
-      <p><strong>Hit Points at 1st Level:</strong> 8 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень:</strong> 8 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d8 (or 5) + your
-      Constitution modifier per druid level after 1st</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d8 (or 5) + your
+      Constitution модифікатор за кожний рівень друїда після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
       <p><strong>Armor:</strong> Light armor, medium armor, shields (you are
       never proficient with metal armors or shields)</p>
@@ -380,10 +380,10 @@ system:
 
       <p><strong>Saving Throws:</strong> Strength, Wisdom</p>
 
-      <p><strong>Skills:</strong> Choose two from Arcana, Animal Handling,
-      Insight, Medicine, Perception, Religion, and Survival</p>
+      <p><strong>Skills:</strong> Choose two from Аркана, Поводження з тваринами,
+      Проникливість, Медицина, Увага, Релігія, and Виживання</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
       <p>You begin the game with 115 gold which you can spend on your
       character's starting weapons, armor, and adventuring gear. You can select
@@ -435,7 +435,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: fR16NOYGq3CyMKdH
       type: Trait
@@ -506,7 +506,7 @@ system:
             count: 2
     - _id: RNW2KttjZEycYGmB
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -515,7 +515,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.92q69mibuicvsutc
     - _id: oUCmfmQuvQVvuVrO
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -523,49 +523,49 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.3jdfihvtbyhbv9ez
     - _id: LTxIT1FlHLU5733T
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.sygit0xifd4lbg3g
     - _id: DVCA0aIp1TYBkUOe
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 7
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.l3qkjox9faldupcy
     - _id: aMiCH8FJfCHXDlNk
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.zvtlcriqwdlzar7u
     - _id: 6BbX0sRBHSpTYxy7
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 11
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.86p2i6t3jepq1c3q
     - _id: DpnyzQMUZE4rQarY
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 15
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.8b9mc93q0f5wxsnk
     - _id: iBPWc5bNrlbwdCBe
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 18
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.y5r5pal11p8i9laz
     - _id: lhj0VRMJ5TJGXzD7
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

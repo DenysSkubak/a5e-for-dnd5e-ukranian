@@ -1,10 +1,10 @@
-name: Artificer
+name: Артифікер
 type: class
 img: icons/consumables/potions/flask-corked-blue-glow.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Artificer</strong></p>
+      <p><strong>Таблиця: Артифікер</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       8.16993%;"><col style="width: 9.15033%;"><col style="width:
@@ -16,11 +16,11 @@ system:
 
       <tr style="height: 33.5938px;">
 
-      <td style="text-align: center; height: 33.5938px;">Level</td>
+      <td style="text-align: center; height: 33.5938px;">Рівень</td>
 
-      <td style="text-align: center; height: 33.5938px;">Prof.<br>Bonus</td>
+      <td style="text-align: center; height: 33.5938px;">Бонус<br>майстерності</td>
 
-      <td style="text-align: center; height: 33.5938px;">Features</td>
+      <td style="text-align: center; height: 33.5938px;">Особливості</td>
 
       <td style="text-align: center; height:
       33.5938px;">Field<br>Discoveries</td>
@@ -32,7 +32,7 @@ system:
       <td style="text-align: center; height: 33.5938px;">Spells<br>Prepared</td>
 
       <td style="text-align: center; height: 33.5938px;">Maximum<br>Spell
-      Level</td>
+      Рівень</td>
 
       </tr>
 
@@ -472,53 +472,53 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice:</strong> 1d8 per artificer level</p>
+      <p><strong>Hit Dice:</strong> 1d8 за кожний рівень артифікера</p>
 
-      <p><strong>Hit Points at 1st Level:</strong> 8 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень:</strong> 8 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d8 (or 5) + your
-      Constitution modifier per artificer level after 1st</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d8 (or 5) + your
+      Constitution модифікатор за кожний рівень артифікера після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
-      <p><strong>Armor: </strong>Light armor, medium armor, shields&nbsp;</p>
+      <p><strong>Броня: </strong>Light armor, medium armor, shields&nbsp;</p>
 
-      <p><strong>Weapons: </strong>Simple weapons, darts, geared slingshots,
+      <p><strong>Зброя: </strong>Simple weapons, darts, geared slingshots,
       hand crossbows, heavy crossbows, light crossbows, light hammers, throwing
       daggers</p>
 
-      <p><strong>Tools: </strong>Thieves' tools, tinker's tools, one type of
+      <p><strong>Інструменти: </strong>Thieves' tools, tinker's tools, one type of
       artisan's tools or smith&rsquo;s tools</p>
 
-      <p><strong>Saving Throws: </strong>Constitution, Intelligence</p>
+      <p><strong>Ряткидки: </strong>Constitution, Intelligence</p>
 
-      <p><strong>Skills: </strong>Engineering, and choose three from Arcana,
-      Culture, History, Investigation, Medicine, Nature, Perception, Sleight of
+      <p><strong>Навички: </strong>Engineering, and choose three from Аркана,
+      Culture, Історія, Розслідування, Медицина, Природа, Увага, Sleight of
       Hand</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
       <p>You begin the game with 180 gold which you can spend on your
       character&rsquo;s starting weapons, armor, and adventuring gear. You can
       select your own gear or choose one of the following equipment packages.
-      Also consult the Suggested Equipment section of your chosen
+      Також звернися до розділу «Рекомендоване Equipment section of your chosen
       background.</p>
 
       <ul>
 
-      <li><strong>Blacksmith&rsquo;s Package (cost 158 gp): </strong>Mace, scale
+      <li><strong>Blacksmith&rsquo;s Package (cost 158 зм): </strong>Mace, scale
       mail, heavy shield, acid (vial), chain (10 feet), dungeoneer&rsquo;s pack,
       portable ram, sledgehammer, smith&rsquo;s tools, whetstone.</li>
 
-      <li><strong>Locksmith&rsquo;s Package (cost 160 gp): </strong>Dagger, 2
+      <li><strong>Locksmith&rsquo;s Package (cost 160 зм): </strong>Dagger, 2
       throwing daggers, leather brigandine, acid (vial), burglar&rsquo;s pack,
       caltrops (bag of 20), lock, steel mirror, thieves&rsquo; tools,
       tinker&rsquo;s tools.</li>
 
-      <li><strong>Scientist&rsquo;s Package (cost 173 gp): </strong>Light
+      <li><strong>Scientist&rsquo;s Package (cost 173 зм): </strong>Light
       crossbow and quiver with 20 bolts, 2 light hammers, leather brigandine,
       abacus, alchemist&rsquo;s supplies, ball bearings (bag of 1,000), 10
       pieces of chalk, common clothes, healer&rsquo;s satchel, lantern
@@ -556,7 +556,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: xSgRXsJnvr1fG2wN
       type: Trait
@@ -627,7 +627,7 @@ system:
             count: 3
     - _id: d6OUiCa2VbjF21Mk
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -636,7 +636,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.f2syblzgm6at7i7q
     - _id: 8njb3KJgo9YikRzd
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -644,77 +644,77 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.qgjbangzwrpldex1
     - _id: dzYJIrPjKC8i1DUK
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.8b655ktn2ya33ty2
     - _id: MBRG1UAfiWm0tpHl
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.omzf9ci0u2n9t78z
     - _id: LlC3h7Rynu5fsEyr
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 7
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.8344n8to469p2u9q
     - _id: 6gifOqNmSHzdjTnD
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.pckq0dgz9f1i3ic8
     - _id: HHCuMmeXA1tAXy0y
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 10
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.hqdm18drcn2fmoyf
     - _id: 3oq5Huz4FlKFRjUr
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 11
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.nkax3gnm65ajrbwp
     - _id: ytytFJWG1qsShA5E
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.m0e9lj5tv5bwguqa
     - _id: 8FVXRhPASnSDHqyx
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 14
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.5aet8ax1hmeb74dd
     - _id: GrMpTJxkZ5WlSust
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 17
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1at0l92yrr53jher
     - _id: FqWlEb3FlX0oocNG
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 18
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.dwgw8mwutwau2fm6
     - _id: 94t2QrtBPUHxUClh
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

@@ -1,10 +1,10 @@
-name: Ranger
+name: Рейнджер
 type: class
 img: icons/magic/nature/stealth-hide-eyes-green.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Ranger</strong></p>
+      <p><strong>Таблиця: Рейнджер</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       8.38095%;"><col style="width: 6.92196%;"><col style="width:
@@ -15,21 +15,21 @@ system:
 
       <tr style="height: 40.5938px;">
 
-      <td style="height: 40.5938px; text-align: center;">Level</td>
+      <td style="height: 40.5938px; text-align: center;">Рівень</td>
 
       <td style="height: 40.5938px; text-align: center;">
 
-      <p>Prof.<br>Bonus</p>
+      <p>Бонус<br>майстерності</p>
 
       </td>
 
-      <td style="height: 40.5938px; text-align: center;">Features</td>
+      <td style="height: 40.5938px; text-align: center;">Особливості</td>
 
       <td style="height: 40.5938px; text-align: center;">Knacks<br>Known</td>
 
-      <td style="height: 40.5938px; text-align: center;">Maneuvers<br>Known</td>
+      <td style="height: 40.5938px; text-align: center;">Відомі<br>маневри</td>
 
-      <td style="height: 40.5938px; text-align: center;">Maneuver<br>Degree</td>
+      <td style="height: 40.5938px; text-align: center;">Ступінь<br>маневру</td>
 
       </tr>
 
@@ -324,7 +324,7 @@ system:
       <td style="text-align: center;">+5</td>
 
       <td style="text-align: center;">Ability Score Improvement
-      @UUID[Compendium.a5e-for-dnd5e.class-features.Item.42mnvtlpr7214zk8]{Survivalcraft}</td>
+      @UUID[Compendium.a5e-for-dnd5e.class-features.Item.42mnvtlpr7214zk8]{Виживанняcraft}</td>
 
       <td style="text-align: center;">10</td>
 
@@ -395,7 +395,7 @@ system:
       <td style="text-align: center;">+6</td>
 
       <td style="text-align:
-      center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.3vmr46lknvbmsmgo]{Nature's
+      center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.3vmr46lknvbmsmgo]{Природа's
       Scion}</td>
 
       <td style="text-align: center;">12</td>
@@ -410,42 +410,42 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d10 per ranger level</p>
+      <p><strong>Кістки здоров’я: </strong>1d10 за кожний рівень рейнджера</p>
 
-      <p><strong>Hit Points at 1st Level:</strong> 10 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень:</strong> 10 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels:</strong> 1d10 (or 6) + your
-      Constitution modifier per ranger level after 1st</p>
+      <p><strong>Hit Points at Higher Рівеньs:</strong> 1d10 (or 6) + your
+      Constitution модифікатор за кожний рівень рейнджера після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
       <p><strong>Armor:</strong> Light armor, medium armor shields</p>
 
-      <p><strong>Weapons: </strong>Simple weapons, martial weapons</p>
+      <p><strong>Зброя: </strong>Simple weapons, martial weapons</p>
 
-      <p><strong>Tools: </strong>Choose one from herbalism kit navigator's kit,
+      <p><strong>Інструменти: </strong>Choose one from herbalism kit navigator's kit,
       poisoner's kit, and a musical instrument</p>
 
-      <p><strong>Saving Throws: </strong>Strength, Dexterity</p>
+      <p><strong>Ряткидки: </strong>Strength, Dexterity</p>
 
-      <p><strong>Skills: </strong>Choose three from Animal Handling, Athletics,
-      Insight, Investigation, Nature, Perception, Stealth, and Survival</p>
+      <p><strong>Навички: </strong>Choose three from Поводження з тваринами, Атлетика,
+      Проникливість, Розслідування, Природа, Увага, Скрадання, and Виживання</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
-      <p>You begin the game with 150 gp. You can select your own gear or choose
-      one of the following equipment packages. Also consult the Suggested
+      <p>You begin the game with 150 зм. Ти можеш обрати власне спорядження або взяти
+      one of the following equipment packages. Також звернися до розділу «Рекомендоване
       Equipment section of your chosen background.</p>
 
       <ul>
 
-      <li><strong>Deep Delver's Set (Cost 144 gp):</strong> Longbow and quiver
+      <li><strong>Deep Delver's Set (Cost 144 зм):</strong> Longbow and quiver
       with 20 arrows, scimitar, shortsword, scale mail, dungeoneer's pack</li>
 
-      <li><strong>Marksman's Set (Cost 107 gp):</strong> Battleaxe, longbow and
+      <li><strong>Marksman's Set (Cost 107 зм):</strong> Battleaxe, longbow and
       quiver with 20 arrows, scimitar, padded leather, explorer's pack</li>
 
       </ul>
@@ -473,7 +473,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: PveZrWfIPOEWkReL
       type: Trait
@@ -540,7 +540,7 @@ system:
             count: 3
     - _id: Ex5ktsy2hmqxtp5b
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -549,7 +549,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.t7ujv9cc4us40fj9
     - _id: qAXSfvMkcHE8LJ2z
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -558,21 +558,21 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.8qhg7efkuie3fwh2
     - _id: HUSu8akk12JEnis8
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.22sfydzwlg85ej63
     - _id: uTyyoHYb9x78Cfv4
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.b7og14wchzvcfesr
     - _id: x0z0cLftjaVabXoX
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
@@ -580,14 +580,14 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.pyb35b6666ivp8gh
     - _id: ZpOvkOgpj1jXmwx8
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 8
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.u10lrtmc44jl0sr9
     - _id: 1M1UtBJc4sHW5zoB
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
@@ -595,63 +595,63 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.0ct3wx6z44hl5tzf
     - _id: NEVTHCWhW6iGdlSS
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 10
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.cmiy3m3m5cgyiute
     - _id: RZE9IW7Z7UH7YVIU
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 12
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.2j94ihjaz8xk670f
     - _id: DVmKVDqRVg7OA33P
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.f9lork2o0ubx2tyd
     - _id: UdaUdoD9ShruG1jr
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 14
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.bnlspm0n2uqk84nz
     - _id: G7dEzw1blxpT6wZ3
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 16
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.42mnvtlpr7214zk8
     - _id: xwT3uH98mWULOH9g
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 17
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.siwwufvr4sf8lg5a
     - _id: vYvhtOnEiqPVsDU7
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 18
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.l7ldc1hj2cd0s8ew
     - _id: 0RxeMbVVV8kFzkz3
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 19
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.kstffdbvc6jch7mu
     - _id: 6fLbZp8r3jYvT096
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

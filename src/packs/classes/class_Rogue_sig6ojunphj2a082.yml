@@ -1,11 +1,11 @@
 folder: null
-name: Rogue
+name: Шахрай
 type: class
 img: icons/skills/social/theft-pickpocket-bribery-brown.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Rogue</strong></p>
+      <p><strong>Таблиця: Шахрай</strong></p>
 
       <table style="width: 100%; height: 369.532px;" border="1"><colgroup><col
       style="width: 9.49612%;"><col style="width: 8.52713%;"><col style="width:
@@ -17,19 +17,19 @@ system:
 
       <tr style="height: 33.5938px;">
 
-      <td style="height: 33.5938px; text-align: center;">Level</td>
+      <td style="height: 33.5938px; text-align: center;">Рівень</td>
 
-      <td style="height: 33.5938px; text-align: center;">Prof.<br>Bonus</td>
+      <td style="height: 33.5938px; text-align: center;">Бонус<br>майстерності</td>
 
-      <td style="height: 33.5938px; text-align: center;">Features</td>
+      <td style="height: 33.5938px; text-align: center;">Особливості</td>
 
       <td style="height: 33.5938px; text-align: center;">Sneak<br>Attack</td>
 
       <td style="height: 33.5938px; text-align: center;">Tricks<br>Known</td>
 
-      <td style="height: 33.5938px; text-align: center;">Maneuvers<br>Known</td>
+      <td style="height: 33.5938px; text-align: center;">Відомі<br>маневри</td>
 
-      <td style="height: 33.5938px; text-align: center;">Maneuver<br>Degree</td>
+      <td style="height: 33.5938px; text-align: center;">Ступінь<br>маневру</td>
 
       </tr>
 
@@ -442,19 +442,19 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d8 per rogue level</p>
+      <p><strong>Кістки здоров’я: </strong>1d8 за кожний рівень шахрая</p>
 
-      <p><strong>Hit Points at 1st Level: </strong>8 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: </strong>8 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d8 (or 5) + your
-      Constitution modifier per rogue level after first</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d8 (or 5) + your
+      Constitution модифікатор per rogue level after first</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
-      <p><strong>Armor: </strong>Light armor</p>
+      <p><strong>Броня: </strong>Light armor</p>
 
       <p><strong>Weapons:&nbsp;</strong>Simple weapons, dueling daggers, hand
       crossbows, rapiers, sabres, shortswords, throwing daggers</p>
@@ -464,16 +464,16 @@ system:
 
       <p><strong>Saving Throws:&nbsp;</strong>Dexterity, Intelligence</p>
 
-      <p><strong>Skills:&nbsp;</strong>Choose four from Acrobatics, Athletics,
-      Culture, Deception, Engineering, Insight, Intimidation, Investigation,
-      Perception, Performance, Persuasion, Sleight of Hand, and Stealth</p>
+      <p><strong>Skills:&nbsp;</strong>Choose four from Акробатика, Атлетика,
+      Culture, Обман, Engineering, Проникливість, Залякування, Розслідування,
+      Увага, Виступ, Переконання, Спритність рук, and Скрадання</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
       <p>You begin the game with 125 gold which you can spend on your
       character&rsquo;s starting weapons, armor, and adventuring gear. You can
       select your own gear or choose one of the following equipment packages.
-      Also consult the Suggested Equipment section of your chosen
+      Також звернися до розділу «Рекомендоване Equipment section of your chosen
       background.</p>
 
       <ul>
@@ -511,7 +511,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: dlKyaIRcZsvTSwf2
       type: Trait
@@ -584,7 +584,7 @@ system:
             count: 4
     - _id: D3IGfHbYZhpQdFLf
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -592,7 +592,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.4727pnvz5nwn3h23
     - _id: I44tIp19qZ7HittP
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -601,49 +601,49 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.m0l76nf5hlm54bck
     - _id: FNUUMUCxKChSXpmU
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.byt94a4v23q90413
     - _id: ZayPMY0s7m9dRIHL
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7kl58aphfakupnn1
     - _id: PU4aG6FOlW4Lkz3X
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.e5mepl86zsavxhrp
     - _id: g6qwEtMpxdqlt1Dk
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 7
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1sefig5jtx2injy0
     - _id: dM12jNyjgKQCaNWk
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 8
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.0k3qurx2exzg127v
     - _id: 1PO2UwK2Dmj0uBlC
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 10
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.p5l9usj384rd1qaf
     - _id: edg146fJV9NXV6Rl
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 11
       configuration:
         items:
@@ -651,28 +651,28 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.mc153rkyv5li85dh
     - _id: 1Axe5dUA8JnmlLor
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 14
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.mfqnpwmprkj1dex6
     - _id: 2G86P5sNhPsYZAP6
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 15
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.04nkloa9suebak6h
     - _id: XeymwUG9SyN7V6EM
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 18
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.bb311rj7pwhnt5m6
     - _id: GB8dYIhIMApKXFwT
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

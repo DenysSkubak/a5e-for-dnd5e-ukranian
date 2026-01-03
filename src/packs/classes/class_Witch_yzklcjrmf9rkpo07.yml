@@ -1,4 +1,4 @@
-name: Witch
+name: Відьма
 type: class
 img: icons/tools/cooking/cauldron-empty.webp
 system:
@@ -14,11 +14,11 @@ system:
 
       <tr style="text-align: center; height: 33.5938px;">
 
-      <td style="height: 33.5938px;">Level</td>
+      <td style="height: 33.5938px;">Рівень</td>
 
-      <td style="height: 33.5938px;">Prof.<br>Bonus</td>
+      <td style="height: 33.5938px;">Бонус<br>майстерності</td>
 
-      <td style="height: 33.5938px;">Features</td>
+      <td style="height: 33.5938px;">Особливості</td>
 
       <td style="height: 33.5938px;">Magical Mysteries<br>Known</td>
 
@@ -307,47 +307,47 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d6 per witch level</p>
+      <p><strong>Кістки здоров’я: </strong>1d6 за кожний рівень відьми</p>
 
-      <p><strong>Hit Points at 1st Level: </strong>6 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: </strong>6 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d6 (or 4) + your
-      Constitution modifier per witch level after first</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d6 (or 4) + your
+      Constitution модифікатор per witch level after first</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
-      <p><strong>Armor: </strong>Light armor</p>
+      <p><strong>Броня: </strong>Light armor</p>
 
-      <p><strong>Weapons: </strong>Daggers, darts, sickles, slings, and
+      <p><strong>Зброя: </strong>Daggers, darts, sickles, slings, and
       quarterstaffs</p>
 
-      <p><strong>Tools: </strong>Choose one from an artisan's tool, a musical
+      <p><strong>Інструменти: </strong>Choose one from an artisan's tool, a musical
       instrument, an herbalism kit, or a poisoner's kit</p>
 
-      <p><strong>Saving Throws: </strong>Wisdom and either Intelligence or
+      <p><strong>Ряткидки: </strong>Wisdom and either Intelligence or
       Charisma</p>
 
-      <p><strong>Skills: </strong>Choose two from Animal Handling, Arcana,
-      Deception, History, Insight, intimidation, Medicine, Nature, Persuasion,
-      or Religion</p>
+      <p><strong>Навички: </strong>Choose two from Поводження з тваринами, Аркана,
+      Обман, Історія, Проникливість, intimidation, Медицина, Природа, Переконання,
+      or Релігія</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
-      <p>You begin the game with 100gp which you can spend on your character's
+      <p>You begin the game with 100зм which you can spend on your character's
       starting weapons, armor, and adventuring gear. You can select your own
       gear or choose one of the following equipment packages. Also consult the
       Suggested Equipment section of your chosen background.</p>
 
       <ul>
 
-      <li><strong>Arcane Student's Set (Cost 89gp):</strong> Quarterstaff,
+      <li><strong>Arcane Student's Set (Cost 89зм):</strong> Quarterstaff,
       abacus, clothes (fine), ink (1-ounce bottle), ink pen, orb arcane focus,
       10 sheets of parchment, sack, spellbook</li>
 
-      <li><strong>Magical Acolyte's Set (77gp): </strong>Quarterstaff, dagger 2
+      <li><strong>Magical Acolyte's Set (77зм): </strong>Quarterstaff, dagger 2
       flasks of holy water, healer's satchel, amulet divine focus, priest's
       pack</li>
 
@@ -396,7 +396,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: YazDUQmralvqI10k
       type: Trait
@@ -469,7 +469,7 @@ system:
             count: 2
     - _id: 6JE7WzQZYjtotQ9q
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -477,14 +477,14 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.9qbeuh6ddmny8ezv
     - _id: s2Wi85MeBgRifK9s
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.rx9h6syyexdx88xo
     - _id: tYvZOtQSnwnoeHzJ
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
@@ -492,7 +492,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.vmkfr5u0neendp2v
     - _id: 66bavLNxRJ7Yn9rG
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
@@ -500,28 +500,28 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.9xnbz4ye27kxob0y
     - _id: pnJbSHm5yUKYli4k
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.booj6izdxt9v1ysb
     - _id: 2N24yuOVo5lFcmAo
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 11
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.vgx9qhqph9937nov
     - _id: XePkCQZXP1eDax7K
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 15
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.cdhxn05f8c9k96g7
     - _id: miN8rTHHmvGnVtjM
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

@@ -1,10 +1,10 @@
-name: Bard
+name: Бард
 type: class
 img: icons/tools/instruments/lute-gold-brown.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Bard</strong></p>
+      <p><strong>Таблиця: Бард</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       9.68992%;"><col style="width: 12.9845%;"><col style="width:
@@ -15,11 +15,11 @@ system:
 
       <tr style="text-align: center; height: 33.5938px;">
 
-      <td style="height: 33.5938px;">Level</td>
+      <td style="height: 33.5938px;">Рівень</td>
 
-      <td style="height: 33.5938px;">Prof.<br>Bonus</td>
+      <td style="height: 33.5938px;">Бонус<br>майстерності</td>
 
-      <td style="height: 33.5938px;">Features</td>
+      <td style="height: 33.5938px;">Особливості</td>
 
       <td style="height: 33.5938px;">Battle<br>Hymns</td>
 
@@ -389,17 +389,17 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice:</strong> 1d8 per bard level</p>
+      <p><strong>Hit Dice:</strong> 1d8 за кожний рівень барда</p>
 
-      <p><strong>Hit Points at 1st Level:</strong> 8 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень:</strong> 8 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your
-      Constitution modifier per bard level after 1st</p>
+      <p><strong>Hit Points at Higher Рівеньs:</strong> 1d8 (or 5) + your
+      Constitution модифікатор за кожний рівень барда після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
       <p><strong>Armor:</strong> Light armor Weapons: Simple weapons, hand
       crossbows, longswords, rapiers, shortswords</p>
@@ -410,18 +410,18 @@ system:
       <p><strong>Saving Throws:</strong> Dexterity, Charisma Skills: Choose any
       three</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
-      <p>You begin the game with 135 gp. You can select your own gear or choose
-      one of the following equipment packages. Also consult the Suggested
+      <p>You begin the game with 135 зм. Ти можеш обрати власне спорядження або взяти
+      one of the following equipment packages. Також звернися до розділу «Рекомендоване
       Equipment section of your chosen background.</p>
 
       <ul>
 
-      <li><strong>Agitator's Set (Cost 111 gp):</strong> Dagger, hand crossbow
+      <li><strong>Agitator's Set (Cost 111 зм):</strong> Dagger, hand crossbow
       and quiver with 20 bolts, padded cloth, entertainer's pack, flute</li>
 
-      <li><strong>Ambassador's Set (Cost 91 gp):</strong> Longsword, shortbow
+      <li><strong>Ambassador's Set (Cost 91 зм):</strong> Longsword, shortbow
       with 20 arrows, padded leather, diplomat's pack, violin</li>
 
       </ul>
@@ -449,7 +449,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: bf4FI0KafO2zzGae
       type: Trait
@@ -514,7 +514,7 @@ system:
             count: 3
     - _id: FAS2kWInIvPWIGWk
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -524,7 +524,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.3qc1rqk8rwvl8van
     - _id: keRFbku5OwYImBWg
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -533,7 +533,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.fzmi41u2jx3mxtji
     - _id: HMdsIW7R4rxupJmO
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
@@ -541,7 +541,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.n1y7l6usa4j8sjnn
     - _id: HxQNRXkDSgxLdHFR
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
@@ -549,49 +549,49 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.oer5fqsdap9ai3v5
     - _id: dE7JGVGipEtH4Etn
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.dybu9qjwezqh3r5l
     - _id: NB8Dac7c5bLHZAAW
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 7
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1zensmbiduq06vqm
     - _id: o4scFfMvnLMMLG1m
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 8
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.qp4y5b36beo1vr46
     - _id: fs6Ol4NApzn3unHo
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 11
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.hd5w4jpsyvtkunwg
     - _id: 239lZwalUeOKHp6b
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7m2n3wg6wrvitzxd
     - _id: K3LvhshYhvfx2BhV
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.cle0kfe4bl9jj1v1
     - _id: IPwQamh9mWtdRx1L
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 17
       configuration:
         items:

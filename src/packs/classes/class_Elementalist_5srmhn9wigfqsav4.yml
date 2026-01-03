@@ -1,11 +1,11 @@
 folder: null
-name: Elementalist
+name: Елементаліст
 type: class
 img: icons/magic/symbols/elements-air-earth-fire-water.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Elementalist</strong></p>
+      <p><strong>Таблиця: Елементаліст</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       8.34236%;"><col style="width: 10.9426%;"><col style="width:
@@ -18,11 +18,11 @@ system:
 
       <tr style="text-align: center; height: 33.5938px;">
 
-      <td style="height: 33.5938px;">Level</td>
+      <td style="height: 33.5938px;">Рівень</td>
 
-      <td style="height: 33.5938px;">Prof.<br>Bonus</td>
+      <td style="height: 33.5938px;">Бонус<br>майстерності</td>
 
-      <td style="height: 33.5938px;">Features</td>
+      <td style="height: 33.5938px;">Особливості</td>
 
       <td style="height: 33.5938px;">
 
@@ -60,7 +60,7 @@ system:
 
       <p>Spell</p>
 
-      <p>Level</p>
+      <p>Рівень</p>
 
       </td>
 
@@ -561,17 +561,17 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice:</strong> 1d8 per elementalist level</p>
+      <p><strong>Hit Dice:</strong> 1d8 за кожний рівень елементаліста</p>
 
-      <p><strong>Hit Points at 1st Level:</strong> 8 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень:</strong> 8 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your
-      Constitution modifier per elementalist level after 1st</p>
+      <p><strong>Hit Points at Higher Рівеньs:</strong> 1d8 (or 5) + your
+      Constitution модифікатор за кожний рівень елементаліста після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
       <p><strong>Armor:</strong> Light armor</p>
 
@@ -581,13 +581,13 @@ system:
 
       <p><strong>Saving Throws:</strong> Charisma, Constitution</p>
 
-      <p><strong>Skills:</strong> Choose two skills from Arcana, Athletics,
-      Insight, Intimidation, Nature, Persuasion, and Survival</p>
+      <p><strong>Skills:</strong> Choose two skills from Аркана, Атлетика,
+      Проникливість, Залякування, Природа, Переконання, and Виживання</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
-      <p>You begin the game with 100 gp. You can select your own gear or choose
-      one of the following equipment packages. Also consult the Suggested
+      <p>You begin the game with 100 зм. Ти можеш обрати власне спорядження або взяти
+      one of the following equipment packages. Також звернися до розділу «Рекомендоване
       Equipment section of your chosen background.</p>
 
       <ul>
@@ -632,7 +632,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: EEUy9gYDi1LityGV
       type: Trait
@@ -681,7 +681,7 @@ system:
             count: 2
     - _id: QINPBe2QH4Uhdt0D
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -692,7 +692,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.rosj8xvi8bstdegy
     - _id: 2gqd4uvhtte87J9N
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -700,49 +700,49 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.smfymy9fz19sc0hh
     - _id: kRUA8pOEwRHNcHrt
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.z2q6kb24eks8nfy5
     - _id: lInUflJwjH2dapyA
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.qi2lr8r488mf01un
     - _id: MoQdV7SfJ7FqUSTf
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.rx1wvajk4j70trgb
     - _id: JXMJOCmNGxzyWwOV
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 11
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1crnox672gxav694
     - _id: fRcfLtaB1G6ROV5u
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.lu4jj4ii9qsl0oo0
     - _id: cdD92PhdpTzpWUT9
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 17
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.6cdgfoktap5bxuwz
     - _id: 71nOMsWVnxjj67F2
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

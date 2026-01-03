@@ -1,11 +1,11 @@
 folder: null
-name: Cleric
+name: Клірик
 type: class
 img: icons/commodities/treasure/token-gold-cross.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Cleric</strong></p>
+      <p><strong>Таблиця: Клірик</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       12.3729%;"><col style="width: 19.8305%;"><col style="width:
@@ -15,11 +15,11 @@ system:
 
       <tr style="height: 33.5938px;">
 
-      <td style="text-align: center;">Level</td>
+      <td style="text-align: center;">Рівень</td>
 
       <td style="text-align: center;">Proficiency Bonus</td>
 
-      <td style="text-align: center;">Features</td>
+      <td style="text-align: center;">Особливості</td>
 
       <td style="text-align: center;">Signs Known</td>
 
@@ -315,21 +315,21 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d8 per cleric level</p>
+      <p><strong>Кістки здоров’я: </strong>1d8 за кожний рівень клірика</p>
 
-      <p><strong>Hit Points at 1st Level: </strong>8 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: </strong>8 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d8 (or 5) + your
-      Constitution modifier per cleric level after first</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d8 (or 5) + your
+      Constitution модифікатор per cleric level after first</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
-      <p><strong>Armor: </strong>None</p>
+      <p><strong>Броня: </strong>None</p>
 
-      <p><strong>Weapons: </strong>Simple weapons</p>
+      <p><strong>Зброя: </strong>Simple weapons</p>
 
       <p><strong>Tools:</strong> Choose one from herbalism kit, an artisan tool,
       or a musical instrument</p>
@@ -337,10 +337,10 @@ system:
       <p><strong>Saving Throws:</strong> Wisdom, and either Intelligence or
       Charisma</p>
 
-      <p><strong>Skills:</strong> Choose two from Culture, History, Insight,
-      Medicine, Persuasion, and Religion</p>
+      <p><strong>Skills:</strong> Choose two from Culture, Історія, Проникливість,
+      Медицина, Переконання, and Релігія</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
       <p>You begin the game with 125 gold which you can spend on your
       character's starting weapons, armor, and adventuring gear. You can select
@@ -392,7 +392,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: qA37Lvr1FiK7U57z
       type: Trait
@@ -447,7 +447,7 @@ system:
             count: 2
     - _id: OdHwcpeBrppsU0ms
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -456,7 +456,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.axllcphld6abmm1p
     - _id: t6GSEa6ybgBEzYrN
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -464,42 +464,42 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.s4iiatrup3e3virw
     - _id: 8wuhZ4a5dL72x4FV
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.319mwkz0dd6sznnv
     - _id: HjXcBzM09rWHksku
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.nghsyyxk1mmuud2x
     - _id: iqR3ao1t0TR87U5w
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.zezsezm2e0azb3ty
     - _id: hOsMavJlRYZBQcDw
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.98ceg9uqvmr74u1z
     - _id: XyobD4cB71ULHMUC
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 10
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.2jlxytgjvgjnafvr
     - _id: aU6mU5qLaSPnIuye
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

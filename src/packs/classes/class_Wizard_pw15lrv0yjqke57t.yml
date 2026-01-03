@@ -1,5 +1,5 @@
 folder: null
-name: Wizard
+name: Чарівник
 type: class
 img: icons/weapons/wands/wand-carved-stone-shard.webp
 system:
@@ -13,11 +13,11 @@ system:
 
       <tr style="height: 33.5938px;">
 
-      <td style="text-align: center;">Level</td>
+      <td style="text-align: center;">Рівень</td>
 
-      <td style="text-align: center;">Prof.<br>Bonus</td>
+      <td style="text-align: center;">Бонус<br>майстерності</td>
 
-      <td style="text-align: center;">Features</td>
+      <td style="text-align: center;">Особливості</td>
 
       <td style="text-align: center;">Studies<br>Known</td>
 
@@ -305,21 +305,21 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d6 per wizard level</p>
+      <p><strong>Кістки здоров’я: </strong>1d6 за кожний рівень чарівника</p>
 
-      <p><strong>Hit Points at 1st Level: </strong>6 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: </strong>6 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d6 (or 4) + your
-      Constitution modifier per wizard level after first</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d6 (or 4) + your
+      Constitution модифікатор per wizard level after first</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
       <p><strong>Armor: None</strong></p>
 
-      <p><strong>Weapons: </strong>Daggers, darts, sickles, slings, and
+      <p><strong>Зброя: </strong>Daggers, darts, sickles, slings, and
       quarterstaffs</p>
 
       <p><strong>Tools:&nbsp;</strong>One artisan's tool of your choice from
@@ -328,12 +328,12 @@ system:
 
       <p><strong>Saving Throws:&nbsp;</strong>Intelligence, Wisdom</p>
 
-      <p><strong>Skills:&nbsp;</strong>Choose two from Arcana, History, Insight,
-      Investigation, Medicine, and Religion</p>
+      <p><strong>Skills:&nbsp;</strong>Choose two from Аркана, Історія, Проникливість,
+      Розслідування, Медицина, and Релігія</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
-      <p>You begin the game with 100gp which you can spend on your character's
+      <p>You begin the game with 100зм which you can spend on your character's
       starting weapons, armor, and adventuring gear. You can select your own
       gear or choose one of the following equipment packages. Also consult the
       Suggested Equipment section of your chosen background.</p>
@@ -383,7 +383,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: VrINCvOufZZdjYwP
       type: Trait
@@ -438,7 +438,7 @@ system:
             count: 2
     - _id: hbqSHr3iNLx4dDYM
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -446,70 +446,70 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.iqlgotutphoratct
     - _id: 7S4WTFEqbziSLhW1
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.szxgzc4zmt9zam9f
     - _id: Om6nFovHqsfKiQIo
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1u4hyjbgjmvl22js
     - _id: FTNlYwP0wzw4skUG
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.iojeid79x6ghgcw9
     - _id: KTizN33fT3uywehy
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 7
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.aap4al37tcw2f7o6
     - _id: DDruZn5BUDK0uh67
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.nzb62jeh28fulijh
     - _id: E75PMObZ8lTF0kuv
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.mzxxtpgwqysuu768
     - _id: Q4DCWOwbHkMCmiNI
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 15
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.5qj66vxpx6fjz1fz
     - _id: qXiDIK724Qqf8DP2
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 18
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.qbv1libonkv9g5aq
     - _id: 72k5JfFC5r5ILDC2
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 19
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.zdivfoqxcey624ql
     - _id: tWyAeEQF0KRBGfJv
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

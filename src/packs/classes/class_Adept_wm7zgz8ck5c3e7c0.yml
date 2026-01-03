@@ -1,10 +1,10 @@
-name: Adept
+name: Адепт
 type: class
 img: icons/skills/melee/unarmed-punch-fist.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Adept</strong></p>
+      <p><strong>Таблиця: Адепт</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       5.46747%;"><col style="width: 6.11071%;"><col style="width:
@@ -17,23 +17,23 @@ system:
 
       <tr>
 
-      <td style="text-align: center;">Level</td>
+      <td style="text-align: center;">Рівень</td>
 
-      <td style="text-align: center;">Prof.<br>Bonus</td>
+      <td style="text-align: center;">Бонус<br>майстерності</td>
 
-      <td style="text-align: center;">Martial<br>Arts</td>
+      <td style="text-align: center;">Бойові<br>мистецтва</td>
 
-      <td style="text-align: center;">Features</td>
+      <td style="text-align: center;">Особливості</td>
 
-      <td style="text-align: center;">Techniques<br>Known</td>
+      <td style="text-align: center;">Відомі<br>техніки</td>
 
-      <td style="text-align: center;">Focus<br>Features</td>
+      <td style="text-align: center;">Focus<br>Особливості</td>
 
-      <td style="text-align: center;">Bonus<br>Exertion</td>
+      <td style="text-align: center;">Додаткова<br>напруга</td>
 
-      <td style="text-align: center;">Maneuvers<br>Known</td>
+      <td style="text-align: center;">Відомі<br>маневри</td>
 
-      <td style="text-align: center;">Maneuver<br>Degree</td>
+      <td style="text-align: center;">Ступінь<br>маневру</td>
 
       </tr>
 
@@ -499,7 +499,7 @@ system:
       <td style="text-align: center;">1d10</td>
 
       <td style="text-align:
-      center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.erkupn5aotw8mkx2]{Grandmaster}</td>
+      center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.erkupn5aotw8mkx2]{Великий майстер}</td>
 
       <td style="text-align: center;">10</td>
 
@@ -517,43 +517,43 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d8 per adept level&nbsp;</p>
+      <p><strong>Кістки здоров’я: </strong>1d8 за кожний рівень адепта&nbsp;</p>
 
-      <p><strong>Hit Points at 1st Level: </strong>8 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: </strong>8 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d8 (or 5) + your
-      Constitution modifier per adept level after 1st</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d8 (or 5) + your
+      Constitution модифікатор за кожний рівень адепта після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
-      <p><strong>Armor: </strong>None</p>
+      <p><strong>Броня: </strong>None</p>
 
-      <p><strong>Weapons: </strong>Simple weapons, punching daggers,
+      <p><strong>Зброя: </strong>Simple weapons, punching daggers,
       shortswords, throwing daggers&nbsp;</p>
 
-      <p><strong>Tools: </strong>Choose one type of artisan&rsquo;s tools or one
+      <p><strong>Інструменти: </strong>Choose one type of artisan&rsquo;s tools or one
       musical instrument</p>
 
-      <p><strong>Saving Throws: </strong>Strength, Dexterity&nbsp;</p>
+      <p><strong>Ряткидки: </strong>Strength, Dexterity&nbsp;</p>
 
-      <p><strong>Skills: </strong>Choose two from Acrobatics, Athletics,
-      History, Insight, Perception, Religion, and Stealth</p>
+      <p><strong>Навички: </strong>Choose two from Акробатика, Атлетика,
+      Історія, Проникливість, Увага, Релігія, and Скрадання</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
-      <p>You begin the game with 30 gp. You can select your own gear or choose
-      one of the following equipment packages. Also consult the Suggested
+      <p>Ти починаєш гру з 30 зм. Ти можеш обрати власне спорядження або взяти
+      one of the following equipment packages. Також звернися до розділу «Рекомендоване
       Equipment section of your chosen background.</p>
 
       <ul>
 
-      <li><strong>Dungeoneer&rsquo;s Set (Cost 18 gp): </strong>Quarterstaff, 10
+      <li><strong>Dungeoneer&rsquo;s Set (Cost 18 зм): </strong>Quarterstaff, 10
       darts, dungeoneer&rsquo;s pack</li>
 
-      <li><strong>Explorer&rsquo;s Set (Cost 25 gp): </strong>Shortsword, 10
+      <li><strong>Explorer&rsquo;s Set (Cost 25 зм): </strong>Shortsword, 10
       darts, explorer&rsquo;s pack</li>
 
       </ul>
@@ -581,7 +581,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: KQHq5QQiCM5w36rY
       type: Trait
@@ -636,7 +636,7 @@ system:
             count: 2
     - _id: J0JYuKKdOgfPEgcm
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -644,7 +644,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.sjprqaclatqthzlh
     - _id: 7IFlpApzU40Fd6eX
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -653,7 +653,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ec1turlvb2g9ivgd
     - _id: BaslEebMZJ6DkINq
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
@@ -661,42 +661,42 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.k9a86qhku4stw0kg
     - _id: gc786nJdCT0NJjqL
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.nzvdvnq1bf86p3eb
     - _id: 1zgk7Lm09DYvTW04
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 7
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.u729rb1wfnlm6blo
     - _id: oE4LegXFcOnxJOBZ
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.g4v2e5tdwp4nc84o
     - _id: f3YI9e6lu23CCYUJ
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 15
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.6n9s9xjyovuwubmt
     - _id: myx8LGijX4mvK0Yg
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.erkupn5aotw8mkx2
     - _id: ufUm7ECR4V2ZGTwH
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:

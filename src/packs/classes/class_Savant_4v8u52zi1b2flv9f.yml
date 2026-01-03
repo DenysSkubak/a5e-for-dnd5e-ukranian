@@ -1,11 +1,11 @@
 folder: null
-name: Savant
+name: Савант
 type: class
 img: icons/skills/trades/academics-investigation-puzzles.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Savant</strong></p>
+      <p><strong>Таблиця: Савант</strong></p>
 
       <table style="width: 100%; height: 467.6px;" border="1"><colgroup><col
       style="width: 12.2973%;"><col style="width: 16.491%;"><col style="width:
@@ -16,7 +16,7 @@ system:
 
       <tr style="height: 47.6px;">
 
-      <td style="text-align: center; height: 47.6px;">Level</td>
+      <td style="text-align: center; height: 47.6px;">Рівень</td>
 
       <td style="text-align: center; height: 47.6px;">
 
@@ -26,7 +26,7 @@ system:
 
       </td>
 
-      <td style="text-align: center; height: 47.6px;">Features</td>
+      <td style="text-align: center; height: 47.6px;">Особливості</td>
 
       <td style="text-align: center; height: 47.6px;">
 
@@ -384,19 +384,19 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d8 per savant level</p>
+      <p><strong>Кістки здоров’я: </strong>1d8 за кожний рівень саваната</p>
 
-      <p><strong>Hit Points at 1st Level: </strong>8 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: </strong>8 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d8 (or 5) + your
-      Constitution modifier per savant level after first</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d8 (or 5) + your
+      Constitution модифікатор per savant level after first</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
-      <p><strong>Armor: </strong>None</p>
+      <p><strong>Броня: </strong>None</p>
 
       <p><strong>Weapons:&nbsp;</strong>Simple weapons, improvised weapons</p>
 
@@ -404,11 +404,11 @@ system:
 
       <p><strong>Saving Throws:</strong> Dexterity, Intelligence</p>
 
-      <p><strong>Skills:</strong> Choose three from Arcana, Culture, Deception,
-      Engineering, Insight, Investigation, Medicine, Perception, Performance,
-      Persuasion, and Sleight of Hand</p>
+      <p><strong>Skills:</strong> Choose three from Аркана, Culture, Обман,
+      Engineering, Проникливість, Розслідування, Медицина, Увага, Виступ,
+      Переконання, and Спритність рук</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
       <p>You begin the game with 125 gold which you can spend on your
       character's starting weapons, armor, and adventuring gear. You can select
@@ -417,11 +417,11 @@ system:
 
       <ul>
 
-      <li><strong>Bravo&rsquo;s Set (cost 137 gp):</strong> scimitar, 2 daggers,
+      <li><strong>Bravo&rsquo;s Set (cost 137 зм):</strong> scimitar, 2 daggers,
       blowgun, pistol, whip, 20 shots (bullets and firedust), explorer&rsquo;s
       pack, leather armor, disguise kit</li>
 
-      <li><strong>Thinker&rsquo;s Set (cost 146 gp):</strong> mace (a cane), 2
+      <li><strong>Thinker&rsquo;s Set (cost 146 зм):</strong> mace (a cane), 2
       daggers, carbine, 20 shots (bullets and firedust), burglar&rsquo;s pack,
       leather armor, thieves&rsquo; tools</li>
 
@@ -450,7 +450,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: IoxF5wsxZg60BXh8
       type: Trait
@@ -514,7 +514,7 @@ system:
             count: 3
     - _id: uyrjdHC9KmMVKpoH
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -523,14 +523,14 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.545vebtg2n9iqk8n
     - _id: kVQAv7puJ1c11YxS
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.yuez73yrav9ed6w9
     - _id: lvhs3UZ9gKWEabZn
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
@@ -538,21 +538,21 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.3442crduh9j4alty
     - _id: t98qjMo2tLzPtTTB
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.n31lk280zoltocah
     - _id: UEiUb8tDHj5RbRlA
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.asjk6epfoj4vtdhk
     - _id: BA7r4MObgE3AAsE9
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 7
       configuration:
         items:
@@ -560,42 +560,42 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.a9ksr1pxztezdm5q
     - _id: RoZBlKWNS2a6NWat
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.wrddy2h89soja1pz
     - _id: XwlA1A56LdsY0opm
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 10
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.f30ljspjy6d44ywq
     - _id: OLrSgEXraj1RubrM
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.31uvhl7cngfcia85
     - _id: EMcKutCi8zgQS2i8
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 15
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.x6lhfpalcln2p2jr
     - _id: Bt3Xid6J6Mji1Dct
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 18
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.4fq841b0b76y9ep8
     - _id: 9GZXosED8BFXf0Ze
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

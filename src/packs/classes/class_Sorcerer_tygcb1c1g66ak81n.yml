@@ -1,11 +1,11 @@
 folder: null
-name: Sorcerer
+name: Чародій
 type: class
 img: icons/magic/fire/flame-burning-fist-strike.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Sorcerer</strong></p>
+      <p><strong>Таблиця: Чародій</strong></p>
 
       <table style="border-width: 1px; width: 100%;" border="1"><colgroup><col
       style="width: 9.10853%;"><col style="width: 14.1473%;"><col style="width:
@@ -16,13 +16,13 @@ system:
 
       <tr style="height: 33.5938px;">
 
-      <td style="text-align: center;">Level</td>
+      <td style="text-align: center;">Рівень</td>
 
       <td style="text-align: center;">Proficiency<br>Bonus</td>
 
       <td style="text-align: center;">Sorcery<br>Points</td>
 
-      <td style="text-align: center;">Features</td>
+      <td style="text-align: center;">Особливості</td>
 
       <td style="text-align: center;">Innovations<br>Known</td>
 
@@ -337,7 +337,7 @@ system:
       <td style="text-align:
       center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.tj2fyu1ttwk6sfxc]{Arcane
       Clutch}
-      @UUID[Compendium.a5e-for-dnd5e.class-features.Item.pvgi4rdr5rptetgp]{Explosive
+      @UUID[Compendium.a5e-for-dnd5e.class-features.Item.pvgi4rdr5rptetзм]{Explosive
       Magics}</td>
 
       <td style="text-align: center;">5</td>
@@ -348,40 +348,40 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice:</strong> 1d6 per sorcerer level</p>
+      <p><strong>Hit Dice:</strong> 1d6 за кожний рівень чародія</p>
 
-      <p><strong>Hit Points at 1st Level: </strong>6 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: </strong>6 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d6 (or 4) + your
-      Constitution modifier per sorcerer level after 1st</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d6 (or 4) + your
+      Constitution модифікатор за кожний рівень чародія після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
       <p><strong>Armor:</strong> None</p>
 
-      <p><strong>Weapons: </strong>Daggers, darts, light crossbows,
+      <p><strong>Зброя: </strong>Daggers, darts, light crossbows,
       quarterstaffs, slings&nbsp;</p>
 
-      <p><strong>Tools: </strong>None</p>
+      <p><strong>Інструменти: </strong>None</p>
 
-      <p><strong>Saving Throws: </strong>Constitution, Charisma</p>
+      <p><strong>Ряткидки: </strong>Constitution, Charisma</p>
 
-      <p><strong>Skills: </strong>Choose two from Arcana, Deception, Insight,
-      Intimidation, Performance, Persuasion, and Religion</p>
+      <p><strong>Навички: </strong>Choose two from Аркана, Обман, Проникливість,
+      Залякування, Виступ, Переконання, and Релігія</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
-      <p>You begin the game with 100 gp. You can select your own gear or choose
-      one of the following equipment packages. Also consult the Suggested
+      <p>You begin the game with 100 зм. Ти можеш обрати власне спорядження або взяти
+      one of the following equipment packages. Також звернися до розділу «Рекомендоване
       Equipment section of your chosen background.</p>
 
-      <p><strong>Light Traveler&rsquo;s Set (Cost 37 gp):</strong> Quarterstaff,
+      <p><strong>Light Traveler&rsquo;s Set (Cost 37 зм):</strong> Quarterstaff,
       sling and 20 sling bullets, component pouch, explorer&rsquo;s pack</p>
 
-      <p><strong>Troublemaker&rsquo;s Set (Cost 71 gp): </strong>2 daggers,
+      <p><strong>Troublemaker&rsquo;s Set (Cost 71 зм): </strong>2 daggers,
       light crossbow and quiver with 20 bolts, explorer&rsquo;s pack, wand
       arcane focus</p>
     chat: ''
@@ -408,7 +408,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: kfuy8tmH46PMJm5R
       type: Trait
@@ -452,14 +452,14 @@ system:
             count: 2
     - _id: 903n1Bgqsq5wLFvy
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.whx7ar38i1nr1js4
     - _id: 2zpkVnJH543PwyD9
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -467,7 +467,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.h2tobazibq72ybdo
     - _id: noTCnHuPvBEHH34G
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
@@ -475,42 +475,42 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.q162ah61o4pgc1dd
     - _id: lTl5m2pqvnr6EC5A
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7jxnq4in81dmi93t
     - _id: pT3SRKUnVL2GC7Xz
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.huephhrybue9iiws
     - _id: bvPInBMgo7tOcP6W
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.q3gqqfr37rumjbf6
     - _id: l7PkxoyZj25HtlvU
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 12
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.3cccwpqerr3v215w
     - _id: YfHxUSNtoJFW6UFB
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 15
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.s1ii8g1x1bdgoc0v
     - _id: Za0rde8BQap8QPRj
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

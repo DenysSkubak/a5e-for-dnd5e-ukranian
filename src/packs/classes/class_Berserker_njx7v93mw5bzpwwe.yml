@@ -1,11 +1,11 @@
 folder: null
-name: Berserker
+name: Берсерк
 type: class
 img: icons/skills/melee/strike-hammer-destructive-orange.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Berserker</strong></p>
+      <p><strong>Таблиця: Берсерк</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       8.89749%;"><col style="width: 9.8646%;"><col style="width: 13.7331%;"><col
@@ -17,11 +17,11 @@ system:
 
       <tr style="height: 33.5938px;">
 
-      <td style="text-align: center;">Level</td>
+      <td style="text-align: center;">Рівень</td>
 
-      <td style="text-align: center;">Prof.<br>Bonus</td>
+      <td style="text-align: center;">Бонус<br>майстерності</td>
 
-      <td style="text-align: center;">Features</td>
+      <td style="text-align: center;">Особливості</td>
 
       <td style="text-align: center;">Rages</td>
 
@@ -29,9 +29,9 @@ system:
 
       <td style="text-align: center;">Talents<br>Known</td>
 
-      <td style="text-align: center;">Maneuvers<br>Known</td>
+      <td style="text-align: center;">Відомі<br>маневри</td>
 
-      <td style="text-align: center;">Maneuver<br>Degree</td>
+      <td style="text-align: center;">Ступінь<br>маневру</td>
 
       </tr>
 
@@ -496,17 +496,17 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice: </strong>1d12 per berserker level</p>
+      <p><strong>Кістки здоров’я: </strong>1d12 за кожний рівень берсерка</p>
 
-      <p><strong>Hit Points at 1st Level: 12</strong> + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: 12</strong> + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d12 (or 7) + your
-      Constitution modifier per berserker level after first</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d12 (or 7) + your
+      Constitution модифікатор per berserker level after first</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
       <p><strong>Armor:&nbsp;</strong>Light armor, medium armor, shields</p>
 
@@ -516,15 +516,15 @@ system:
 
       <p><strong>Saving Throws:&nbsp;</strong>Strength, Constitution</p>
 
-      <p><strong>Skills:&nbsp;</strong>Choose four from Animal Handling,
-      Athletics, Intimidation, Nature, Perception, Stealth, and Survival</p>
+      <p><strong>Skills:&nbsp;</strong>Choose four from Поводження з тваринами,
+      Атлетика, Залякування, Природа, Увага, Скрадання, and Виживання</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
       <p>You begin the game with 120 gold which you can spend on your
       character&rsquo;s starting weapons, armor, and adventuring gear. You can
       select your own gear or choose one of the following equipment packages.
-      Also consult the Suggested Equipment section of your chosen
+      Також звернися до розділу «Рекомендоване Equipment section of your chosen
       background.</p>
 
       <ul>
@@ -562,7 +562,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: iluMrcA2fyctCTUa
       type: Trait
@@ -614,7 +614,7 @@ system:
             count: 4
     - _id: uvOL7ZVe5Yh1e40f
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -623,7 +623,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.9s8qxfmcfqke6q0c
     - _id: 4MC1SE8oDsL1m2oN
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -632,7 +632,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl
     - _id: 6Kr3ak4ydetxo284
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
@@ -640,7 +640,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.jrf21ub1qonhh11q
     - _id: mXjLpo5P1CZk9jlH
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
@@ -648,56 +648,56 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.q1v63h8j4a87n3t0
     - _id: z4KuPaM3nqnlR0yC
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.irccnw9xj2ds9t79
     - _id: Coch1CzhpJhH1BuL
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 7
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.5gz1xepkt48d2alg
     - _id: a0QLOWS28dwfRMY8
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.crfexgkjgjp5fcm0
     - _id: dhJOetfXAwq6frS7
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 11
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.8qpi6h8l8g3a52b1
     - _id: 8Na2xxIxq33SOflP
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.6tvh98uofh8t7an9
     - _id: EzMQ4cc4cnJlWBPJ
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 15
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ysuu60w7hjdplhyk
     - _id: B0iis9tQqvztjZVb
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 17
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1hlys25939krcp58
     - _id: GeYDXLYCyniqedTB
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

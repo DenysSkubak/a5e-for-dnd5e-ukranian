@@ -1,10 +1,10 @@
-name: Fighter
+name: Боєць
 type: class
 img: icons/skills/melee/swords-parry-block-blue.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Fighter</strong></p>
+      <p><strong>Таблиця: Боєць</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       10.4651%;"><col style="width: 10.7148%;"><col style="width: 41.417%;"><col
@@ -15,17 +15,17 @@ system:
 
       <tr style="height: 33.5938px;">
 
-      <td style="text-align: center;">Level</td>
+      <td style="text-align: center;">Рівень</td>
 
-      <td style="text-align: center;">Prof.<br>Bonus</td>
+      <td style="text-align: center;">Бонус<br>майстерності</td>
 
-      <td style="text-align: center;">Features</td>
+      <td style="text-align: center;">Особливості</td>
 
       <td style="text-align: center;">Knacks<br>Known</td>
 
-      <td style="text-align: center;">Maneuvers<br>Known</td>
+      <td style="text-align: center;">Відомі<br>маневри</td>
 
-      <td style="text-align: center;">Maneuver<br>Degree</td>
+      <td style="text-align: center;">Ступінь<br>маневру</td>
 
       </tr>
 
@@ -402,17 +402,17 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p class="Indent1"><strong>Hit Dice:</strong> 1d10 per fighter level</p>
+      <p class="Indent1"><strong>Hit Dice:</strong> 1d10 за кожний рівень бійця</p>
 
-      <p class="Indent1"><strong>Hit Points at 1st Level:</strong> 10 + your
-      Constitution modifier</p>
+      <p class="Indent1"><strong>Hit Points at 1st Рівень:</strong> 10 + your
+      Constitution модифікатор</p>
 
-      <p class="Indent1"><strong>Hit Points at Higher Levels:</strong> 1d10 (or
-      6) + your Constitution modifier per fighter level after 1st</p>
+      <p class="Indent1"><strong>Hit Points at Higher Рівеньs:</strong> 1d10 (or
+      6) + твій модифікатор Статури за кожний рівень бійця після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
       <p class="Indent1"><strong>Armor:</strong> Light armor, medium armor,
       heavy armor, shields</p>
@@ -425,11 +425,11 @@ system:
       <p class="Indent1"><strong>Saving Throws:</strong> Strength,
       Constitution</p>
 
-      <p class="Indent1"><strong>Skills:</strong> Choose two from Acrobatics,
-      Animal Handling, Athletics, History, Insight, Intimidation, Perception,
-      and Survival</p>
+      <p class="Indent1"><strong>Skills:</strong> Choose two from Акробатика,
+      Поводження з тваринами, Атлетика, Історія, Проникливість, Залякування, Увага,
+      and Виживання</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
       <p>You begin the game with 140 gold which you can spend on your
       character's starting weapons, armor, and adventuring gear. You can select
@@ -490,7 +490,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: xkFFAJCAan9FFFGT
       type: Trait
@@ -544,7 +544,7 @@ system:
             count: 2
     - _id: 0PWhmz3rvFLeiEXr
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -553,70 +553,70 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.aoob3efbsim0yj6c
     - _id: kN11pzlbAa9gkr43
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.25vr449svc15tmv6
     - _id: qnUf4dCJ5jpTqcM1
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.en70nzkwimtjzkf3
     - _id: WE3PSQaL2Hp945Fq
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 4
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ocxdmv7zscmck9ak
     - _id: 9jYwwy4a1XG2IRnb
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.g4s2uymxnkn0y0yf
     - _id: iSQ52BlTaFGts1w6
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.akcpgwxdtkzp0290
     - _id: mfoCoDA0K1CG2wlx
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7vvqy990w8pxatdy
     - _id: 6AntDTTNcd3Ihl2a
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 10
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.75v5b46ey8mlgovp
     - _id: 0iQYOtAwpARArnUw
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 14
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.xsgws8d96b82gmcb
     - _id: hYfYhPTkLhy6PuK5
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 18
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.vh4d1qw05cc4627a
     - _id: NdCxfSbFYzeMb3KN
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:

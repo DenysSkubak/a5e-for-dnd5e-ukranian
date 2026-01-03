@@ -1,10 +1,10 @@
-name: Marshal
+name: Маршал
 type: class
 img: icons/weapons/swords/greatsword-crossguard-barbed.webp
 system:
   description:
     value: >-
-      <p><strong>Table: Marshal</strong></p>
+      <p><strong>Таблиця: Маршал</strong></p>
 
       <table style="width: 100%;" border="1"><colgroup><col style="width:
       19.9612%;"><col style="width: 8.91473%;"><col style="width:
@@ -16,19 +16,19 @@ system:
 
       <tr style="height: 16.7969px;">
 
-      <td style="text-align: center;">Level</td>
+      <td style="text-align: center;">Рівень</td>
 
-      <td style="text-align: center;">Prof.<br>Bonus</td>
+      <td style="text-align: center;">Бонус<br>майстерності</td>
 
-      <td style="text-align: center;">Features</td>
+      <td style="text-align: center;">Особливості</td>
 
       <td style="text-align: center;">Commanding<br>Presence</td>
 
       <td style="text-align: center;">Followers</td>
 
-      <td style="text-align: center;">Maneuvers<br>Known</td>
+      <td style="text-align: center;">Відомі<br>маневри</td>
 
-      <td style="text-align: center;">Maneuver<br>Degree</td>
+      <td style="text-align: center;">Ступінь<br>маневру</td>
 
       <td style="text-align: center;">Lessons<br>Known</td>
 
@@ -477,7 +477,7 @@ system:
       <td style="text-align: center; height:
       16.7969px;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.kvc59z8sg7dq3z3f]{Legendary
       Commander}
-      @UUID[Compendium.a5e-for-dnd5e.class-features.Item.2bv3gkrbblfgpe31]{Supreme
+      @UUID[Compendium.a5e-for-dnd5e.class-features.Item.2bv3gkrbblfзмe31]{Supreme
       Stronghold}</td>
 
       <td style="text-align: center; height: 16.7969px;">60 feet</td>
@@ -496,40 +496,40 @@ system:
 
       </table>
 
-      <h3>Hit Points</h3>
+      <h3>Очки здоров’я</h3>
 
-      <p><strong>Hit Dice:</strong> 1d10 per marshal level</p>
+      <p><strong>Hit Dice:</strong> 1d10 за кожний рівень маршала</p>
 
-      <p><strong>Hit Points at 1st Level: </strong>10 + your Constitution
-      modifier</p>
+      <p><strong>Hit Points at 1st Рівень: </strong>10 + your Constitution
+      модифікатор</p>
 
-      <p><strong>Hit Points at Higher Levels: </strong>1d10 (or 6) + your
-      Constitution modifier per marshal level after 1st</p>
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d10 (or 6) + your
+      Constitution модифікатор за кожний рівень маршала після 1-го</p>
 
-      <h3>Proficiencies</h3>
+      <h3>Володіння</h3>
 
-      <p><strong>Armor: </strong>Light armor, medium armor, heavy armor,
+      <p><strong>Броня: </strong>Light armor, medium armor, heavy armor,
       shields</p>
 
-      <p><strong>Weapons: </strong>Simple weapons, martial weapons</p>
+      <p><strong>Зброя: </strong>Simple weapons, martial weapons</p>
 
-      <p><strong>Tools: </strong>None</p>
+      <p><strong>Інструменти: </strong>None</p>
 
-      <p><strong>Saving Throws: </strong>Wisdom, Charisma</p>
+      <p><strong>Ряткидки: </strong>Wisdom, Charisma</p>
 
-      <p><strong>Skills: </strong>Choose two from Athletics, History, Insight,
-      Intimidation, Medicine, Perception, and Persuasion</p>
+      <p><strong>Навички: </strong>Choose two from Атлетика, Історія, Проникливість,
+      Залякування, Медицина, Увага, and Переконання</p>
 
-      <h3>Equipment</h3>
+      <h3>Спорядження</h3>
 
-      <p>You begin the game with 200 gp. You can select your own gear or choose
-      one of the following equipment packages. Also consult the Suggested
+      <p>You begin the game with 200 зм. Ти можеш обрати власне спорядження або взяти
+      one of the following equipment packages. Також звернися до розділу «Рекомендоване
       Equipment section of your chosen background.</p>
 
-      <p><strong>Skirmisher&rsquo;s Set (Cost 193 gp):</strong> 6 javelins,
+      <p><strong>Skirmisher&rsquo;s Set (Cost 193 зм):</strong> 6 javelins,
       longsword, hauberk, light shield, explorer&rsquo;s pack</p>
 
-      <p><strong>Soldier&rsquo;s Set (Cost 111 gp):</strong> Battleaxe,
+      <p><strong>Soldier&rsquo;s Set (Cost 111 зм):</strong> Battleaxe,
       scimitar, 2 spears, longbow and quiver with 20 arrows, padded leather,
       dungeoneer&rsquo;s pack</p>
     chat: ''
@@ -556,7 +556,7 @@ system:
   hitDiceUsed: 0
   advancement:
     - _id: FRxVq2gmJq6bNazt
-      title: Hit Points
+      title: Очки здоров’я
       type: HitPoints
     - _id: TUm9Uak1T9gf8PSz
       type: Trait
@@ -617,7 +617,7 @@ system:
             count: 2
     - _id: G0ephdMGLhjV1cC1
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 1
       configuration:
         items:
@@ -625,7 +625,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.qc8h2qnq0of52qct
     - _id: 8yAjd6t0n5VCWOfN
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 2
       configuration:
         items:
@@ -633,14 +633,14 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.n6ss7hf32xkiqxqx
     - _id: NrCCtc4aPvFyDOXv
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 3
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.cvkikpppbrw11411
     - _id: 7nep0lInJX7RAy8y
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 5
       configuration:
         items:
@@ -649,7 +649,7 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ugkefg2rmcgqh9bn
     - _id: yBrxa8SGCFsN1CNe
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 6
       configuration:
         items:
@@ -658,14 +658,14 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.zocbk6ee62nyzfuw
     - _id: pEIovgUnBLRSbTMc
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 9
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.sapxpqore3a2d8n2
     - _id: VPDL9D2Bd0ZHUMW9
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 10
       configuration:
         items:
@@ -673,14 +673,14 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.drsdy93qkiuyk7jv
     - _id: TDY67UhC3vT6aoX4
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 12
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.aib3gsao7tdz9vd3
     - _id: JWrDrkysLK9LSLNO
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 13
       configuration:
         items:
@@ -688,35 +688,35 @@ system:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.pe75gctv6xbrzzno
     - _id: Gy0ReOMSpeHu7tGF
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 14
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ywoe5wghb18ujal4
     - _id: 2XyqSmNfB9CWx1ex
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 16
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.al4g04mcme58duv3
     - _id: ahkN5Zpj57bxT0Du
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 17
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.xjuzlwg4tibsvm4x
     - _id: boXlX2PRtf9QjaGP
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 18
       configuration:
         items:
           - uuid: Compendium.a5e-for-dnd5e.class-features.Item.4v2jndud3a1cj6h6
     - _id: IG38sCu9f2Z6scIJ
       type: ItemGrant
-      title: Features
+      title: Особливості
       level: 20
       configuration:
         items:
