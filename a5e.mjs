@@ -121,6 +121,9 @@ Hooks.once('i18nInit', () => {
       ExhaustionLevel: game.i18n.localize('a5e-for-dnd5e.FatigueLevel'),
       Exhaustion: game.i18n.localize('a5e-for-dnd5e.Fatigue'),
       ConExhaustion: game.i18n.localize('a5e-for-dnd5e.Fatigue'),
+
+      // Optional but helpful: keep Stress localized if any dnd5e UI uses it
+      Stress: game.i18n.localize('a5e-for-dnd5e.Stress'),
     });
   }
   _localizeHelper(CONFIG.A5E);
@@ -137,7 +140,8 @@ function _localizeHelper(object) {
         if (value.includes(moduleID)) object[key] = game.i18n.localize(value);
         break;
       case 'object':
-        _localizeHelper(object[key]);
+        // Guard against nulls/arrays to avoid edge-case crashes
+        if (value && !Array.isArray(value)) _localizeHelper(value);
         break;
     }
   }
