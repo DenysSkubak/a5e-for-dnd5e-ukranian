@@ -1,0 +1,33 @@
+name: 'Invocation: Wicked Youth'
+type: feat
+img: icons/magic/death/skull-horned-worn-fire-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You are immune to necrotic damage, you are immune to disease, and you cannot be magically aged. When you kill a creature, you can either reduce your apparent age or extend your life span by a number of years equal to the creature&rsquo;s CR.&nbsp;When you would die of old age, you instead become undead, gaining the skeleton or zombie template&nbsp;with no changes to your ability scores.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 15th level, Diabolist archetype
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: uzf91lcm5zey1bgb
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!uzf91lcm5zey1bgb'
