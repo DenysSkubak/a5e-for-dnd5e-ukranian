@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Lightless Expertise
+type: feat
+img: icons/magic/perception/hand-eye-fire-blue.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You never suffer&nbsp;disadvantage for being unable to see while making skill checks, so long as one of your other senses (such as touch or hearing) can compensate.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: uvvfow6cacs90iaz
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!uvvfow6cacs90iaz'
