@@ -1,0 +1,33 @@
+name: 'Invocation: Eldritch Tentacle'
+type: feat
+img: icons/creatures/tentacles/tentacles-octopus-black-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you hit a creature with your Eldritch Blast or when a creature fails its saving throw against it, you can pull the creature up to 10 feet straight toward you.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: q3w500g29z8pkwoq
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!q3w500g29z8pkwoq'
