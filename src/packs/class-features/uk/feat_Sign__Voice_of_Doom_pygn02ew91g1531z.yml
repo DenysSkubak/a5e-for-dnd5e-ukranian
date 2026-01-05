@@ -1,0 +1,33 @@
+name: 'Sign: Voice of Doom'
+type: feat
+img: icons/magic/death/weapon-scythe-rune-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your personal knowledge of divine wrath and the end times make your proclamations utterly chilling. You gain an expertise die on Intimidation checks.&nbsp;In addition, you may always choose to use Wisdom when making Intimidation checks.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: pygn02ew91g1531z
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!pygn02ew91g1531z'
