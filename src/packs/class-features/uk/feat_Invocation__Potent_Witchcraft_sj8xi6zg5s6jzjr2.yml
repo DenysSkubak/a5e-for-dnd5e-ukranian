@@ -1,0 +1,33 @@
+name: 'Invocation: Potent Witchcraft'
+type: feat
+img: icons/magic/unholy/hand-light-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your warlock cantrips deal extra damage equal to your spellcasting ability modifier.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: sj8xi6zg5s6jzjr2
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!sj8xi6zg5s6jzjr2'
