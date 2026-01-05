@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Renunciant
+type: feat
+img: icons/magic/water/bubbles-air-water-light.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Your lack of material possessions increases the respect others have for you. While you maintain a poor lifestyle, your prestige bonus increases (instead of decreases) by 1.</p>
+    chat: ''
+  source:
+    book: Secrets of the Selkies
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: gyq2nerf8q57g6ji
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!gyq2nerf8q57g6ji'
