@@ -1,0 +1,80 @@
+folder: null
+name: Wisdom of the Road
+type: feat
+img: icons/magic/holy/saint-glass-portrait-halo.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p><span id="docs-internal-guid-5bde654e-7fff-b11c-b3fb-8ebe158fa6a6">Also at 1st level, you are prepared to get by in any environment, whether traveling down bustling, urban streets or remote, forgotten roads. You gain proficiency in Culture and Survival (or an expertise die if you are already proficient), and may always use Wisdom when making checks with these abilities. In addition, you learn the @UUID[Compendium.a5e-for-dnd5e.spells.Item.uyp8lageqgau1a4h]{Friends} and @UUID[Compendium.a5e-for-dnd5e.spells.Item.zaeerhaj7ici4dtd]{Shillelagh} cantrips.</span></p>
+    chat: ''
+  source:
+    book: Secrets of the Selkies
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects:
+  - origin: Item.5zKIrcik8SoUEHJe
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Wisdom of the Road
+    img: icons/magic/holy/saint-glass-portrait-halo.webp
+    _id: ZZjxDiO3tuA2vC9n
+    type: base
+    system: { }
+    changes:
+      - key: system.skills.cul.ability
+        value: wis
+        mode: 6
+        priority: null
+      - key: system.skills.sur.ability
+        value: wis
+        mode: 6
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722889690628
+      modifiedTime: 1722889746595
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!new19m535oawimhz.ZZjxDiO3tuA2vC9n'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722889604940
+  modifiedTime: 1722889685055
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: new19m535oawimhz
+_key: '!items!new19m535oawimhz'
