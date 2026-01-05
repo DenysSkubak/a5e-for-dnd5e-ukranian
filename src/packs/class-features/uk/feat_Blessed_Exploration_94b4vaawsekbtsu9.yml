@@ -1,0 +1,40 @@
+folder: null
+name: Blessed Exploration
+type: feat
+img: icons/environment/wilderness/cave-entrance-mountain-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 6th level, your faith grants you boons suitable for an underground denizen. You gain darkvision to a range of 90 feet. Additionally, choose one of the following benefits:</p> 
+      <h2 class="Indent1">Minotaur's Memory</h2> 
+      <p>You can perfectly recall any route you have traveled.</p> 
+      <h2 class="Indent1">Shadow Sustenance</h2> 
+      <p>If you haven&rsquo;t been in an area of sunlight for 24 hours, your body begins to fade and you no longer need to eat. This benefit ends when you enter an area of sunlight.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722951902306
+  modifiedTime: 1722951987009
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 94b4vaawsekbtsu9
+_key: '!items!94b4vaawsekbtsu9'
