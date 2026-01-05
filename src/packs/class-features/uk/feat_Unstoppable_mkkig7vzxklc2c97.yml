@@ -1,0 +1,36 @@
+name: Unstoppable
+type: feat
+img: icons/skills/movement/figure-running-gray.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 15th level, you gain advantage on saving throws made to resist being paralyzed, petrified, knocked prone, restrained, or any spell or effect of the <em>compulsion </em>school.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723124473436
+  modifiedTime: 1723124499951
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: mkkig7vzxklc2c97
+_key: '!items!mkkig7vzxklc2c97'
