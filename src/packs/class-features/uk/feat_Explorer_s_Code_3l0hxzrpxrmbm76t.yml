@@ -1,0 +1,36 @@
+folder: null
+name: Explorer's Code
+type: feat
+img: icons/tools/navigation/map-chart-tan.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 7th level, you learn to communicate with your allies using coded language, allowing you to hide additional messages in normal conversation. During the light activity portion of a&nbsp;long rest, you can teach this code to any friendly creature with which you share a language. It takes twice as long to convey a message this way. Observers might be able to detect that you&rsquo;re speaking in code, but only creatures who&rsquo;ve been taught the explorer&rsquo;s code understand it.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723458519826
+  modifiedTime: 1723458523612
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 3l0hxzrpxrmbm76t
+_key: '!items!3l0hxzrpxrmbm76t'
