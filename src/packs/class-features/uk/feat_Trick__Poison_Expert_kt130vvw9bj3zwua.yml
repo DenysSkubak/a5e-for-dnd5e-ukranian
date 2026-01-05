@@ -1,0 +1,33 @@
+name: 'Trick: Poison Expert'
+type: feat
+img: icons/creatures/invertebrates/spider-skull-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your expertise die on checks made with the poisoner&rsquo;s kit increases to d10. You can add this expertise die to saving throws made against poison. Choose a poison from Chapter 7: Maladies in Trials &amp; Treasures. You are immune to the effects of this poison.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 13th level, d8 expertise die with poisoner’s kit
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: kt130vvw9bj3zwua
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!kt130vvw9bj3zwua'
