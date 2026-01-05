@@ -1,0 +1,70 @@
+name: From Nowhere
+type: feat
+img: icons/creatures/webs/web-spider-moving-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 17th level, you learn the most coveted of all arachnid guardian abilities: the fearsome ethereal shifting of phase spiders. As a bonus action, you can spend 3 exertion points to shift to the Ethereal Plane. At the end of every minute you remain on the Ethereal Plane, you must spend 1 exertion point; otherwise, you immediately shift back to the Material Plane. You can return to the Material Plane deliberately as a bonus action, and doing so costs no exertion.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+folder: null
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722269765363
+  modifiedTime: 1722269814278
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ghr97cqs65b8t0k1
+_key: '!items!ghr97cqs65b8t0k1'
