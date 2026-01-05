@@ -1,0 +1,33 @@
+name: Absolute Power
+type: feat
+img: icons/magic/symbols/circled-gem-pink.webp
+system:
+  type:
+    value: destiny
+    subtype: ''
+  description:
+    value: >-
+      <p>Either through respect or fear you have become an uncontested ruler, and most simple orders you give are followed without question. You have advantage on checks made to influence your subjects.</p><p>In addition, you gain the Lawful alignment, and you emit a strong lawful aura for the purposes of any feature, spell, or trait that detects or affects Lawful creatures.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: Czqb9fe3C11A0mge
+_id: jmswhgs8n9jejife
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!jmswhgs8n9jejife'
