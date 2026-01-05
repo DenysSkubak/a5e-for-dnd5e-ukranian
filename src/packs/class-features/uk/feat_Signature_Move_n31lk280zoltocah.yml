@@ -1,0 +1,33 @@
+name: Signature Move
+type: feat
+img: icons/sundries/gaming/dice-pair-white-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 4th level, choose one savant trick you know. You are considered to always have that trick prepared, and it does not count against the limit of the number of tricks you can have prepared. When you use that trick, it does not stop being prepared. Whenever you gain a level, you can change your signature move.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: n31lk280zoltocah
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!n31lk280zoltocah'
