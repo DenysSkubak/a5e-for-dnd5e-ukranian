@@ -1,0 +1,73 @@
+name: Pinpoint Maneuvering
+type: feat
+img: icons/tools/fasteners/pin-spiked.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 5th level, your driving skills allow you to swerve around obstacles and through tight spaces where vehicles couldn’t normally function. While driving a vehicle, whenever an action would allow you to change the vehicle’s facing up to 90 degrees, you may change it up to 180 degrees instead.</p><p>In addition, whenever an attack hits a vehicle you’re driving or a collision occurs involving a vehicle you are driving, you can use your reaction to avoid the worst of it, reducing the damage your vehicle would take by the result of a vehicle check (air, land, or water as appropriate to the vehicle).</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: reaction
+    cost: 1
+    condition: >-
+      An attack hits a vehicle you’re driving or a collision occurs involving a vehicle you are driving
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722276100949
+  modifiedTime: 1722277085844
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: uyqu2yy46hrf78qz
+_key: '!items!uyqu2yy46hrf78qz'
