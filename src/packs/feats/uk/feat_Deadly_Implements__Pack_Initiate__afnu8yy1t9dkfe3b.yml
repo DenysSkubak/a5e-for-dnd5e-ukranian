@@ -1,0 +1,33 @@
+name: Deadly Implements (Pack Initiate)
+type: feat
+img: icons/creatures/mammals/wolf-howl-moon-black.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: feat
+    subtype: ''
+  description:
+    value: <p>The damage of your bite and claw attacks increases to 1d8.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: afnu8yy1t9dkfe3b
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!afnu8yy1t9dkfe3b'
