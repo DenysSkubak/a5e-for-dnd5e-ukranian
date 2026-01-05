@@ -1,0 +1,123 @@
+name: 'Battle Hymn: Onward to Battle'
+type: feat
+img: icons/skills/trades/music-notes-sound-blue.webp
+effects:
+  - icon: icons/skills/trades/music-notes-sound-blue.webp
+    origin: Item.HS8AavVMelOxFLKK
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: ZjImfGKB4ebTi8Ga
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: 'Battle Hymn: Onward to Battle'
+    _id: FvshcvojJNSh34sy
+    changes:
+      - key: system.attributes.movement.walk
+        value: >-
+          {"comparisonOperator":">","comparisonValue":"0","positiveValue":"@original+40","negativeValue":"0"}
+        mode: 7
+        priority: null
+      - key: system.attributes.movement.climb
+        value: >-
+          {"comparisonOperator":">","comparisonValue":"0","positiveValue":"@original+40","negativeValue":"0"}
+        mode: 7
+        priority: null
+      - key: system.attributes.movement.burrow
+        value: >-
+          {"comparisonOperator":">","comparisonValue":"0","positiveValue":"@original+40","negativeValue":"0"}
+        mode: 7
+        priority: null
+      - key: system.attributes.movement.fly
+        value: >-
+          {"comparisonOperator":">","comparisonValue":"0","positiveValue":"@original+40","negativeValue":"0"}
+        mode: 7
+        priority: null
+      - key: system.attributes.movement.swim
+        value: >-
+          {"comparisonOperator":">","comparisonValue":"0","positiveValue":"@original+40","negativeValue":"0"}
+        mode: 7
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>The target’s Speed increases by 40 feet.</p>
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!zfb00h3gr85gramz.FvshcvojJNSh34sy'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: <p>The target&rsquo;s Speed increases by 40 feet.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: zfb00h3gr85gramz
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!zfb00h3gr85gramz'
