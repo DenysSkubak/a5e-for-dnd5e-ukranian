@@ -1,0 +1,33 @@
+name: Knowledge of the Faerie Courts
+type: feat
+img: icons/magic/nature/tree-twisted-glow-yellow.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You are proficient in one of the following skills: Arcana, Culture, Deception, History, Insight, Persuasion, Survival.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: rv34qxh59k8b6989
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!rv34qxh59k8b6989'
