@@ -1,0 +1,38 @@
+name: Martial Arts
+type: feat
+img: icons/skills/melee/hand-grip-staff-teal.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 1st level, when you are unarmed or wielding only an adept weapon (a punching dagger, quarterstaff, shortsword, or any simple melee weapon that doesn't have the heavy or two-handed property) and you aren't using a shield, you gain the following benefits:</p> 
+      <ul> 
+      <li>You can use Dexterity instead of Strength when calculating attack and damage rolls with your unarmed strikes and adept weapons.</li> 
+      <li>Instead of the normal damage of your unarmed strike or adept weapon, you can use the die shown in the Martial Arts column of the Adept table, which starts as a d4.</li> 
+      <li>When you use the Attack action to make an unarmed strike or an adept weapon attack on your turn, you can use a bonus action to make an unarmed strike.</li> 
+      </ul>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: sjprqaclatqthzlh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!sjprqaclatqthzlh'
