@@ -1,0 +1,33 @@
+name: Child of the Soil (Mustbairn Halfling)
+type: feat
+img: icons/environment/settlement/scarecrow.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You can feel the heartbeat of the soil through the soles of your feet. You ignore difficult terrain caused by any form of earth or soil, such as mud, or mountainous terrain. In addition, you know the druidcraft cantrip.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: f9q1yigiqo2jpi3w
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!f9q1yigiqo2jpi3w'
