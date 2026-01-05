@@ -1,0 +1,33 @@
+name: Snare Unwary Minds (Enchanter)
+type: feat
+img: icons/magic/control/hypnosis-mesmerism-eye.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 6th level you are incredibly skilled at making good first impressions, enhanced by bewitching magic too subtle to work on any but the unaware. When making your first Persuasion or Deception check against a creature you have never met before and who doesn't know you, you have advantage.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Level 6 Witch Class; Enchanter archetype
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 5j0mc7xa7zycpro7
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5j0mc7xa7zycpro7'
