@@ -1,0 +1,70 @@
+name: Go and Do Likewise
+type: feat
+img: icons/environment/people/cleric-grey.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p dir="ltr">Also at 17th level, when you finish a long rest, you can spend a use of @UUID[Compendium.a5e-for-dnd5e.class-features.Item.s4iiatrup3e3virw]{Channel Divinity} to imbue a number of allies equal to your Wisdom modifier with divine power. For each affected creature, choose a cantrip you know and three 1st-level spells you know. None of the affected spells can do damage or impose conditions or other harmful effects. A chosen creature can use the granted cantrip at will as if they knew it normally and can use any combination of the three granted spells a total of three times. Creatures may use their choice of Intelligence, Wisdom, or Charisma as their spellcasting ability for the granted spells. The imbuement ends when you begin a long rest.</p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Itinerant'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+folder: null
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722979217667
+  modifiedTime: 1722979296924
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 4uhizup6t1ookfnm
+_key: '!items!4uhizup6t1ookfnm'
