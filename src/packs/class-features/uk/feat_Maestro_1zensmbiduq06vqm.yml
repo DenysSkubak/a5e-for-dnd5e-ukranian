@@ -1,0 +1,33 @@
+name: Maestro
+type: feat
+img: icons/tools/instruments/lute-gold-brown.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 7th level, choose one Art Speciality. You&nbsp;always gain the benefits of that Art&nbsp;Speciality, no matter what instrument or art&nbsp;you are using.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 1zensmbiduq06vqm
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!1zensmbiduq06vqm'
