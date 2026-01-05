@@ -1,0 +1,33 @@
+name: 'Invocation: Dreadful Word'
+type: feat
+img: icons/magic/sonic/scream-wail-shout-teal.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You learn the&nbsp;<em>confusion&nbsp;</em>spell, and the spell doesn&rsquo;t count against your number of spells known.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 7th Level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: tla2mdysmthjjz8o
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!tla2mdysmthjjz8o'
