@@ -1,0 +1,33 @@
+name: Choreographed Disappearance
+type: feat
+img: icons/magic/nature/stealth-hide-eyes-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>On your turn, you say something to turn a foe’s attention away from you or an ally. You or an ally of your choice who can understand you can move up to their speed. This movement does not provoke opportunity attacks from one creature of your choice that can understand you. If they end up having obscurement or cover relative to the distracted foe, they can Hide without spending an action.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: rdnduaae7mo4260q
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!rdnduaae7mo4260q'
