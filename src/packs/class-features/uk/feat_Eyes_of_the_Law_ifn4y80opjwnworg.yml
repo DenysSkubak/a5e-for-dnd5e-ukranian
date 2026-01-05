@@ -1,0 +1,33 @@
+name: Eyes of the Law
+type: feat
+img: icons/magic/perception/eye-ringed-green.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency with the Insight, Investigation, and Perception skill. You also&nbsp; gain an expertise die on one of these skills of your choice.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_id: ifn4y80opjwnworg
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ifn4y80opjwnworg'
