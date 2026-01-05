@@ -1,0 +1,71 @@
+name: Basalt Armor
+type: feat
+img: icons/magic/defensive/shield-barrier-flaming-diamond-orange.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at level 6, your skin takes on a lava-like crust while you are raging. While you have rage hit points, damage you take is reduced by an amount equal to half your proficiency bonus before any resistances or immunities you have are applied. This can only apply once per source of damage, no matter how many types of damage it does.</p>
+    chat: ''
+  source:
+    book: Fiery Justice
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: heal
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@prof'
+        - temphp
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722791198559
+  modifiedTime: 1722791239496
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 34s76zppyv5eilyv
+_key: '!items!34s76zppyv5eilyv'
