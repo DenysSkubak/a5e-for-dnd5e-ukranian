@@ -1,0 +1,33 @@
+name: 'Toll: One Eye Open'
+type: feat
+img: icons/magic/perception/eye-slit-orange.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your life has been so regularly in danger that you’ve learned to literally sleep with one eye open. You are alert and aware of your surroundings while sleeping during long rests. You can also never be surprised and you gain an expertise die on initiative checks.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: yu0rlk1kdngglbbn
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!yu0rlk1kdngglbbn'
