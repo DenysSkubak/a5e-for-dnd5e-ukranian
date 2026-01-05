@@ -1,0 +1,68 @@
+name: Honeyed Words
+type: feat
+img: icons/creatures/invertebrates/bee-simple-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 6th level, you learn to weave magic directly into your very words and gesticulations. When you cast a bard spell, you can replace any vocalized components with speech and any seen components with gestures. Any observers with a passive Insight score equal to or less than your passive Deception score or passive Persuasion score do not see or hear you cast the spell. If you are making a Deception, Intimidation, or Persuasion check as part of your speech or gestures, the effects of the spell occur before the check is made.</p><p>Once you have used this feature a number of times equal to your proficiency bonus, you cannot do so again until you finish a long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722310261727
+  modifiedTime: 1722310323996
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: uo025358fhaq7pk5
+_key: '!items!uo025358fhaq7pk5'
