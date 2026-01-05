@@ -1,0 +1,36 @@
+name: Latent Power
+type: feat
+img: icons/svg/item-bag.svg
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>By 3rd level, your sorcerer archetype starts to manifest as something people can subconsciously sense, even if they know nothing beyond the mundane, and it affects how they see you. Choose one of the following:</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.wkcx7792srnjsmxx]{Power: All Eyes}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.0vpzgc7tj8n9czku]{Power: Daunting Energy}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.2wdlflbowedtykaa]{Power: Unsuspecting}</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: a39b0sdy2grpw5sn
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!a39b0sdy2grpw5sn'
