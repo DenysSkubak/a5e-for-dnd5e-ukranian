@@ -1,0 +1,84 @@
+folder: null
+name: Lurking Spider
+type: feat
+img: icons/creatures/invertebrates/spider-dotted-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 3rd level, you gain some of the sneakiness and vigilance of a spider. You become proficient with the Stealth and Perception skills, and you can move through magical and mundane webs without treating them as&nbsp;difficult terrain&nbsp;or risk of becoming stuck.</p><p>Finally, you gain tremorsense with a range of 10 feet.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects:
+  - origin: Item.L3NjgkN2vbeMAsyq
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Lurking Spider
+    _id: Ab7fJLDUBAGdPofT
+    changes:
+      - key: system.skills.ste.value
+        value: '1'
+        mode: 5
+        priority: null
+      - key: system.skills.prc.value
+        value: '1'
+        mode: 5
+        priority: null
+      - key: system.attributes.senses.tremorsense.distance
+        value: '10'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722269277156
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/creatures/invertebrates/spider-dotted-green.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!ad4hmr4ib3mdfufc.Ab7fJLDUBAGdPofT'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722269277121
+  modifiedTime: 1722269311604
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ad4hmr4ib3mdfufc
+_key: '!items!ad4hmr4ib3mdfufc'
