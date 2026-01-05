@@ -1,0 +1,68 @@
+name: 'Grand Battle Hymns: Beyond the Grave'
+type: feat
+img: icons/magic/life/heart-glowing-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you activate&nbsp;this hymn, each ally within 60 feet that is&nbsp;bloodied or unconscious is restored to half&nbsp;their hit point maximum. In addition, each&nbsp;target recovers from up to 3 levels of&nbsp;fatigue.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: y4fkojs11edhsppi
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!y4fkojs11edhsppi'
