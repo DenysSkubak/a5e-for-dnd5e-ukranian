@@ -1,0 +1,35 @@
+name: Potion of Mind Reading
+type: consumable
+img: icons/consumables/potions/potion-flask-corked-teal.webp
+system:
+  description:
+    value: >-
+      <p>After drinking this fizzy deep green lime potion, for the next hour you are affected as if you had cast <em>detect thoughts</em> (save DC 13).</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 750
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: rare
+  identified: true
+  type:
+    value: potion
+    subtype: ''
+  uses:
+    autoDestroy: false
+effects: [ ]
+flags: { }
+folder: jUj7oP8VFpreITEL
+_id: 9qycjxm8csey692e
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!9qycjxm8csey692e'
