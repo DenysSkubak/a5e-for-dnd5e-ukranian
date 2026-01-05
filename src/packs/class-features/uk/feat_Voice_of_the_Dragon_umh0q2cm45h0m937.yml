@@ -1,0 +1,36 @@
+name: Voice of the Dragon
+type: feat
+img: icons/creatures/reptiles/dragon-winged-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 1st level, you understand the language of dragons. You can speak, sign, read, and write Draconic. You have advantage on Charisma checks to communicate with dragons, so long as you converse with them in their native tongue.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723331914431
+  modifiedTime: 1723331962723
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: umh0q2cm45h0m937
+_key: '!items!umh0q2cm45h0m937'
