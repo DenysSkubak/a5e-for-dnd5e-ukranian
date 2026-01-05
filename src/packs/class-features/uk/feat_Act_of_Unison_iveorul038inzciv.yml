@@ -1,0 +1,71 @@
+name: Act of Unison
+type: feat
+img: icons/skills/social/diplomacy-handshake-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 14th level, your ability to motivate others actually spurs them into action. On your turn, you can use your action and bonus action to expend a use of Bardic Inspiration and choose a creature you can see within 60 feet. If the chosen creature can see or hear you, it gains one additional action. This action must be used before the end of your turn. A creature can only benefit from this feature once between long rests.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722309542002
+  modifiedTime: 1722309576526
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: iveorul038inzciv
+_key: '!items!iveorul038inzciv'
