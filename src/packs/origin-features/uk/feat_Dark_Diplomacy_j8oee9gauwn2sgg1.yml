@@ -1,0 +1,33 @@
+name: Dark Diplomacy
+type: feat
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency with your choice of Deception, Intimidation, Investigation, Sleight of Hand, or Stealth.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+img: icons/magic/perception/silhouette-stealth-shadow.webp
+effects: [ ]
+flags: { }
+folder: OpVlQm2oviOU6e9w
+_id: j8oee9gauwn2sgg1
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!j8oee9gauwn2sgg1'
