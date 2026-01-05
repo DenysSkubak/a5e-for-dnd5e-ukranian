@@ -1,0 +1,37 @@
+name: Intellectual Calibre
+type: feat
+img: icons/svg/item-bag.svg
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 7th level, your attitudes and academic manners have cemented how you and your intellect are perceived by your peers. Choose one of the following.</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.znjsrkgotsvyeg1f]{Intellectual Calibre (Kooky Eccentric)}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.ud61vebxdwknxrl6]{Intellectual Calibre (Sporadic Genius)}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.8kn3ln4dk3al4jyq]{Intellectual Calibre (Stern Proctor)}</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 8344n8to469p2u9q
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!8344n8to469p2u9q'
