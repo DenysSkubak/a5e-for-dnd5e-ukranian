@@ -1,0 +1,33 @@
+name: Dauntless
+type: feat
+img: icons/svg/item-bag.svg
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at 13th level, you and allies within your Commanding Presence have advantage on saving throws against spells and effects that cause the charmed or frightened conditions.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: pe75gctv6xbrzzno
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!pe75gctv6xbrzzno'
