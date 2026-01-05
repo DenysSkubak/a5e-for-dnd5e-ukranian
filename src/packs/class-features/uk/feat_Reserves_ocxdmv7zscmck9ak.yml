@@ -1,0 +1,34 @@
+name: Reserves
+type: feat
+img: icons/magic/life/heart-glowing-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 4th level your stamina increases, allowing you to engage foes longer without tiring. Your exertion pool increases by 1. At 8th, 12th, and 16th level your exertion pool increases by an additional point.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: none
+  uses:
+    per: sr
+    max: null
+    prompt: false
+folder: null
+_id: ocxdmv7zscmck9ak
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ocxdmv7zscmck9ak'
