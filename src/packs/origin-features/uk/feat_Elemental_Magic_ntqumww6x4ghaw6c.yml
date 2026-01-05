@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Elemental Magic
+type: feat
+img: icons/magic/nature/leaf-elm-beam-green.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You know one cantrip from the druid, or warlock spell list. Your spellcasting ability is your choice of Intelligence, Wisdom, or Charisma.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: ntqumww6x4ghaw6c
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ntqumww6x4ghaw6c'
