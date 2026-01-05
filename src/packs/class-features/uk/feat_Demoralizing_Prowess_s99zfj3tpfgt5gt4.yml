@@ -1,0 +1,118 @@
+name: Demoralizing Prowess
+type: feat
+img: icons/magic/control/voodoo-doll-pain-damage-red.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 7th level, you learn to humiliate your foes even as you strike them down. Once per turn, when you hit with a melee weapon attack, choose one damage type from fire, lightning, radiant, or thunder. The attack deals 1d6 bonus damage of the chosen type.&nbsp; The target of the attack must also make a Wisdom saving throw against your maneuver save DC; on a failure, it is rattled until the end of its next turn.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: wis
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.fPhA3YYn8X9AeqCO
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: nhiL9YMLsVVYqFhd
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: Rattled
+    img: icons/magic/control/voodoo-doll-pain-damage-red.webp
+    _id: k8jDWnfwseGO5Q7c
+    type: base
+    system: { }
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["rattled"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: 1
+      startRound: null
+      startTurn: null
+    description: >-
+      <ul> 
+      <li>A rattled creature cannot benefit from expertise dice.</li> 
+      <li>A creature that is immune to being stunned is immune to being rattled.</li> 
+      <li>A rattled creature cannot take reactions.</li> 
+      </ul>
+    tint: '#ffffff'
+    statuses:
+      - rattled
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.22
+      createdTime: 1723141977288
+      modifiedTime: 1723142078477
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!s99zfj3tpfgt5gt4.k8jDWnfwseGO5Q7c'
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723141930620
+  modifiedTime: 1723141977325
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: s99zfj3tpfgt5gt4
+_key: '!items!s99zfj3tpfgt5gt4'
