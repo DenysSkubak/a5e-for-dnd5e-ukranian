@@ -1,0 +1,36 @@
+folder: null
+name: Sound Sculptor's Tools
+type: feat
+img: icons/magic/sonic/scream-wail-shout-teal.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you select this archetype at 3rd level, you gain proficiency with the Performance skill and two musical instruments of your choice. If you are already proficient in Performance, you gain an&nbsp;expertise die</span>&nbsp;instead. You also learn the<em>&nbsp;@UUID[Compendium.a5e-for-dnd5e.spells.Item.4gcxix2l4zvy9kdu]{Message}</span></em>,<em>&nbsp;<span>@UUID[Compendium.a5e-for-dnd5e.spells.Item.4oruofw2q7gso9hq]{Minor Illusion}</em>, and&nbsp;<em><span>@UUID[Compendium.a5e-for-dnd5e.spells.Item.eiek2vbzwijd0qac]{Thaumaturgy}</em><em>&nbsp;</em>cantrips, and they do not count against your maximum cantrips known.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722270001024
+  modifiedTime: 1722270046500
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: tfp7rlx6nqur12ss
+_key: '!items!tfp7rlx6nqur12ss'
