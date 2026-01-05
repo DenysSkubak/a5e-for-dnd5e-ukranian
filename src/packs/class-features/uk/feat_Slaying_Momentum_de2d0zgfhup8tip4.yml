@@ -1,0 +1,74 @@
+name: Slaying Momentum
+type: feat
+img: icons/skills/melee/strike-axe-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 14th level, your thirst for battle can be overwhelming. When an ally under the effects of one of your battle hymns reduces a creature to 0 hit points, they regain hit points equal to your Bardic Inspiration die + your Charisma modifier.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: heal
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@classResources.bardic-inspiration-die + @mod'
+        - healing
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722310851565
+  modifiedTime: 1722310903521
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: de2d0zgfhup8tip4
+_key: '!items!de2d0zgfhup8tip4'
