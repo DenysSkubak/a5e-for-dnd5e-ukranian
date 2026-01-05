@@ -1,0 +1,32 @@
+name: 'Invocation: Eyes of the Rune Keeper'
+type: feat
+img: icons/magic/perception/orb-crystal-ball-scrying-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: <p>You can read all writing.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: uu1u44qe27ws6if7
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!uu1u44qe27ws6if7'
