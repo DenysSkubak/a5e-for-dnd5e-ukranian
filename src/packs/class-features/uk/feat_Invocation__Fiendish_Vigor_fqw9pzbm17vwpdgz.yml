@@ -1,0 +1,33 @@
+name: 'Invocation: Fiendish Vigor'
+type: feat
+img: icons/creatures/unholy/demon-horned-winged-laughing.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You learn the<em>&nbsp;false life</em>&nbsp;spell, and the spell doesn’t count against your number of spells known. When you cast it on yourself as a 1st-level spell, you can do so without spending spell points or material components.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: fqw9pzbm17vwpdgz
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!fqw9pzbm17vwpdgz'
