@@ -1,0 +1,33 @@
+name: 'Invocation: Sixth Arcanum'
+type: feat
+img: icons/magic/unholy/hand-claw-fire-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You learn a 6th-level warlock spell that you can cast once between long rests.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 11th Level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 4enpadkozx8d4jyl
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!4enpadkozx8d4jyl'
