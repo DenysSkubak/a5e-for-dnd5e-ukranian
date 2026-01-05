@@ -1,0 +1,33 @@
+name: Apprenticed
+type: feat
+img: icons/skills/social/diplomacy-handshake.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain a follower of the apothecary, healer, diviner, or sage type. They are initially inexperienced, but become seasoned at level 9 and expert at level 17.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: tylsv140t1q0ygxw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!tylsv140t1q0ygxw'
