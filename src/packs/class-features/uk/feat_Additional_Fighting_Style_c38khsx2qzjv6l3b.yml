@@ -1,0 +1,43 @@
+name: Additional Fighting Style
+type: feat
+img: icons/weapons/polearms/javelin-flared.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 10th level, you&rsquo;ve mastered multiple styles that constitute a knight&rsquo;s martial prowess. You gain an additional Fighting Style from the following list:</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.cyh3f0nnloa33u43]{Fighting Style: Battle Ready}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.6ez2pap3b27morzt]{Fighting Style: Defense}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.3nhippsahwv78m11]{Fighting Style: Dueling}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.zb6nagegv8k3ze3r]{Fighting Style: Great Weapon Fighting}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.n3hm2b4o7nkq2bnd]{Fighting Style: Mounted Combatant}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.vhfr4oc5f411zi01]{Fighting Style: Protection}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.jbow9ripsrpn0bjo]{Fighting Style: Tireless Fighting}</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723128628908
+  modifiedTime: 1723128702799
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: c38khsx2qzjv6l3b
+_key: '!items!c38khsx2qzjv6l3b'
