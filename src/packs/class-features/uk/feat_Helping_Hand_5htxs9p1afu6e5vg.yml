@@ -1,0 +1,70 @@
+name: Helping Hand
+type: feat
+img: icons/magic/holy/prayer-hands-glowing-yellow-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p dir="ltr">At 2nd level, you have learned to rely on your faith to aid you in a wide variety of situations. As a bonus action, you can temporary proficiency with a skill or tool you are not proficient with. This effect persists until you begin a long rest. Once you have used this feature a number of times equal to half your proficiency modifier, you can&rsquo;t do so again until you finish a long rest.</p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Itinerant'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+folder: null
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722978407790
+  modifiedTime: 1722978439150
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 5htxs9p1afu6e5vg
+_key: '!items!5htxs9p1afu6e5vg'
