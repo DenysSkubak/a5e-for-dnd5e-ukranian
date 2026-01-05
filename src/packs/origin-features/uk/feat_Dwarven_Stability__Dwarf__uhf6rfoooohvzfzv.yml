@@ -1,0 +1,33 @@
+name: Dwarven Stability (Dwarf)
+type: feat
+img: icons/environment/people/infantry.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain an expertise die on saving throws against effects that would knock you prone, and on saving throws made to resist being shoved.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: uhf6rfoooohvzfzv
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!uhf6rfoooohvzfzv'
