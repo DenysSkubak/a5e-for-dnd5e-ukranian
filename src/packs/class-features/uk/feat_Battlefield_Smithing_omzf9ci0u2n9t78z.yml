@@ -1,0 +1,37 @@
+name: Battlefield Smithing
+type: feat
+img: icons/svg/item-bag.svg
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 6th level, as a veteran combat-tinkerer you specialize in certain aspects of warfare. Choose one of the following.</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.8lqjuh72a2gg6oej]{Battlefield Smithing (Armor Smithing)}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.lr8eu9tu29r9oknu]{Battlefield Smithing (Caravan Smithing)}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.zzwcoeuls3eyoe59]{Battlefield Smithing (Weapon Smithing)}</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: omzf9ci0u2n9t78z
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!omzf9ci0u2n9t78z'
