@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Utility Augments (Gear Shift)
+type: feat
+img: icons/commodities/tech/metal-claws.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: <p>Your Speed increases by 5 feet.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: pd7z5g3vyix9px0y
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!pd7z5g3vyix9px0y'
