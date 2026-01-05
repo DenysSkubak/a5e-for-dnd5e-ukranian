@@ -1,0 +1,118 @@
+name: Mushroom Rations
+type: feat
+img: icons/consumables/mushrooms/ovate-thin-blue.webp
+effects:
+  - origin: Item.qddoAuaXAvqQbFRe
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: eLHPNXFfbPVMsQPl
+        duration:
+          unit: hours
+    transfer: false
+    name: Mushroom Rations
+    img: icons/consumables/mushrooms/ovate-thin-blue.webp
+    _id: fKDJMsc8LxEh3xEj
+    type: base
+    system: { }
+    changes:
+      - key: system.traits.dr.value
+        value: poison
+        mode: 2
+        priority: null
+      - key: system.traits.conditionImmunities
+        value: '["poisoned"]'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 28800
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Resistance to poison damage and immunity to the poisoned condition for 8 hours.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722966140655
+      modifiedTime: 1722966182018
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!tdw6ndwkbme46zdh.fKDJMsc8LxEh3xEj'
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 2nd level, you learn to sprout edible mushrooms from any nearby organic material. As an action, as long as there is some dead organic material weighing at least 10 pounds around (including soil, bodies, wooden furniture or tools, etc.) you may spend a use of Wild Shape to create a number of edible mushrooms equal to your proficiency bonus. The mushrooms only stay nutritious for a day, but each counts as a unit of Supply and grants a creature that eats it resistance to poison damage and immunity to the poisoned condition for 8 hours.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722966072118
+  modifiedTime: 1722966201678
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: tdw6ndwkbme46zdh
+_key: '!items!tdw6ndwkbme46zdh'
