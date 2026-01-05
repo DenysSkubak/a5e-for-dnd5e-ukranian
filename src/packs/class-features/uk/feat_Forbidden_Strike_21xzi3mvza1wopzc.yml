@@ -1,0 +1,71 @@
+name: Forbidden Strike
+type: feat
+img: icons/magic/fire/flame-burning-fist-strike.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Once per turn, when you hit an opponent with at least one attack from @UUID[Compendium.a5e-for-dnd5e.class-features.Item.t3idzgaxlrxbo0o2]{Flurry of Blows}, you can spend 1 exertion to deal additional damage equal to your martial arts die.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 7th level
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@classResources.martial-arts'
+        - bludgeoning
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721839112373
+  modifiedTime: 1721839161340
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 21xzi3mvza1wopzc
+_key: '!items!21xzi3mvza1wopzc'
