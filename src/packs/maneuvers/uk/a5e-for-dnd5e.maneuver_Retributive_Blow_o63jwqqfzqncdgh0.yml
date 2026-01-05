@@ -1,0 +1,64 @@
+name: Retributive Blow
+type: a5e-for-dnd5e.maneuver
+img: icons/skills/melee/spear-tips-quintuple-orange.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>You return a blow so quickly that your opponent is shocked.</p><p>When you are hit with a melee weapon attack, you can use your reaction to make a melee weapon attack against the attacker. On a hit, that creature has disadvantage on attack rolls against you until the beginning of your next turn.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  degree: 4
+  tradition: mgl
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 2
+  activation:
+    type: reaction
+    cost: 1
+    condition: When you are hit with a melee weapon attack.
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: touch
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: CAAnoYyx4VMuoBGL
+_id: o63jwqqfzqncdgh0
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!o63jwqqfzqncdgh0'
