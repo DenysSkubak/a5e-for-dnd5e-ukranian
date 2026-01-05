@@ -1,0 +1,36 @@
+name: Friend of a Friend
+type: feat
+img: icons/skills/social/diplomacy-unity-alliance.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 11th level you can become a guardian ranger to two beasts at once, one of which can be Large.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723331523883
+  modifiedTime: 1723331545480
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: usgn1mdciwdnlnio
+_key: '!items!usgn1mdciwdnlnio'
