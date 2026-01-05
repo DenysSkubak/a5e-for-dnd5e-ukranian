@@ -1,0 +1,39 @@
+folder: EExYg2tBT0B0X2e9
+name: Skulker's Set (Rogue)
+type: container
+img: icons/containers/bags/pack-leather-embossed-brown.webp
+system:
+  description:
+    value: ''
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 91
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: mundane
+  identified: true
+  capacity:
+    type: weight
+    value: null
+    weightless: false
+  currency:
+    cp: 0
+    sp: 0
+    ep: 0
+    gp: 0
+    pp: 0
+effects: [ ]
+flags: { }
+_id: f4x7yh82z866l39g
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!f4x7yh82z866l39g'
