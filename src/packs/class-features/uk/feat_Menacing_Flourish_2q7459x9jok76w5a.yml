@@ -1,0 +1,103 @@
+name: Menacing Flourish
+type: feat
+img: icons/magic/death/skull-horned-worn-fire-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you hit a creature with a melee attack, you can spend a bonus action to activate this trick and deliver a terrifying threat. The target makes a Wisdom saving throw . If it fails, for the next minute it is frightened of you.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: wis
+    dc: null
+    scaling: spell
+effects:
+  - icon: icons/magic/death/skull-horned-worn-fire-blue.webp
+    origin: Item.H4cPumxaH4ntNCdT
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: oTnOBS7Y4cOOhboE
+        duration:
+          unit: minutes
+    transfer: false
+    name: Frightened
+    _id: dJdVS0I2VIgtS0RH
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["frightened"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses:
+      - frightened
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!2q7459x9jok76w5a.dJdVS0I2VIgtS0RH'
+flags: { }
+folder: null
+_id: 2q7459x9jok76w5a
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!2q7459x9jok76w5a'
