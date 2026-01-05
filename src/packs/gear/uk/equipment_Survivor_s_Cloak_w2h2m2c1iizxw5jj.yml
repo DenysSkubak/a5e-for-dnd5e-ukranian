@@ -1,0 +1,47 @@
+name: Survivor’s Cloak
+type: equipment
+img: icons/equipment/back/cloak-brown.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <blockquote><p>(Requires attunement by someone proficient in Survival.)</p></blockquote><p>This cloak is an unassuming neutral grayish-brown color that seems to slowly fade into the background whenever you are standing still.</p><p>You cannot attune to this cloak if you are not proficient with Survival.</p><p>While attuned to and wearing the cloak, you may treat a long rest as if you were in a haven. Once you use this property, you cannot do so again for 1 week.</p><p>In addition, the cloak allows you to travel at a fast pace while remaining stealthy.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 2
+  price:
+    value: 3000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: rare
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: clothing
+    baseItem: ''
+folder: 9k4UVzCiMuqj62ea
+_id: w2h2m2c1iizxw5jj
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!w2h2m2c1iizxw5jj'
