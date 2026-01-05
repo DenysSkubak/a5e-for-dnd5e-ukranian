@@ -1,0 +1,33 @@
+name: Sharpened Tools (Villager)
+type: feat
+img: icons/environment/settlement/house-farmland-small.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>When danger approaches the village and there are no adventurers around, it’s often left to the villagers to defend themselves with whatever they have on hand. You are proficient with improvised weapons.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: keks5uacu7ndv029
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!keks5uacu7ndv029'
