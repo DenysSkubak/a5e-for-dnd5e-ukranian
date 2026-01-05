@@ -1,0 +1,34 @@
+name: Bear Grab (Hibernating Affliction)
+type: feat
+img: icons/creatures/abilities/bear-roar-bite-brown-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: feat
+    subtype: ''
+  description:
+    value: >-
+      <p>If you hit a Medium or smaller creature with your claw attack, it is grappled. Until this grapple ends, you can’t use two-handed weapons and can’t attack a different target with your claw.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: y4aocwqt4kp1jyzc
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!y4aocwqt4kp1jyzc'
