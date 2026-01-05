@@ -1,0 +1,68 @@
+name: Focused Defense
+type: feat
+img: icons/skills/targeting/target-strike-gray.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 9th level, you can use the confusion of a large battle to protect you. If there are at least two enemies within 30 feet, you can use a bonus action to choose one of them. Until the end of your next turn, that creature has disadvantage on attack rolls against you.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 30
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_id: wrddy2h89soja1pz
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!wrddy2h89soja1pz'
