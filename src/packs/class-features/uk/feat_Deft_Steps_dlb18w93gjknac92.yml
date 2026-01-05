@@ -1,0 +1,37 @@
+folder: null
+name: Deft Steps
+type: feat
+img: icons/equipment/feet/shoes-leather-simple-brown.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at 6th level, you gain proficiency with the @UUID[Compendium.a5e.a5e-maneuvers.Item.5qw3r7evixr9d5zn]{Expert Tumble} combat maneuver, do not need to spend exertion to activate it, and can benefit from its effects even if you only move half your speed. In addition, you gain proficiency in Acrobatics. If you are already proficient, you gain an expertise die.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#2'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.20
+  createdTime: 1722395149037
+  modifiedTime: 1722395159316
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: dlb18w93gjknac92
+_key: '!items!dlb18w93gjknac92'
