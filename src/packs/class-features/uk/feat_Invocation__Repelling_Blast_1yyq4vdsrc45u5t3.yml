@@ -1,0 +1,33 @@
+name: 'Invocation: Repelling Blast'
+type: feat
+img: icons/magic/lightning/bolt-strike-creature-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you hit a creature with your Eldritch Blast or when a creature fails its saving throw against it, you can push the creature up to 10 feet away from you in a straight line.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 1yyq4vdsrc45u5t3
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!1yyq4vdsrc45u5t3'
