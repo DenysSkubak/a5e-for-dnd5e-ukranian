@@ -1,0 +1,36 @@
+name: Lord of the Unliving
+type: feat
+img: icons/magic/death/skull-humanoid-crown-white-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 6th level you gain an additional two @UUID[Compendium.a5e-for-dnd5e.class-features.Item.zezsezm2e0azb3ty]{Empowered Turning} options. These must be chosen from @UUID[Compendium.a5e-for-dnd5e.class-features.Item.dtjtka3c3t73pycs]{Command Undead} or @UUID[Compendium.a5e-for-dnd5e.class-features.wwk94syro18y9892]{Destroy Undead}. In addition, all undead creatures have disadvantage on saving throws against your attempts to turn, command, or destroy them.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722945909952
+  modifiedTime: 1722946013962
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: zyj1kpe2obq3z6xz
+_key: '!items!zyj1kpe2obq3z6xz'
