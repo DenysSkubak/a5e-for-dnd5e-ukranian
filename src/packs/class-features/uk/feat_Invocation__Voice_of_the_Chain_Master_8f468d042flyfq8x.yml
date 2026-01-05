@@ -1,0 +1,33 @@
+name: 'Invocation: Voice of the Chain Master'
+type: feat
+img: icons/creatures/unholy/demon-hairy-winged-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>So long as you are on the same plane of existence, you can communicate telepathically with your familiar, perceive through your familiar&rsquo;s senses, and also speak through your familiar in your own voice (even if your familiar is normally incapable of speech).</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Pact of the Chain feature
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 8f468d042flyfq8x
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!8f468d042flyfq8x'
