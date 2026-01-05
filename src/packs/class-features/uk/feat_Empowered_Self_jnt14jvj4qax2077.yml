@@ -1,0 +1,72 @@
+folder: null
+name: Empowered Self
+type: feat
+img: icons/magic/symbols/runes-star-pentagon-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p id="docs-internal-guid-3fadd190-7fff-918a-b4d0-4ca2f35e303c" dir="ltr">At 7th level, the power which allows you to guide the elements also allows you to guide yourself. When you make a skill check, you may spend 1 spell point to use your spellcasting ability for the check in place of the ability the skill normally uses.&nbsp;</p> 
+      <p dir="ltr">Likewise, when you make a saving throw, you may spend your reaction and 2 spell points to add your spellcasting ability modifier to the saving throw (even if your spellcasting ability modifier is already included).</p> 
+      <p dir="ltr">You may only use spell points granted by the Elementalist class when using this ability.</p>
+    chat: ''
+  source:
+    book: Secrets of the Selkies
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: reaction
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723135761750
+  modifiedTime: 1723136285166
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: jnt14jvj4qax2077
+_key: '!items!jnt14jvj4qax2077'
