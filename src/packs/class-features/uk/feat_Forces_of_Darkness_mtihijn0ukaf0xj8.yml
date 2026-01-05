@@ -1,0 +1,71 @@
+name: Forces of Darkness
+type: feat
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At level 15, you learn to call upon the forces of darkness to aid you in battle. Choose two spells from @UUID[Compendium.a5e-for-dnd5e.spells.Item.evhh5s6v0ctzop82]{Create Undead}, @UUID[Compendium.a5e-for-dnd5e.spells.Item.rkmcwdyfuhbjyimk]{Conjure Fey}, and @UUID[Compendium.a5e-for-dnd5e.spells.Item.92jkpmb5b1nl7tem]{Conjure Fiend}. You can cast each once per long rest without components.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: minute
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+img: icons/magic/symbols/triangle-glow-purple.webp
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723400654662
+  modifiedTime: 1723400732202
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: mtihijn0ukaf0xj8
+_key: '!items!mtihijn0ukaf0xj8'
