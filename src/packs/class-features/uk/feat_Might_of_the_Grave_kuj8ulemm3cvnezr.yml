@@ -1,0 +1,36 @@
+name: Might of the Grave
+type: feat
+img: icons/magic/death/weapon-sword-skull-purple.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 3rd level, you gain proficiency with the Adamant Mountain combat school. You also gain a single first degree maneuver from that school that does not count against your known maneuvers.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723333681947
+  modifiedTime: 1723333713334
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: kuj8ulemm3cvnezr
+_key: '!items!kuj8ulemm3cvnezr'
