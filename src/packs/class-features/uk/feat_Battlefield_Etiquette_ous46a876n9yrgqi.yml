@@ -1,0 +1,67 @@
+name: Battlefield Etiquette
+type: feat
+img: icons/skills/targeting/crosshair-mark-rough-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, you learn the unwritten rules of the battlefield. After you have fought beside a martial artist for an encounter, battled against them, or observed them for at least 10 minutes, you gain an expertise die on Charisma checks made to influence them. Any creature that has a martial arts die, knows a maneuver from a combat tradition, or possesses an exertion pool is considered to be a martial artist.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: minute
+    cost: 10
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: ous46a876n9yrgqi
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ous46a876n9yrgqi'
