@@ -1,0 +1,33 @@
+name: Philosophic Mind
+type: feat
+img: icons/environment/settlement/city-hall.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Your rationale shields your psyche occasionally. Once between long rests, at the start of your turn you can suppress the effects of an enchantment spell you are under for 1 round as your logic overrides it.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: eiae8e7nvm4x8sc7
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!eiae8e7nvm4x8sc7'
