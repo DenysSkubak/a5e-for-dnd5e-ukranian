@@ -1,0 +1,35 @@
+name: Orienteering
+type: feat
+img: icons/tools/navigation/compass-brass-blue-red.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You always know to have a bit of magnet and a pin on you for orienteering emergencies. With 1 minute&rsquo;s work you can cobble together a makeshift compass. Compasses made in this way become useless after 1 hour and have no sale value. You&rsquo;re also adept at surveying your surroundings and you gain an expertise die on checks made for the Chronicle journey activity.</p> 
+      <p>In addition, you gain proficiency in Survival and its wayfinding skill specialty. If you already have this skill specialty you instead gain a Survival skill specialty of your choice.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 9tnhmj0i844q9g1d
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!9tnhmj0i844q9g1d'
