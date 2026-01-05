@@ -1,0 +1,35 @@
+name: Potion of Water Breathing
+type: consumable
+img: icons/consumables/potions/potion-bottle-fumes-blue.webp
+system:
+  description:
+    value: >-
+      <p>After drinking this murky blue potion, you are able to breathe underwater for 1 hour.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 150
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: uncommon
+  identified: true
+  type:
+    value: potion
+    subtype: ''
+  uses:
+    autoDestroy: false
+effects: [ ]
+flags: { }
+folder: jUj7oP8VFpreITEL
+_id: 8lcxc857ufnzwsqj
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!8lcxc857ufnzwsqj'
