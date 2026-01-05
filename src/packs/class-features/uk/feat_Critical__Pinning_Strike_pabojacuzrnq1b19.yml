@@ -1,0 +1,101 @@
+name: 'Critical: Pinning Strike'
+type: feat
+img: icons/magic/nature/root-vine-entangled-hands.webp
+effects:
+  - icon: icons/magic/nature/root-vine-entangled-hands.webp
+    origin: Item.2BfYWeTAdxtkRr4d
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: b8c8jPexFxMk338o
+    transfer: false
+    name: Grappled
+    _id: ZcCyVkc4EXKc1dpl
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["grappled"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses:
+      - grappled
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!pabojacuzrnq1b19.ZcCyVkc4EXKc1dpl'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>The profound force of your blow breaks the environment, crumbling the stone beneath your target’s feet or knocking shattered timber over their legs. When you score a critical hit, the target is grappled (escape DC equal to your Furious Critical DC).</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: special
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: dex
+    dc: null
+    scaling: spell
+folder: null
+_id: pabojacuzrnq1b19
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!pabojacuzrnq1b19'
