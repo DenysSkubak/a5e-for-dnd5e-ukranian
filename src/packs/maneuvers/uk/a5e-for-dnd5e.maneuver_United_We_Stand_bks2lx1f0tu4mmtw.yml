@@ -1,0 +1,28 @@
+name: United We Stand
+type: a5e-for-dnd5e.maneuver
+img: icons/skills/social/diplomacy-unity-alliance.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>You and your allies combine forces and attack a single foe with devastating results.</p><p>Make a melee weapon attack against a creature. Any willing ally within your reach can use their reaction to make a melee weapon attack against the same creature.</p><p>If the creature is hit by two attacks, it takes extra damage equal to your proficiency bonus.</p><p>If the creature is hit by three attacks, it takes extra damage equal to twice your proficiency bonus and it is knocked prone.</p><p>If the creature is hit by four or more attacks, it takes extra damage equal to twice your proficiency bonus, it is knocked prone, and it is stunned until the end of its next turn.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  degree: 5
+  tradition: sk
+  prerequisite: Extra Attack
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 3
+folder: NkjKbuv7qZG4ZBTm
+_id: bks2lx1f0tu4mmtw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!bks2lx1f0tu4mmtw'
