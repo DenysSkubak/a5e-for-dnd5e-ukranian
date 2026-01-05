@@ -1,0 +1,33 @@
+name: Mountain Born (Mountain Dwarf)
+type: feat
+img: icons/environment/settlement/mine-cart-rocks-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You’re acclimated to high and low altitudes, including elevations above 20,000 feet or depths below 20,000 feet. You’re also naturally adapted to cold climates.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: lj5ex2wuffrgqtdb
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!lj5ex2wuffrgqtdb'
