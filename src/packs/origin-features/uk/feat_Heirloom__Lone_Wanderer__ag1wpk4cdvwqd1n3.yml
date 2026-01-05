@@ -1,0 +1,33 @@
+name: Heirloom (Lone Wanderer)
+type: feat
+img: icons/environment/wilderness/terrain-river-road-gray.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You carry a family or cultural heirloom. Choose one weapon worth 100 gold or less. You begin play with a masterwork version of that weapon.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: ag1wpk4cdvwqd1n3
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ag1wpk4cdvwqd1n3'
