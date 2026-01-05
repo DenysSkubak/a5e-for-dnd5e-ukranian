@@ -1,0 +1,33 @@
+name: Improved Familiar (Interceder)
+type: feat
+img: icons/magic/symbols/circle-ouroboros.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 6th level your familiar may instead take on any form allowed by the warlock Pact of the Chain feature.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Level 6 Witch Class; Interceder archetype
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: l9yl3qgisj5cm9up
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!l9yl3qgisj5cm9up'
