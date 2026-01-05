@@ -1,0 +1,32 @@
+name: Fleet of Foot (Wood Elf)
+type: feat
+img: icons/magic/nature/tree-elm-roots-brown.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: <p>Your Speed increases by 5 feet.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: hel7qdspdbc9ud6z
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!hel7qdspdbc9ud6z'
