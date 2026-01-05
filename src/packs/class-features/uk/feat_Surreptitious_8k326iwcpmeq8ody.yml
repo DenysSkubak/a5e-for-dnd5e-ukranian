@@ -1,0 +1,36 @@
+name: Surreptitious
+type: feat
+img: icons/magic/perception/silhouette-stealth-shadow.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, you learn that anonymity is oftentimes the best defense, and that the world is your arsenal. You gain proficiency in the Stealth skill and with the disguise kit. You also gain proficiency with improvised weapons and a single rare weapon of your choice.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723150451449
+  modifiedTime: 1723150506416
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 8k326iwcpmeq8ody
+_key: '!items!8k326iwcpmeq8ody'
