@@ -1,0 +1,64 @@
+name: Rearing Menace
+type: a5e-for-dnd5e.maneuver
+img: icons/creatures/mammals/spirit-deer-herd-blue.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>You rear your mount, intimidating nearby opponents.</p><p>When you activate this maneuver, you take the Attack action and make a weapon attack, as well as any additional attacks granted by Extra Attack. You must be mounted to use this maneuver.</p><p>Choose a number of creatures equal to your proficiency bonus that are within 20 feet. Each creature makes a Wisdom saving throw. On a failure, a creature is frightened until the end of your next turn.</p><p>A creature of the same size as your mount or larger has advantage on the saving throw.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  degree: 2
+  tradition: ss
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 3
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: touch
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: save
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: wis
+    dc: null
+    scaling: spell
+folder: ODQmAgpBBv6qOved
+_id: l5teiauycbe7n2mi
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!l5teiauycbe7n2mi'
