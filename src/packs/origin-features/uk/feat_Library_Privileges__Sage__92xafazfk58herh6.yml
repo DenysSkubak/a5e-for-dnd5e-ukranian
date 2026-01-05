@@ -1,0 +1,33 @@
+name: Library Privileges (Sage)
+type: feat
+img: icons/sundries/books/book-open-brown.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: background
+    subtype: ''
+  description:
+    value: >-
+      <p>As a fellow or friend of several universities you have visiting access to the great libraries, most of which are off-limits to the general public. With enough time spent in a library, you can uncover most of the answers you seek (any question answerable with a DC 20 Arcana, Culture, Engineering, History, Nature, or Religion check).</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: n7MBM7lcayeaiQdF
+_id: 92xafazfk58herh6
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!92xafazfk58herh6'
