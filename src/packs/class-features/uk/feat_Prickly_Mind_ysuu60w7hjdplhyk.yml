@@ -1,0 +1,71 @@
+name: Prickly Mind
+type: feat
+img: icons/commodities/biological/organ-brain-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 15th level, your reactions are so honed that you react even to magic trying to affect your mind. When you make a saving throw to resist being charmed, you can use your reaction to deal an amount of psychic damage equal to your proficiency bonus to the creature attempting to charm you. This backlash does not reveal the creature that tried to charm you.</p><p>In addition, you gain proficiency with Wisdom saving throws.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: reaction
+    cost: 1
+    condition: Saving throw to resist being charmed
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@prof'
+        - psychic
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: ysuu60w7hjdplhyk
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ysuu60w7hjdplhyk'
