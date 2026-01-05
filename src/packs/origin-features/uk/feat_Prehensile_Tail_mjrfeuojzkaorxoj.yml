@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Prehensile Tail
+type: feat
+img: icons/creatures/abilities/tail-swipe-green.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You have a tail that grants you an&nbsp;expertise die</span>&nbsp;on checks made to balance, climb, or make Sleight of Hand checks. Your tail can carry objects weighing up to 5 pounds, but it can&rsquo;t wield a weapon or use a shield. In addition, you gain&nbsp;advantage&nbsp;on&nbsp;<span>saving throws to avoid falling.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: mjrfeuojzkaorxoj
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!mjrfeuojzkaorxoj'
