@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Sensitive Ears
+type: feat
+img: icons/svg/item-bag.svg
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Any time you take thunder damage, you make a Constitution save against a DC of 10 or half the damage taken, whichever is higher. On a failure, you are deafened until the end of your next turn.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 2jqqbc9d2xmzte96
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!2jqqbc9d2xmzte96'
