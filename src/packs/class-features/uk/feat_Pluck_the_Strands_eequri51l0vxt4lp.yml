@@ -1,0 +1,108 @@
+folder: null
+name: Pluck the Strands
+type: feat
+img: icons/magic/time/hourglass-tilted-glowing-gold.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 14th level, you gain the ability to influence fate directly. As a bonus action, you can select a number of creatures that you can see up to your&nbsp;spellcasting</span>&nbsp;modifier. Until the start of your next turn, the creatures you choose have&nbsp;advantage</span>&nbsp;on&nbsp;attack rolls</span>,&nbsp;<span>ability checks, and&nbsp;<span>saving throws&nbsp;. Once you have used this ability, you must finish a&nbsp;<span>long rest before you can do so again.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - icon: icons/magic/time/hourglass-tilted-glowing-gold.webp
+    origin: Item.eequri51l0vxt4lp
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: TN81c4rqAZ0JALU2
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: Plucked Strands
+    _id: BDm5xeBkuJ4wTjEe
+    changes:
+      - key: flags.a5e.effects.rollMode.abilityCheck.all
+        value: '1'
+        mode: 6
+        priority: null
+      - key: flags.a5e.effects.rollMode.abilitySave.all
+        value: '1'
+        mode: 6
+        priority: null
+      - key: flags.a5e.effects.rollMode.attack.all
+        value: '1'
+        mode: 6
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!eequri51l0vxt4lp.BDm5xeBkuJ4wTjEe'
+flags: { }
+_id: eequri51l0vxt4lp
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!eequri51l0vxt4lp'
