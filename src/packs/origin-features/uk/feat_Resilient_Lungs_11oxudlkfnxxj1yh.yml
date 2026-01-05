@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Resilient Lungs
+type: feat
+img: icons/magic/air/fog-gas-smoke-brown.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Repeated underwater forays have strengthened your lungs. You can hold your breath for twice as long as normal.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 11oxudlkfnxxj1yh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!11oxudlkfnxxj1yh'
