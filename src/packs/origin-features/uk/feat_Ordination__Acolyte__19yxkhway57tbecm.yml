@@ -1,0 +1,33 @@
+name: Ordination (Acolyte)
+type: feat
+img: icons/magic/holy/chalice-glowing-gold-water.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: background
+    subtype: ''
+  description:
+    value: >-
+      <p>You are expected to perform the religious ceremonies of your faith, including weddings and funerals. In exchange, members of your faith will provide you and your companions food, lodging, and a moderate lifestyle.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: n7MBM7lcayeaiQdF
+_id: 19yxkhway57tbecm
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!19yxkhway57tbecm'
