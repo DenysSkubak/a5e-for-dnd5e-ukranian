@@ -1,0 +1,112 @@
+name: Headlock
+type: feat
+img: icons/magic/control/buff-strength-muscle-damage-orange.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 11th level when you successfully grapple a creature of your size or smaller, you can spend an exertion point to restrain them for the duration of the grapple.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.oyUfpf4zQWnIu9Zb
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: B8DkiLsrBhDMSNT4
+    transfer: false
+    name: Restrained
+    img: icons/magic/control/buff-strength-muscle-damage-orange.webp
+    _id: iFkF0QSpWW4AJ5IC
+    type: base
+    system: { }
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["restrained"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    tint: '#ffffff'
+    statuses:
+      - restrained
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: 1722149120416
+      modifiedTime: 1722149142379
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!zh9dfygratrztdrm.iFkF0QSpWW4AJ5IC'
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722149092199
+  modifiedTime: 1722149162817
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: zh9dfygratrztdrm
+_key: '!items!zh9dfygratrztdrm'
