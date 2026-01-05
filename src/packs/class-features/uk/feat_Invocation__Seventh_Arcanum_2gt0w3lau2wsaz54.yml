@@ -1,0 +1,33 @@
+name: 'Invocation: Seventh Arcanum'
+type: feat
+img: icons/magic/unholy/hand-claw-fire-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You learn a 7th-level warlock spell that you can cast once between long rests.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 13th Level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 2gt0w3lau2wsaz54
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!2gt0w3lau2wsaz54'
