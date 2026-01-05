@@ -1,0 +1,33 @@
+name: Snake Eyes (Gambler)
+type: feat
+img: icons/creatures/eyes/lizard-single-slit-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your aura of luck improves. Any creature who is in your aura may reroll 1s on any damage roll, but must take the new result.</p>
+    chat: ''
+  source:
+    book: 'System Architecture: Motif Classes'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 1a30ifgj1m1fdoi0
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!1a30ifgj1m1fdoi0'
