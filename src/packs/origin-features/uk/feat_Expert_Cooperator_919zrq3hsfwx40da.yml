@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Expert Cooperator
+type: feat
+img: icons/svg/item-bag.svg
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>When you use the Help action to aid another creature make an ability check, they also gain an&nbsp;expertise die.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 919zrq3hsfwx40da
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!919zrq3hsfwx40da'
