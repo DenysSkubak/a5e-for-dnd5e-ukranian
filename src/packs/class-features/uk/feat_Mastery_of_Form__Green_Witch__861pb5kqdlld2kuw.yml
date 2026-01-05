@@ -1,0 +1,33 @@
+name: Mastery of Form (Green Witch)
+type: feat
+img: icons/magic/nature/wolf-paw-glow-large-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 14th level, you may cast the @UUID[Compendium.a5e-for-dnd5e.spells.Item.vsgft19wz69otqlb]{Shapechange}&nbsp;spell once per long rest without expanding a spell slot. You may only use this spell to take on the form of a beast, plant, fey, elemental, monstrosity, or giant. At 17th level, you may also assume the form of a dragon.&nbsp;</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 861pb5kqdlld2kuw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!861pb5kqdlld2kuw'
