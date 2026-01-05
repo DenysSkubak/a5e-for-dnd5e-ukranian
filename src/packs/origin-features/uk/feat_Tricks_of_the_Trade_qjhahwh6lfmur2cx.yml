@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Tricks of the Trade
+type: feat
+img: icons/containers/bags/pack-engraved-leather-tan.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You are proficient in Deception, Performance, or Sleight of Hand, or with disguise kits (your choice).</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: qjhahwh6lfmur2cx
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!qjhahwh6lfmur2cx'
