@@ -1,0 +1,33 @@
+name: 'Invocation: Frog Fangs'
+type: feat
+img: icons/creatures/claws/claw-talons-glowing-orange.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your familiar can take the Attack action. Attacks made by or delivered through your familiar use your spell attack bonus and deal additional force damage equal to your proficiency bonus.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Pact of the Chain feature
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: sa8lr3mktzty24m6
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!sa8lr3mktzty24m6'
