@@ -1,0 +1,33 @@
+name: Spellslinger's Style
+type: feat
+img: icons/skills/ranged/projectile-strike-egg-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Choose one from the following options:</p><ul><li><strong>Flamboyance</strong>: <em>Your flair for the dramatic grants you temporary benefits.</em> Performing a trickshot, with a DC 13 attack roll, grants you expertise on your next Deception or Persuasion skill check.<br>You may instead attempt a DC 17 trick shot to instead gain advantage.<br>You may only gain advantage once during the encounter.</li><li><strong style="font-size: 10.5pt;">Quiet Observer</strong>: <em>An uncomfortable silence and a piercing gaze can cut through difficult matters with ease.<br></em>So long as you remain silent and do not attempt to use sign language to communicate during an encounter, you gain expertise on Intimidation and Persuasion checks.<strong style="font-size: 10.5pt;"><br></strong></li><li><strong style="font-size: 10.5pt;">Shrewd Accuracy</strong>: <em>You&rsquo;re well known for aiming true, even with people.</em><br>You gain expertise on Perception checks made on a person&rsquo;s appearance, and all Insight checks.</li></ul>
+    chat: ''
+  source:
+    book: 'System Architecture: Motif Classes'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Spellslinger level 3
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: wdzmsodp20kvlr9c
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!wdzmsodp20kvlr9c'
