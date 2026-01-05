@@ -1,0 +1,33 @@
+name: Draconic Diplomacy
+type: feat
+img: icons/creatures/reptiles/dragon-horned-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You’ve been well trained in the sometimes difficult art of draconic etiquette and protocols. You gain an expertise die on Charisma checks made to influence dragon creatures.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: hwqdhys01w4z1ssw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!hwqdhys01w4z1ssw'
