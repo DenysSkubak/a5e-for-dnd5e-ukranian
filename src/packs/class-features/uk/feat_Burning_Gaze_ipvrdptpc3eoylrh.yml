@@ -1,0 +1,71 @@
+name: Burning Gaze
+type: feat
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>A mere look from you can set creatures and structures aflame. As a bonus action, you may select a number of targets up to your Charisma modifier you can see within 120 feet. They all take 1d6 fire damage and 1d6 ongoing fire damage until a creature spends an action to extinguish the flames.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - 1d6
+        - fire
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+img: icons/magic/fire/flame-burning-eye.webp
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723400774360
+  modifiedTime: 1723400876114
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ipvrdptpc3eoylrh
+_key: '!items!ipvrdptpc3eoylrh'
