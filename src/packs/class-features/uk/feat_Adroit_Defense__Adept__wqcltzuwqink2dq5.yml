@@ -1,0 +1,35 @@
+name: Adroit Defense (Adept)
+type: feat
+img: icons/skills/melee/maneuver-sword-katana-yellow.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 1st level, choose one of the following options.</p> 
+      <p><strong>Agile Defense.</strong>&nbsp;While you aren&rsquo;t wearing armor and not using a shield, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier.</p> 
+      <p><strong>Brutal Defense. </strong>You are proficient with light armor. While you are wearing light armor, you can use Strength instead of Dexterity when calculating your Armor Class. If you know the Adept Speed practiced technique or any other technique that has it as a prerequisite, you can use them while wearing light armor.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: wqcltzuwqink2dq5
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!wqcltzuwqink2dq5'
