@@ -1,0 +1,65 @@
+name: Speed Over Strength
+type: a5e-for-dnd5e.maneuver
+img: icons/magic/movement/trail-streak-zigzag-yellow.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>With practiced agility you weave around an opponent wielding a more cumbersome weapon, quickly darting in to strike with a lighter armament.</p><p>When a creature attacks you with a melee weapon that has the heavy property, or a Large sized or larger creature attacks you with a natural weapon, you can use your reaction to make a melee weapon attack against it using a weapon that has the dual-wielding or finesse property.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  degree: 1
+  tradition: rc
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 1
+  activation:
+    type: reaction
+    cost: 1
+    condition: >-
+      When a creature attacks you with a melee weapon that has the heavy property, or a Large sized or larger creature attacks you with a natural weapon
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: touch
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: NyMOj8UAZtaFH2kL
+_id: 04n6htwj1azhtb0l
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!04n6htwj1azhtb0l'
