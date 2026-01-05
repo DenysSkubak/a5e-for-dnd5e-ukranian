@@ -1,0 +1,33 @@
+name: 'Talent: Path of Blustery Autumns'
+type: feat
+img: icons/magic/air/air-wave-gust-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Instead of fighting the sharp winds you have learned from them. You gain a +10 foot increase to your speed when calculating your Travel Pace.</p><p>Additionally, you can choose to ignore difficult terrain outside of combat.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: o8zxnykfbfuw2z72
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!o8zxnykfbfuw2z72'
