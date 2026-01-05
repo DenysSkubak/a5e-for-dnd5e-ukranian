@@ -1,0 +1,65 @@
+name: Quickening
+type: a5e-for-dnd5e.maneuver
+img: icons/magic/symbols/cog-shield-white-blue.webp
+system:
+  description:
+    value: >-
+      <p>As enemies draw near, you summon magic to enhance your response time.</p><p>You can expend your reaction to gain advantage on your initiative check.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#9'
+  degree: 2
+  tradition: arckn
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 1
+  activation:
+    type: reaction
+    cost: 1
+    condition: When rolling initiative
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: self
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: L140n9nNVZy6P59T
+_id: f50imh7dcpvqco79
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!f50imh7dcpvqco79'
