@@ -1,0 +1,33 @@
+name: Risky Tactics
+type: feat
+img: icons/svg/item-bag.svg
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 15th level, choose one of the following.</p><h4><strong>&nbsp;&nbsp; Risky Gambit</strong></h4><h4><strong>&nbsp;&nbsp; Risky Foray</strong></h4>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 7dr3x0kflx90a4kk
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!7dr3x0kflx90a4kk'
