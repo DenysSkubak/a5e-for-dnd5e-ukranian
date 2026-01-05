@@ -1,0 +1,33 @@
+name: Thieves' Cant (Criminal)
+type: feat
+img: icons/equipment/hand/glove-simple-leather-purple.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: background
+    subtype: ''
+  description:
+    value: >-
+      <p>You know thieves’ cant: a set of slang, hand signals, and code terms used by professional criminals. A creature that knows thieves’ cant can hide a short message within a seemingly innocent statement. A listener who knows thieves’ cant understands the message.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: n7MBM7lcayeaiQdF
+_id: 6u2csj62l76dv1cx
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!6u2csj62l76dv1cx'
