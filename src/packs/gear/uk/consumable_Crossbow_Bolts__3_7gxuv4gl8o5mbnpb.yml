@@ -1,0 +1,34 @@
+name: Crossbow Bolts +3
+type: consumable
+img: icons/weapons/ammunition/arrows-war-red.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: <p>A bundle of 20 bolts.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 10
+  weight: 0.075
+  price:
+    value: 8000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: veryRare
+  identified: true
+  type:
+    value: ammo
+    subtype: ''
+  uses:
+    autoDestroy: false
+folder: jUj7oP8VFpreITEL
+_id: 7gxuv4gl8o5mbnpb
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!7gxuv4gl8o5mbnpb'
