@@ -1,0 +1,33 @@
+name: 'Magic: Quickling Sprint'
+type: feat
+img: icons/svg/item-bag.svg
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You can use a bonus action to take the Dash or Disengage action. Once you have used this feature a number of times equal to your proficiency bonus, you can’t do so again until you finish a short or long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: zqv5fpaw27n7hckh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!zqv5fpaw27n7hckh'
