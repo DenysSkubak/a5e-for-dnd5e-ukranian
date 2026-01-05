@@ -1,0 +1,110 @@
+name: Overpowering Strike
+type: feat
+img: icons/skills/melee/strike-axe-blood-red.webp
+effects:
+  - origin: Item.DsOodSeLpPYO3PZp
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: paf34Y9zK4P1MTpy
+    transfer: false
+    name: Prone
+    img: icons/skills/melee/strike-axe-blood-red.webp
+    _id: 3BuGwimQZwBhiSOD
+    type: base
+    system: { }
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["prone"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    tint: '#ffffff'
+    statuses:
+      - prone
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.22
+      createdTime: 1723124420765
+      modifiedTime: 1723124431111
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!5pckyib9mvw0u9ya.3BuGwimQZwBhiSOD'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 10th level, your attacks literally blow your opponents away. Once per turn when you make a melee weapon attack, you may choose to have the target make a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier). On a failure, you choose whether it falls prone or is moved 5 feet away from you.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: str
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723124136547
+  modifiedTime: 1723124420799
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 5pckyib9mvw0u9ya
+_key: '!items!5pckyib9mvw0u9ya'
