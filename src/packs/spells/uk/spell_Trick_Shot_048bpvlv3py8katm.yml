@@ -1,0 +1,81 @@
+name: Trick Shot
+type: spell
+img: icons/skills/targeting/target-strike-triple-blue.webp
+system:
+  description:
+    value: >-
+      <p>You imbue your ammunition with magic, enabling some truly impossible shots.</p><p>As part of the action used to cast this spell, make a ranged weapon attack using your ranged weapon.&nbsp;On a hit, the target takes normal weapon damage, and the shot penetrates through the initial target and ricochets to the next. You may immediately roll a second attack against another target within 30 feet of the first.&nbsp;</p><p>If the ammunition has some additional effect applied to it (such as poison, a spell, a class feature effect, etc.) it only affects the first target.</p><p><strong>Cast at Higher Levels.<em> </em></strong>At 5th level, if you hit the second target, you can make another attack against a third target.&nbsp;At 11th level, if you hit the third target, you can make another attack against a fourth target.&nbsp;At 17th, if you hit the fourth target, you can make another attack against a fifth target.</p><p>No individual target may be targeted twice in a row, but otherwise the only limiting factor is range. For example, at 5th level, if the first attack hits, and the second attack hits (a different target), the third attack may be directed back to the initial target.</p><p>A missed attack ends the spell and any subsequent attacks are lost.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  level: 0
+  school: trs
+  properties:
+    - vocal
+    - somatic
+    - material
+  materials:
+    value: a ranged weapon
+    consumed: false
+    cost: 0
+    supply: 0
+  preparation:
+    mode: prepared
+    prepared: false
+  scaling:
+    mode: none
+    formula: null
+  activation:
+    type: action
+    cost: 1
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 30
+    long: null
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags:
+  a5e-for-dnd5e:
+    secondarySchools:
+      - arcane
+      - weaponry
+    rareSpell: false
+folder: Tw5cqPbIxtfMfhDz
+_id: 048bpvlv3py8katm
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!048bpvlv3py8katm'
