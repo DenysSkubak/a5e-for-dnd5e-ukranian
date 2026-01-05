@@ -1,0 +1,79 @@
+name: Green Scale Shield (Medium)
+type: equipment
+img: icons/equipment/shield/kite-wooden-dragon-green.webp
+effects:
+  - icon: icons/equipment/shield/kite-wooden-dragon-green.webp
+    origin: Item.futap98qqnuv7i83
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Poison Resistance
+    _id: SGyaL6ilq87VBDu1
+    changes:
+      - key: system.traits.dr.value
+        value: poison
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    tint: '#ffffff'
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!futap98qqnuv7i83.SGyaL6ilq87VBDu1'
+flags: { }
+system:
+  description:
+    value: >-
+      <p>While you hold this shield, you have&nbsp;resistance&nbsp;to poison damage.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 8
+  price:
+    value: 200
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: uncommon
+  identified: true
+  armor:
+    value: 2
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: shield
+    baseItem: shield
+folder: XwBbFlHTpYybz2Hi
+_id: futap98qqnuv7i83
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!futap98qqnuv7i83'
