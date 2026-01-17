@@ -1,0 +1,33 @@
+name: Mental Fortitude
+type: feat
+img: icons/magic/defensive/shield-barrier-glowing-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 13th level your studies have granted unparalleled mental fortitude. You gain proficiency in Charisma saving throws.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: ka6y3igvu8kz3y1v
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ka6y3igvu8kz3y1v'

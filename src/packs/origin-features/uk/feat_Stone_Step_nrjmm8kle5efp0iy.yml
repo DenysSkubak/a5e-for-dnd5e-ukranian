@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Stone Step
+type: feat
+img: icons/magic/earth/laval-stone-orange.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>Moving across difficult terrain made from earth or stone does not cost you extra movement.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: nrjmm8kle5efp0iy
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!nrjmm8kle5efp0iy'

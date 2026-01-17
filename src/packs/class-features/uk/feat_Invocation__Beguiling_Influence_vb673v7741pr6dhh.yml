@@ -1,0 +1,33 @@
+name: 'Invocation: Beguiling Influence'
+type: feat
+img: icons/magic/control/mouth-smile-deception-purple.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in Deception and Persuasion. If you are already proficient in either of these skills, you instead gain an expertise die.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: vb673v7741pr6dhh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!vb673v7741pr6dhh'

@@ -1,0 +1,74 @@
+name: Hard to Kill
+type: feat
+img: icons/skills/wounds/injury-stitched-flesh-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 3rd level, you tap into a ferocious sort of vitality. When you are reduced to 0 hit points or less you can immediately make a death saving throw. On a success, you instead gain a number of hit points equal to your Constitution modifier and do not lose the benefits of &nbsp;your rage. Once you have used this feature, you can’t use it again until you finish a short or long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: heal
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@mod'
+        - healing
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.20
+  createdTime: 1722362756587
+  modifiedTime: 1722362861013
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: mqzkrnulkjr3553o
+_key: '!items!mqzkrnulkjr3553o'

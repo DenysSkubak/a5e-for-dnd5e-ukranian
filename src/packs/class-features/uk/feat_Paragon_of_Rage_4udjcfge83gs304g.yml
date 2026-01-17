@@ -1,0 +1,124 @@
+name: Paragon of Rage
+type: feat
+img: icons/skills/wounds/injury-pain-body-orange.webp
+effects:
+  - icon: icons/skills/wounds/injury-pain-body-orange.webp
+    origin: Item.SMO4Pn6488Sr0RJq
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: LeXtj7IHeaipk3oT
+        applyToSelf: true
+        duration:
+          unit: minutes
+    transfer: false
+    name: Paragon of Rage
+    _id: bGs1bvm5lTlUigxT
+    changes:
+      - key: system.traits.size
+        value: lg
+        mode: 6
+        priority: null
+      - key: system.abilities.str.check.expertiseDice
+        value: '3'
+        mode: 2
+        priority: null
+      - key: system.abilities.str.save.expertiseDice
+        value: '3'
+        mode: 2
+        priority: null
+      - key: system.abilities.con.check.expertiseDice
+        value: '3'
+        mode: 2
+        priority: null
+      - key: system.abilities.con.save.expertiseDice
+        value: '3'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <ul> 
+      <li>Your size increases by one category (from Small to Medium, or Medium to Large), to a maximum size of Large. Your size doubles in all dimensions and your weight increases eightfold.</li> 
+      <li>You gain twice as many rage hit points as normal.</li> 
+      <li>Creatures have disadvantage on saving throws made to resist your basic combat maneuvers.</li> 
+      <li>You deal double damage to objects.</li> 
+      <li>Your horizontal jump distance increases by 40 feet and your vertical jump distance increases by 20 feet.</li> 
+      <li>You gain a 1d8 expertise die on Strength and Constitution ability checks and saving throws.</li> 
+      </ul>
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!4udjcfge83gs304g.bGs1bvm5lTlUigxT'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 20th level, you have reached the peak of brawn and stamina. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.</p><p>In addition, while raging you gain the&nbsp;following benefits:</p><ul><li><p>Your size increases by one category (from Small to Medium, or Medium to Large), to a maximum size of Large. Your size doubles in all dimensions and your weight increases eightfold.</p></li><li><p>You gain twice as many rage hit points as normal.</p></li><li><p>Creatures have disadvantage on saving throws made to resist your basic combat maneuvers.</p></li><li><p>You deal double damage to objects.</p></li><li><p>Your horizontal jump distance increases by 40 feet and your vertical jump distance increases by 20 feet.</p></li><li><p>You gain a 1d8 expertise die on Strength and Constitution ability checks and saving throws.</p></li></ul>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: 4udjcfge83gs304g
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!4udjcfge83gs304g'

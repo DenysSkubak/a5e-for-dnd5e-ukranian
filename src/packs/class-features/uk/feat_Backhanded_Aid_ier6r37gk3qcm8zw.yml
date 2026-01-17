@@ -1,0 +1,33 @@
+folder: null
+name: Backhanded Aid
+type: feat
+img: icons/magic/unholy/hand-marked-pink.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>and @UUID[Compendium.a5e-for-dnd5e.spells.Item.l0xg2yboy5z633pr]{Venomous Succor} spells. They do not count against your wielder spells known.</p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Carry the Darkness'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: ier6r37gk3qcm8zw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ier6r37gk3qcm8zw'

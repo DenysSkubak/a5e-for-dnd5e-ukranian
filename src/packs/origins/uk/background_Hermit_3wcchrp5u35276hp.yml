@@ -1,0 +1,103 @@
+name: Hermit
+type: background
+img: icons/environment/wilderness/altar-hidden.webp
+system:
+  description:
+    value: >-
+      <p><strong>Ability Score Increases:</strong>&nbsp;+1 to Wisdom and one other ability score.</p><p><strong>Skill Proficiencies:&nbsp;</strong>Religion, and either Medicine or Survival.</p><p><strong>Tool Proficiencies:</strong>&nbsp;Herbalism kit.</p><p><strong>Suggested Equipment (Cost 13 gold):&nbsp;</strong>Healer&rsquo;s satchel, herbalism kit, common clothes, 7 days rations, and a prayer book, prayer wheel, or prayer beads.</p><p><strong><em>Feature: Inner Voice</em></strong><strong>.&nbsp;</strong>You occasionally hear a voice&mdash;perhaps your conscience, perhaps a higher power&mdash;which you have come to trust. It told you to go into seclusion, and then it advised you when to rejoin the world. You think it is leading you to your destiny (consult with your Narrator about this feature.)</p><p><strong><em>Adventures and Advancement</em></strong><strong>.&nbsp;</strong>Your inner voice may occasionally prompt you to accept certain adventure opportunities or to avoid certain actions. You are free to obey or disobey this voice. Eventually however it may lead you to a special revelation, adventure, or treasure.</p><h3><strong>HERMIT CONNECTIONS</strong></h3><ol><li>The high priest who banished you to the wilderness until you repent your heresy.</li><li>The inquisitor who hunts you even through the most solitary wildlands.</li><li>The supernatural patron whose temptations and gifts you seek to reject.</li><li>The inner voice you only hear in solitude.</li><li>The mentor who trained you in silent contemplation&mdash;until they mysteriously turned their back on their own teachings.</li><li>The villain who destroyed the shreds of your original, worldly life.</li><li>The noble relatives who seek to return you to the life you rejected.</li><li>The religious superior whose blasphemies scandalized you into fleeing your religious order.</li><li>The angel who delivered you a prophecy.</li><li>The mysterious person you glimpsed several times from a distance&mdash;unless it was a hallucination.</li></ol><hr><h3><strong>HERMIT MEMENTOS</strong></h3><ol><li>The (possibly unhinged) manifesto, encyclopedia, or theoretical work that you spent so much time on.</li><li>The faded set of fine clothes you preserved for so many years.</li><li>The signet ring bearing the family crest that you were ashamed of for so long.</li><li>The book of forbidden secrets that led you to your isolated refuge.</li><li>The beetle, mouse, or other small creature which was your only companion for so long.</li><li>The seemingly nonmagical item that your inner voice says is important.</li><li>The magic-defying clay tablets you spent years translating.</li><li>The holy relic you were duty bound to protect.</li><li>The meteor metal you found in a crater the day you first heard your inner voice.</li><li>Your ridiculous-looking sun hat.</li></ol>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  advancement:
+    - _id: ICqSskAJclIn00Zd
+      type: AbilityScoreImprovement
+      level: 0
+      configuration:
+        points: 1
+        fixed:
+          wis: 1
+        cap: 1
+    - _id: C8I5Zm0SheCSiKE8
+      type: Trait
+      level: 0
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - skills:rel
+        choices:
+          - 
+          pool:
+              - skills:med
+              - skills:sur
+            count: 1
+    - _id: rkRr5SgopBp4uyzd
+      type: Trait
+      level: 0
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - tool:herb
+        choices: [ ]
+    - _id: JfFGq5MO3RlBaZp1
+      type: ItemGrant
+      title: Features
+      level: 0
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.origin-features.Item.692p85tb8j61azhk
+  startingEquipment:
+    - _id: diNG3ZScrfVPMQw0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.067o6hjosd8nrjs8
+      count: 0
+      type: linked
+      group: ''
+    - _id: diNG3ZScrfVPMQw1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.3muu012tsfb455sa
+      count: 0
+      type: linked
+      group: ''
+    - _id: diNG3ZScrfVPMQw2
+      sort: 30000
+      key: Compendium.a5e-for-dnd5e.gear.Item.w9t45o2j9aqx1qmp
+      count: 0
+      type: linked
+      group: ''
+    - _id: diNG3ZScrfVPMQw3
+      sort: 40000
+      key: Compendium.a5e-for-dnd5e.gear.Item.pwgkdtzl4t3n9xrr
+      count: 7
+      type: linked
+      group: ''
+    - _id: gCX3xCv4FNAb4Jq0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.d67im7zjmtmqd4h5
+      count: 0
+      type: linked
+      group: ''
+    - _id: gCX3xCv4FNAb4Jq1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.0k8clpc2qm846qem
+      count: 0
+      type: linked
+      group: ''
+    - _id: gCX3xCv4FNAb4Jq2
+      sort: 30000
+      key: Compendium.a5e-for-dnd5e.gear.Item.ccgdkixgdedfxeb0
+      count: null
+      type: linked
+      group: ''
+effects: [ ]
+flags: { }
+folder: efsBCxTIVPrTYqUO
+_id: 3wcchrp5u35276hp
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!3wcchrp5u35276hp'

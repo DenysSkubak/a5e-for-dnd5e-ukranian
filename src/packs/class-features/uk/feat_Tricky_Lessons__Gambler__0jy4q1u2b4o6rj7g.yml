@@ -1,0 +1,33 @@
+name: Tricky Lessons (Gambler)
+type: feat
+img: icons/skills/movement/ball-spinning-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain your first Tricky Lesson. This feature allows you to learn a <em>Skill Trick</em> from the rogue class or a <em>Lesson of War</em> from the Marshal class.</p><p>You gain additional tricky lessons at 4th, 6th, and 8th level.</p>
+    chat: ''
+  source:
+    book: 'System Architecture: Motif Classes'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 0jy4q1u2b4o6rj7g
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!0jy4q1u2b4o6rj7g'

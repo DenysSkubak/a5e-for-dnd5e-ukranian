@@ -1,0 +1,72 @@
+name: Elemental Form
+type: feat
+img: icons/magic/fire/elemental-fire-flying.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p dir="ltr">At 7th level, you learn how to temporarily take on the form of an elemental. You can cast @UUID[Compendium.a5e-for-dnd5e.spells.Item.95tar7xr3hdp0o92]{Polymorph} on yourself without expending any spell points, except only to turn into an air, earth, fire, or water elemental, matching your element. Once you use this ability, you must complete a long rest before you can use it again. While transformed this way, you can only cast spells matching the element whose form you have taken, and you can use your&nbsp;@UUID[Compendium.a5e-for-dnd5e.class-features.Item.uit7l3mc64l5h8h1]{Elemental Blast} and @UUID[Compendium.a5e-for-dnd5e.class-features.Item.rosj8xvi8bstdegy]{Control Elements} abilities.</p> 
+      <p dir="ltr">At 15th level, you can instead turn into a giant air, earth, fire, or water elemental.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: ''
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: save
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: wis
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722974429422
+  modifiedTime: 1722974529319
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 1w9sn0llo6bkrl88
+_key: '!items!1w9sn0llo6bkrl88'

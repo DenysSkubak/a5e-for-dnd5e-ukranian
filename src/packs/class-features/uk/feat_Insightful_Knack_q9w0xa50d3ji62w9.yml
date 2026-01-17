@@ -1,0 +1,70 @@
+folder: null
+name: Insightful Knack
+type: feat
+img: icons/environment/wilderness/cave-entrance-mountain-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 8th level, you can spend 1 minute studying your environment and attempt a DC 15 Insight check. On a success, you notice something of significance, such as a coded message, a secret door, a hidden chest, or the tracks or other signs of a nearby creature. The nature of the information you intuit depends on the location you are in&mdash;the Narrator can always decide there is nothing for you to intuit about your current location or may offer a clue leading to a more relevant location instead. Once you have learned something with this feature, you must finish a&nbsp;long rest before you can do so again.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: minute
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722952071536
+  modifiedTime: 1722952100563
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: q9w0xa50d3ji62w9
+_key: '!items!q9w0xa50d3ji62w9'

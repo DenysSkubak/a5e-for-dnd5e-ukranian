@@ -1,0 +1,97 @@
+folder: null
+name: Form of Shadow
+type: feat
+img: icons/magic/unholy/silhouette-robe-evil-glow.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: ''
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Carry the Darkness'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - icon: icons/magic/unholy/silhouette-robe-evil-glow.webp
+    origin: Item.bunmn9htoa5c9cqg
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Form of Shadow
+    _id: 9FgL40iMreefoKOj
+    changes:
+      - key: system.skills.ste.value
+        value: 'true'
+        mode: 5
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!bunmn9htoa5c9cqg.9FgL40iMreefoKOj'
+flags: { }
+_id: bunmn9htoa5c9cqg
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!bunmn9htoa5c9cqg'

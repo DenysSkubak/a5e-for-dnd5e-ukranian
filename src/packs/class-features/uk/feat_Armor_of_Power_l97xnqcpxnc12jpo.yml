@@ -1,0 +1,36 @@
+name: Armor of Power
+type: feat
+img: icons/equipment/chest/breastplate-helmet-metal.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your bonded artifact is a suit of armor, outfit, article of clothing, or an item that is otherwise worn. While wearing your bonded artifact you are magically protected and your armor class equals 10 + your spellcasting ability modifier + 2 and increases by +1 at levels 5, 9, 13, and 17. You can use a shield and still gain this benefit. In addition, you add the spell @UUID[Compendium.a5e-for-dnd5e.spells.Item.nlto7z4j14ips45w]{Shield} to your list of known wielder spells.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721639142374
+  modifiedTime: 1721639643752
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: l97xnqcpxnc12jpo
+_key: '!items!l97xnqcpxnc12jpo'

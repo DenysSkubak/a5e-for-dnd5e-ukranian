@@ -1,0 +1,108 @@
+folder: z476XZt1iG4Mb7VJ
+name: Roll
+type: feat
+img: icons/magic/earth/construct-stone.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You can use a bonus action to curl into a boulder, or an action to uncurl. While in boulder form your Speed is reduced to 0, and you cannot use a shield, make attacks, use your arms, or cast spells with seen components.</p><p>While in boulder form you can use an action to roll yourself in a straight line up to 30 feet, or 60 feet down a decline. While rolling you can attempt to enter the spaces of creatures up to one size larger than you, forcing each to make a Dexterity&nbsp;saving throw against your maneuver DC. On a failure, a creature or object takes bludgeoning damage equal to 1d4 + your Strength modifier. If a creature succeeds on its saving throw, you do not enter its space and your movement stops.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 30
+    width: 5
+    units: ft
+    type: line
+  range:
+    value: null
+    long: null
+    units: self
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: save
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - 1d4 + @mod
+        - bludgeoning
+    versatile: ''
+  formula: ''
+  save:
+    ability: dex
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.FklTHO8ePa5lyNdF
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: nwBiF49ZXX45LQCP
+        applyToSelf: true
+    transfer: false
+    name: Curled
+    img: icons/magic/earth/construct-stone.webp
+    _id: 92MbvmeH6BFc6gCI
+    type: base
+    system: { }
+    changes:
+      - key: flags.a5e.effects.movement.allDistances
+        value: '0'
+        mode: 6
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>While in boulder form your Speed is reduced to 0, and you cannot use a shield, make attacks, use your arms, or cast spells with seen components.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!bdxw1stm6pqbbqf3.92MbvmeH6BFc6gCI'
+flags: { }
+_id: bdxw1stm6pqbbqf3
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!bdxw1stm6pqbbqf3'

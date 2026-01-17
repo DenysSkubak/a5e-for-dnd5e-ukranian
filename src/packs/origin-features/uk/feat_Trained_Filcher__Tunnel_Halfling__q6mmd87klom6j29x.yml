@@ -1,0 +1,33 @@
+name: Trained Filcher (Tunnel Halfling)
+type: feat
+img: icons/environment/wilderness/cave-entrance-rocky.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in Sleight of Hand, and you gain an expertise die when picking a pocket or otherwise taking an item without notice.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: q6mmd87klom6j29x
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!q6mmd87klom6j29x'

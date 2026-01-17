@@ -1,0 +1,109 @@
+name: Innocent Facade (Distraction)
+type: feat
+img: icons/skills/trades/music-singing-voice-blue.webp
+effects:
+  - icon: icons/skills/trades/music-singing-voice-blue.webp
+    origin: Item.i554esxrgkjmqh03
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: v8W5OR96Qcj75oDN
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: Distraction
+    _id: 5w8F0KCPpcm27e7G
+    changes:
+      - key: flags.a5e.effects.rollMode.skillCheck.prc
+        value: '-1'
+        mode: 6
+        priority: null
+      - key: flags.a5e.effects.bonuses.skills
+        value: >-
+          {"label":"Distraction","formula":"-5","damageType":"","context":{"skills":["prc"],"requiresProficiency":false,"passiveOnly":true},"default":true,"img":"icons/skills/trades/music-singing-voice-blue.webp"}
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: 1
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Disadvantage on Perception checks and a –5 to their passive Perception scores.</p>
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!i554esxrgkjmqh03.5w8F0KCPpcm27e7G'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain an expertise die on Performance checks. You can use an action to make a Performance check, opposed by the Insight check of creatures of your choice that can see or hear you. On a failure, until the end of your next turn the creatures have disadvantage on Perception checks and a &ndash;5 to their passive Perception scores.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: i554esxrgkjmqh03
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!i554esxrgkjmqh03'

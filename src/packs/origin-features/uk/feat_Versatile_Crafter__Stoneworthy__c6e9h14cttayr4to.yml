@@ -1,0 +1,33 @@
+name: Versatile Crafter (Stoneworthy)
+type: feat
+img: icons/environment/wilderness/arch-stone.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You may spend 4 hours between long rests crafting one non-metal tool or simple weapon, or five pieces of ammunition, provided you have access to the materials needed and the final cost of the items does not exceed 5 gold.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: c6e9h14cttayr4to
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!c6e9h14cttayr4to'

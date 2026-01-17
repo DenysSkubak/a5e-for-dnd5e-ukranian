@@ -1,0 +1,32 @@
+name: Natural Hunter
+type: feat
+img: icons/creatures/abilities/paw-print-pair-purple.webp
+effects: [ ]
+folder: z476XZt1iG4Mb7VJ
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: <p>You gain proficiency with either Perception, Stealth, or Survival.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_id: 0f68hoa1e9btm7z1
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!0f68hoa1e9btm7z1'

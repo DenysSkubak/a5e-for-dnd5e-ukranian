@@ -1,0 +1,33 @@
+name: 'Invocation: Ominous Tormentor'
+type: feat
+img: icons/magic/control/fear-fright-monster-purple-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in Insight and Intimidation. If you are already proficient in either of these skills, you instead gain an expertise die.</span></p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: pna3bv27k4ebt3o3
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!pna3bv27k4ebt3o3'

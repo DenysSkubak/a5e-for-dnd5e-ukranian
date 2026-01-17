@@ -1,0 +1,47 @@
+folder: 9k4UVzCiMuqj62ea
+name: Prismatic Gown
+type: equipment
+img: icons/commodities/cloth/cloth-rolls-rgb.webp
+system:
+  description:
+    value: >-
+      <p>While it always remains perfectly fitted to the&nbsp;wearer, this ballroom gown constantly shifts&nbsp;between thousands of colors, styles, cuts and patterns. While wearing the prismatic gown, you&nbsp;gain advantage on saving throws made for the&nbsp;effects of spells from the prismatic school due to&nbsp;the odd magic woven into it.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 90
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: common
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: clothing
+    baseItem: ''
+effects: [ ]
+flags: { }
+_id: 9vmf1hwfd6ctotjm
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!9vmf1hwfd6ctotjm'

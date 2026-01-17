@@ -1,0 +1,33 @@
+name: Bewitching Companion
+type: feat
+img: icons/magic/control/hypnosis-mesmerism-eye.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Choose one skill you are proficient with. You gain an expertise die on checks made using the chosen skill. </p><p>In addition, you gain an expertise die on checks made to influence anyone accompanying you on a journey.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: id1ncf4j0rwxzb52
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!id1ncf4j0rwxzb52'

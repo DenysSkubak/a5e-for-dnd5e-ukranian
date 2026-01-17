@@ -1,0 +1,33 @@
+name: Twilight Vanish (Nightstalker)
+type: feat
+img: icons/creatures/magical/humanoid-silhouette-dashing-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: feat
+    subtype: ''
+  description:
+    value: >-
+      <p>Nightstalkers can move with such swiftness that it takes a trained eye to see the motion at all. On your turn you can use a reaction and spend 2 exertion to move up to 30 feet with such incredible speed that you seem to disappear, and after moving this way may immediately take the Hide action.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: idwz7h6pppoyxh28
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!idwz7h6pppoyxh28'

@@ -1,0 +1,71 @@
+name: Brute Strength
+type: feat
+img: icons/magic/control/buff-strength-muscle-damage-orange.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, you gain the ability to exert extra force into your swings. Whenever you hit a creature with a melee weapon attack, you can expend exertion points to deal an extra 1d8 bludgeoning damage per exertion point spent. The maximum amount of exertion points you can spend in this way on a single attack is equal to your proficiency bonus.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - 1d8
+        - bludgeoning
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723123576839
+  modifiedTime: 1723123679165
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: tl5j3nbiorr6x612
+_key: '!items!tl5j3nbiorr6x612'

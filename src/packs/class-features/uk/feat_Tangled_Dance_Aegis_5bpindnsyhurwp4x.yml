@@ -1,0 +1,69 @@
+name: Tangled Dance Aegis
+type: feat
+img: icons/magic/movement/abstract-ribbons-red-orange.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you would be hit with an attack and a creature other than the attacker is adjacent to you, you can use your reaction to try to dodge so the attack hits that creature. If the attacker fails an Intelligence saving throw, change the attack&rsquo;s target to another creature within 5 feet, and the attacker uses the same result of its attack roll.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: 1
+    condition: >-
+      When you would be hit with an attack and a creature other than the attacker is adjacent to you
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: save
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: int
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_id: 5bpindnsyhurwp4x
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5bpindnsyhurwp4x'

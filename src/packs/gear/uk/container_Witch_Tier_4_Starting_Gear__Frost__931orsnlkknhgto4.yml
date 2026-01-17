@@ -1,0 +1,39 @@
+folder: juYjTH85siuKSM9j
+name: Witch Tier 4 Starting Gear (Frost)
+type: container
+img: icons/magic/symbols/runes-star-pentagon-orange-purple.webp
+system:
+  description:
+    value: <p>Also includes 8625 gp.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 40000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: veryRare
+  identified: true
+  capacity:
+    type: weight
+    value: null
+    weightless: false
+  currency:
+    cp: 0
+    sp: 0
+    ep: 0
+    gp: 0
+    pp: 0
+effects: [ ]
+flags: { }
+_id: 931orsnlkknhgto4
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!931orsnlkknhgto4'

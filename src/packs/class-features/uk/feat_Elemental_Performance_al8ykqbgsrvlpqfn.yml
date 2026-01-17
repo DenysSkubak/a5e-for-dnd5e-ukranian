@@ -1,0 +1,33 @@
+folder: null
+name: Elemental Performance
+type: feat
+img: icons/tools/instruments/megaphone.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your elemental power isn&rsquo;t just for destruction, but also art. You gain proficiency in Performance, and can use your elemental power in place of a tool. Make tool checks using your spell casting ability with proficiency.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: al8ykqbgsrvlpqfn
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!al8ykqbgsrvlpqfn'

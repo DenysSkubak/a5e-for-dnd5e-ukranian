@@ -1,0 +1,33 @@
+name: Stoic Traditions (Stoic Orc)
+type: feat
+img: icons/environment/wilderness/altar-hidden.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>The stoic landings have much to teach and you had the patience to learn. You gain proficiency with one of the following skills: Arcana, History, Insight, Medicine, Nature, or Religion.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: mh0ldffkdj3russz
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!mh0ldffkdj3russz'

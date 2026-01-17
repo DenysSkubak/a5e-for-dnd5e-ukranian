@@ -1,0 +1,117 @@
+folder: null
+name: Dauntless Delver
+type: feat
+img: icons/magic/earth/barrier-stone-explosion-spiked.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 18th level, you have become better at withstanding common attacks you encounter when exploring the depths, shrugging off blows that would severely harm other adventurers. When you take damage, you can use your reaction to gain&nbsp;resistance</span>&nbsp;to bludgeoning, piercing, and slashing damage, as well as to acid, necrotic, and poison damage, until the start of your next turn. You can use this feature a number of times equal to your proficiency bonus, regaining all uses when you finish a&nbsp;<span>long rest.</p></div><div>&nbsp;
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: reaction
+    cost: 1
+    condition: When you take damage
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.bDPybbT5SvIqCYnn
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: 2XAruFxTpwe1wUZn
+        applyToSelf: true
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: Dauntless Delver
+    _id: lcVownLLljKq6Prh
+    changes:
+      - key: system.traits.dr.value
+        value: bludgeoning
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Gain resistance to bludgeoning, piercing, and slashing damage, as well as to acid, necrotic, and poison damage, until the start of your next turn.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.22
+      createdTime: null
+      modifiedTime: 1723418060426
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/magic/earth/barrier-stone-explosion-spiked.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!xyll994gs9323l3t.lcVownLLljKq6Prh'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723418003056
+  modifiedTime: 1723418092523
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: xyll994gs9323l3t
+_key: '!items!xyll994gs9323l3t'

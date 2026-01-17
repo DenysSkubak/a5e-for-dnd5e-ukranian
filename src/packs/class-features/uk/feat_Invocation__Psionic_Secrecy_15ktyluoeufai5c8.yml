@@ -1,0 +1,33 @@
+name: 'Invocation: Psionic Secrecy'
+type: feat
+img: icons/magic/perception/hand-eye-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you cast a warlock spell, you may choose to do so psionically without the need for seen or vocalized&nbsp; components. Once you have used this feature a number of times equal to your spellcasting ability modifier, you cannot do so again until you finish a long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 11th level, Alienist archetype
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 15ktyluoeufai5c8
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!15ktyluoeufai5c8'

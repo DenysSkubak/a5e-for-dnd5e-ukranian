@@ -1,0 +1,98 @@
+name: Midir's Trident
+type: weapon
+img: icons/weapons/polearms/trident-ornate-red.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>You gain a +3 bonus to attack and damage rolls&nbsp;made with this magic trident. When you hit with this weapon, you deal an extra 1d6 lightning damage. When you make a ranged attack with this trident, it has a normal range of 40 feet and a maximum range of 120 feet, and it returns to your hand after the attack.</p><p>The trident&rsquo;s size changes to match your own. If you are Large or larger, it deals an extra 2d6 lightning damage.</p><hr><p><b>Mounted:</b> This weapon deals the damage listed in parenthesis when you are wielding it while mounted.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 3
+  price:
+    value: 20000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: veryRare
+  identified: true
+  proficient: true
+  type:
+    value: martialM
+    baseItem: trident
+  properties:
+    - ret
+    - thr
+    - ver
+    - mnt
+  armor:
+    value: null
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creatureOrObject
+  range:
+    value: 40
+    long: 120
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: mwak
+  attackBonus: '3'
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - 1d6 + @mod + 3
+        - piercing
+      - 
+        - 1d8 + @mod + 3
+        - piercing
+      - 
+        - 1d6
+        - lightning
+      - 
+        - 2d6
+        - lightning
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: zzy7PcM8aJV9irTn
+_id: j409ydc0m070qeh0
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!j409ydc0m070qeh0'

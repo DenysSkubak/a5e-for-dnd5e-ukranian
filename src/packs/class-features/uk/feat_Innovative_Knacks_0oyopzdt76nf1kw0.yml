@@ -1,0 +1,32 @@
+name: Innovative Knacks
+type: feat
+img: icons/commodities/treasure/case-red-silver.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: ''
+    chat: ''
+  source:
+    book: 'System Architecture: Motif Classes'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Spellslinger Level 2
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 0oyopzdt76nf1kw0
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!0oyopzdt76nf1kw0'

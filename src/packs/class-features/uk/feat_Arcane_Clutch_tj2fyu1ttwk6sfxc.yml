@@ -1,0 +1,68 @@
+name: Arcane Clutch
+type: feat
+img: icons/magic/lightning/fist-unarmed-strike-blue-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 20th level, you can reclaim some fraction of the energies you expend as you cast. Whenever you cast a spell of 3rd-level or higher, you regain sorcery points equal to a third of the expended spell slot’s level.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721921670357
+  modifiedTime: 1721921747495
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: tj2fyu1ttwk6sfxc
+_key: '!items!tj2fyu1ttwk6sfxc'

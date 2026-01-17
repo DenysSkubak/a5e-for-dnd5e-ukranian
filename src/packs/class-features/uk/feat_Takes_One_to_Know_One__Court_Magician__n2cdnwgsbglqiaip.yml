@@ -1,0 +1,34 @@
+folder: null
+name: Takes One to Know One (Court Magician)
+type: feat
+img: icons/sundries/survival/mirror-plain.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You have advantage on saving throws made against enchantment spells and illusion spells.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#3'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: n2cdnwgsbglqiaip
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!n2cdnwgsbglqiaip'

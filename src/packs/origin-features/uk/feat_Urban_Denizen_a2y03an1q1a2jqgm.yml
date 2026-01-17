@@ -1,0 +1,33 @@
+name: Urban Denizen
+type: feat
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You know your way around big cities, and know how to find people in urban locations. You can make an Investigation check to learn the location of (or at the Narrator&rsquo;s discretion gain a helpful clue to the trail of) a person by discreetly asking around in the right places. The difficulty of the check is DC 15 if the individual is not hiding, or DC 20 if they are trying to conceal their location.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+img: icons/environment/settlement/city-night-spire.webp
+effects: [ ]
+flags: { }
+folder: OpVlQm2oviOU6e9w
+_id: a2y03an1q1a2jqgm
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!a2y03an1q1a2jqgm'

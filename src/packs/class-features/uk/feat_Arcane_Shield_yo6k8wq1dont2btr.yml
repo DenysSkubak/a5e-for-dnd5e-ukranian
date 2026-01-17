@@ -1,0 +1,33 @@
+folder: null
+name: Arcane Shield
+type: feat
+img: icons/magic/defensive/barrier-shield-dome-blue-purple.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you choose this archetype at level 2, you gain the benefits of a persistent arcane shield. This magical protective aura grants you a +1 bonus to your Armor Class. The arcane shield only operates while you are awake and conscious.</p><p>At level 10, the AC bonus increases to +2, and at level 14 it increases to +3.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: yo6k8wq1dont2btr
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!yo6k8wq1dont2btr'

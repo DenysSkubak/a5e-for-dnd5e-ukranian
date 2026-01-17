@@ -1,0 +1,33 @@
+name: Creator's Blessing (Dwarf)
+type: feat
+img: icons/skills/trades/smithing-anvil-silver-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You were born with the gift of creation. You gain proficiency with one set of artisans’ tools (either brewer’s supplies, mason’s tools) or smith’s tools. During a long rest, you can use these tools for crafting instead of sleeping and still receive the full benefits of the long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: h4p1doonz6ftp76v
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!h4p1doonz6ftp76v'

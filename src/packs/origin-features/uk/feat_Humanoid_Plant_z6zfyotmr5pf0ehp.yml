@@ -1,0 +1,32 @@
+name: Humanoid Plant
+type: feat
+img: icons/magic/nature/tree-animated-smile.webp
+effects: [ ]
+folder: z476XZt1iG4Mb7VJ
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: <p>You have both the Humanoid and Plant creature types.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_id: z6zfyotmr5pf0ehp
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!z6zfyotmr5pf0ehp'

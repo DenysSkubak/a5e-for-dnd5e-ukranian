@@ -1,0 +1,33 @@
+name: Eyes Everywhere (Forgotten Folx)
+type: feat
+img: icons/environment/wilderness/tree-ash.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Thanks to your experience supervising children, you have a knack for keeping track of your companions. As long as an ally is within 60 feet of you, you always know their general location even if you cannot see or otherwise sense them. This effect is blocked by 1 foot of lead or iron and magical effects like the nondetection spell.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: na5qdw95bet9ksp5
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!na5qdw95bet9ksp5'

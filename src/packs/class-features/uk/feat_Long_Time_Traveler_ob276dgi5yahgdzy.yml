@@ -1,0 +1,36 @@
+folder: null
+name: Long-Time Traveler
+type: feat
+img: icons/magic/holy/angel-wings-gray.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p dir="ltr">Your travels have led you to experience a little bit of everything. You score a critical success on ability checks on a roll of 19&ndash;20. If you already have a feature that increases the range of your critical successes, your critical success range increases by 1 (maximum 17&ndash;20). Whenever you would roll on an Ability Check Critical Success table, roll twice and choose one of the results. If both rolls are identical, reroll one of them.</p>
+    chat: ''
+  source:
+    book: Secrets of the Selkies
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722890058194
+  modifiedTime: 1722890081261
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ob276dgi5yahgdzy
+_key: '!items!ob276dgi5yahgdzy'

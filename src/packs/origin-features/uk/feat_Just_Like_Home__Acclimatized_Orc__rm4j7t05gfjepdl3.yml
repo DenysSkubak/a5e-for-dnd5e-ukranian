@@ -1,0 +1,33 @@
+name: Just Like Home (Acclimatized Orc)
+type: feat
+img: icons/environment/wilderness/terrain-rocks-brown.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>Choose one type of terrain, reflecting the area from which your family hails: arctic, desert, mountain, or swamp. You ignore all naturally created difficult terrain of that type. Additionally, you gain an expertise die on Survival checks made within this terrain type, and gain a type of damage resistance related to your chosen terrain: arctic—cold, desert—fire, mountain—lightning, swamp—poison.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: rm4j7t05gfjepdl3
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!rm4j7t05gfjepdl3'

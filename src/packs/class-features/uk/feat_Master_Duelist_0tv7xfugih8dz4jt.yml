@@ -1,0 +1,36 @@
+name: Master Duelist
+type: feat
+img: icons/skills/melee/weapons-crossed-swords-purple.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 18th level, you&rsquo;ve truly mastered the art of the duel. You have advantage on melee weapon attacks against creatures currently challenged using your @UUID[Compendium.a5e-for-dnd5e.class-features.Item.z1cl9iuzdlqkgrdm]{Duelist&rsquo;s Challenge} feature.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723125762357
+  modifiedTime: 1723125795121
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 0tv7xfugih8dz4jt
+_key: '!items!0tv7xfugih8dz4jt'

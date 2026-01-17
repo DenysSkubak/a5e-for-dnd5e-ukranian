@@ -1,0 +1,47 @@
+name: Brigandine, Cloth +2
+type: equipment
+img: icons/equipment/chest/shirt-collared-yellow.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p><em>Comfortable, Flaw (Piercing), Underarmor</em></p><p><strong>AC 12</strong></p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 7
+  price:
+    value: 500
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: uncommon
+  identified: true
+  armor:
+    value: 14
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: medium
+    baseItem: hide
+folder: TqzM6GRsfHr13lsw
+_id: b6ubn8k0zhby7bdp
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!b6ubn8k0zhby7bdp'

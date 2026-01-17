@@ -1,0 +1,64 @@
+folder: ggcGN1gyylZwl5sB
+name: Splash of Humor
+type: a5e-for-dnd5e.maneuver
+img: icons/consumables/fruit/tomato-ripe-red.webp
+system:
+  description:
+    value: >-
+      <p>There&rsquo;s truth to the old adage that practice makes perfect&mdash;and you have endlessly practiced splashing people.</p><p>You splash an @UUID[Compendium.a5e-for-dnd5e.gear.Item.b0z0yz39b3qy3hdo]{Acid Vial}, @UUID[Compendium.a5e-for-dnd5e.gear.Item.4t0m2ttaca5hg2vi]{Alchemist's Fire}, or similar liquid onto a target within 5 feet of you, but instead of you making an attack roll, the target makes a Dexterity saving throw. On a successful save, your attack is successful. On a failure, it is a critical hit.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#19'
+  degree: 2
+  tradition: coj
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 2
+  activation:
+    type: action
+    cost: 1
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creatureOrObject
+  range:
+    value: 5
+    long: null
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: save
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: dex
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_id: 6bmbaw0dky413jlo
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!6bmbaw0dky413jlo'

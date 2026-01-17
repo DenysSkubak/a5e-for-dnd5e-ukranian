@@ -1,0 +1,38 @@
+name: Manifestation
+type: feat
+img: icons/svg/item-bag.svg
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 2nd level, you also choose one of the following manifestations, which represents a kind of energy you are especially effective at producing. When you cast a spell that deals acid, cold, fire, lightning, poison, or thunder damage, you can change the damage type to your manifestation&rsquo;s damage type.</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.uomiic3ffqqucfo5]{Manifestation: Blizzard (1 sorcery point)}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.rninqg6ekkggcukt]{Manifestation: Corrosion (1 sorcery point)}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.da28bw31987gqpij]{Manifestation: Hurricane (1 sorcery point)}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.4trx0rlh3upbnyza]{Manifestation: Inferno (1 sorcery point)}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.9gxmldeg7iu6s4tv]{Manifestation: Venom (1 sorcery point)}</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: h2tobazibq72ybdo
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!h2tobazibq72ybdo'

@@ -1,0 +1,33 @@
+name: Expanded Directives
+type: feat
+img: icons/svg/item-bag.svg
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 10th level, your capacity to direct your companions broadens. Choose one tradition that you know combat maneuvers from. You are able to use Combat Directives to grant uses of combat maneuvers from the chosen tradition.</p><p>At 15th level, choose a second tradition that you know combat maneuvers from.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: h1u1ohw7r1erg9cr
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!h1u1ohw7r1erg9cr'

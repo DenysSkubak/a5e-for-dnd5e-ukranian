@@ -1,0 +1,40 @@
+name: Lessons of War
+type: feat
+img: icons/svg/item-bag.svg
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 2nd level you learn a lesson of war of your choice. Your lessons are detailed below. The Lessons Known column of the Marshal table shows when you learn more lessons of war.</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.6kk6p5o99u93fuay]{Lesson: Exacting}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.3x68lbn223xbtpab]{Lesson: Keep Walking}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.1tu6oun2uo9n9cer]{Lesson: Lay of the Land}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.ovlxygd8m2a9kz5b]{Lesson: Rewarding Repute}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.y16thzcg21ti1li2]{Lesson: Soldier Kitting}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.p7vt6x6wxss9n60a]{Lesson: Team Tactics}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.5hd421288lranqrr]{Lesson: Teamwork}</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: n6ss7hf32xkiqxqx
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!n6ss7hf32xkiqxqx'

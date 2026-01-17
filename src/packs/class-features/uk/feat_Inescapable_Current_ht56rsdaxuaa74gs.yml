@@ -1,0 +1,33 @@
+name: Inescapable Current
+type: feat
+img: icons/magic/water/wave-water-teal.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you select this archetype at 2nd level, whenever you cast a spell that would forcibly move a creature or knock them prone, they have disadvantage on the saving throw.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: ht56rsdaxuaa74gs
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ht56rsdaxuaa74gs'

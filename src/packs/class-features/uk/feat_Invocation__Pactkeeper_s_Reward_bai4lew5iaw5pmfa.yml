@@ -1,0 +1,32 @@
+name: 'Invocation: Pactkeeper’s Reward'
+type: feat
+img: icons/magic/unholy/hand-marked-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: <p>You gain an additional Pact Boon of your choice.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 13th level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: bai4lew5iaw5pmfa
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!bai4lew5iaw5pmfa'

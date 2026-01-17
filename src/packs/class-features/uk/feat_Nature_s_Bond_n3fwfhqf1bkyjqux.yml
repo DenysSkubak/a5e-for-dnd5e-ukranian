@@ -1,0 +1,72 @@
+name: Nature's Bond
+type: feat
+img: icons/creatures/mammals/rabbit-movement-glowing-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 2nd level, nature provides you with the ability to summon its minor spirits. As an action, you can expend a use of your Wild Shape feature to cast the @UUID[Compendium.a5e-for-dnd5e.spells.Item.6l4bmc7ovgcn2c9k]{Find Familiar} spell, without material components.</p> 
+      <p>The familiar you summon is a fey instead of a beast, and it disappears after a number of hours equal to half your druid level.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: 30
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721851350454
+  modifiedTime: 1721852128028
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: n3fwfhqf1bkyjqux
+_key: '!items!n3fwfhqf1bkyjqux'

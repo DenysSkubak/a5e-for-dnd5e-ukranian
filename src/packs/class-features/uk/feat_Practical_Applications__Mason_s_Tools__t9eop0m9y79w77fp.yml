@@ -1,0 +1,33 @@
+name: Practical Applications (Mason's Tools)
+type: feat
+img: icons/tools/hand/hammer-mason-white-grey.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain an expertise die on any Intelligence or Wisdom based skill checks made regarding worked stone.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: t9eop0m9y79w77fp
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!t9eop0m9y79w77fp'

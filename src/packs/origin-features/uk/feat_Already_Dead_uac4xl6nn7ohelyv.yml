@@ -1,0 +1,33 @@
+name: Already Dead
+type: feat
+img: icons/magic/death/grave-tombstone-glow-teal.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You are immune disease. You have resistance to poison damage, and advantage on saving throws against the poisoned condition.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: uac4xl6nn7ohelyv
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!uac4xl6nn7ohelyv'

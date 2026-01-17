@@ -1,0 +1,33 @@
+name: 'Invocation: Tines of Wyrd'
+type: feat
+img: icons/magic/light/projectiles-pink-purple.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you fail a saving throw, you can spend 5 spell points to reroll it and take the second result.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 15th level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: x0vo6suso2lhhyn0
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!x0vo6suso2lhhyn0'

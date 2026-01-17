@@ -1,0 +1,101 @@
+name: 'Critical: Knockdown Strike'
+type: feat
+img: icons/magic/control/silhouette-fall-slip-prone.webp
+effects:
+  - icon: icons/magic/control/silhouette-fall-slip-prone.webp
+    origin: Item.7nBbtscBadfZCM8Y
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: 2C0fFasoEoB6Ukjm
+    transfer: false
+    name: Prone
+    _id: txaDOOdHGKrYVkmM
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["prone"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses:
+      - prone
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!5hesstjya6hc5qro.txaDOOdHGKrYVkmM'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>With the right angle, your attack knocks the target sprawling. When you score a critical hit, the target makes a Strength saving throw or is knocked prone. This Furious Critical can be taken a second time to combine its effects with @UUID[Compendium.a5e-for-dnd5e.class-features.Item.3ciin5fve17u0jyc]{Overbearing Hit}.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: special
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: str
+    dc: null
+    scaling: spell
+folder: null
+_id: 5hesstjya6hc5qro
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5hesstjya6hc5qro'

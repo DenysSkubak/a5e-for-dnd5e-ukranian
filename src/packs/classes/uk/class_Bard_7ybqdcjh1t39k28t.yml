@@ -1,0 +1,437 @@
+name: Бард
+type: class
+img: icons/tools/instruments/lute-gold-brown.webp
+system:
+  description:
+    value: >-
+      <p><strong>Таблиця: Бард</strong></p> 
+      <table style="width: 100%;" border="1"><colgroup><col style="width: 9.68992%;"><col style="width: 12.9845%;"><col style="width: 50.7643%;"><col style="width: 13.7706%;"><col style="width: 12.7907%;"></colgroup> 
+      <thead> 
+      <tr style="text-align: center; height: 33.5938px;"> 
+      <td style="height: 33.5938px;">Рівень</td> 
+      <td style="height: 33.5938px;">Бонус<br>майстерності</td> 
+      <td style="height: 33.5938px;">Особливості</td> 
+      <td style="height: 33.5938px;">Battle<br>Hymns</td> 
+      <td style="height: 33.5938px;">Tricks<br>Known</td> 
+      </tr> 
+      </thead> 
+      <tbody> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;"> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.ttee3cjugnnohcyn]{Art Specialty}&nbsp;@UUID[Compendium.a5e-for-dnd5e.class-features.Item.m7siz0z3rlng8h20]{Bardic Inspiration} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.3qc1rqk8rwvl8van]{Battle Hymn} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.hnco2mcq8qjhysqu]{Spellcasting (Bard)}</p> 
+      </td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.fzmi41u2jx3mxtji]{Adventuring Tricks} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.rccaky1q9jd9v7xn]{Jack-of-All-Trades} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.mkmyxui8l9llh4ql]{Varied Expertise}</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">Bard Archetype Feature</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.6vy9t8q4cq53nw8v]{Bardic Legend (1st)} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.n1y7l6usa4j8sjnn]{Battle Hymn Focus}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.m7siz0z3rlng8h20]{Bardic Inspiration (d8)} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.3ez4uzpew083mv3y]{Key Change} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.oer5fqsdap9ai3v5]{Renewed Inspiration}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">6ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">Bard Archetype Feature, @UUID[Compendium.a5e-for-dnd5e.class-features.Item.dybu9qjwezqh3r5l]{Prestigious} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.mkmyxui8l9llh4ql]{Varied Expertise}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">7ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.6vy9t8q4cq53nw8v]{Bardic Legend (2nd)} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.1zensmbiduq06vqm]{Maestro}</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">8ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.qp4y5b36beo1vr46]{Battle Hymn Specialization}</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">9ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">10ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.m7siz0z3rlng8h20]{Bardic Inspiration (d10)} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.mkmyxui8l9llh4ql]{Varied Expertise}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">11ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.hd5w4jpsyvtkunwg]{Art Mastery} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.6vy9t8q4cq53nw8v]{Bardic Legend (3rd)}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">12ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.qp4y5b36beo1vr46]{Battle Hymn Specialization}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">13ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.7m2n3wg6wrvitzxd]{Universal Trick}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">4</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">14ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">Bard Archetype Feature, @UUID[Compendium.a5e-for-dnd5e.class-features.Item.mkmyxui8l9llh4ql]{Varied Expertise}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">4</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">15ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.m7siz0z3rlng8h20]{Bardic Inspiration (d12)}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;"> 
+      <p>4</p> 
+      </td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">16ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.7m2n3wg6wrvitzxd]{Universal Trick}</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">5</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">17ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.hd5w4jpsyvtkunwg]{Art Mastery} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.rn3whyw0usa6t2cm]{Grand Battle Hymns}</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">5</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">18ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.mkmyxui8l9llh4ql]{Varied Expertise}</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">5</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">19ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.7m2n3wg6wrvitzxd]{Universal Trick}</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">5</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">20ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.cle0kfe4bl9jj1v1]{Virtuoso}</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">6</td> 
+      </tr> 
+      </tbody> 
+      </table> 
+      <h3>Очки здоров’я</h3> 
+      <p><strong>Hit Dice:</strong> 1d8 за кожний рівень барда</p> 
+      <p><strong>Hit Points at 1st Рівень:</strong> 8 + your Constitution модифікатор</p> 
+      <p><strong>Hit Points at Higher Рівеньs:</strong> 1d8 (or 5) + your Constitution модифікатор за кожний рівень барда після 1-го</p> 
+      <h3>Володіння</h3> 
+      <p><strong>Armor:</strong> Light armor Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords</p> 
+      <p><strong>Tools:</strong> Two musical instruments of your choice, or one musical instrument and any other tool</p> 
+      <p><strong>Saving Throws:</strong> Dexterity, Charisma Skills: Choose any three</p> 
+      <h3>Спорядження</h3> 
+      <p>You begin the game with 135 зм. Ти можеш обрати власне спорядження або взяти one of the following equipment packages. Також звернися до розділу «Рекомендоване Equipment section of your chosen background.</p> 
+      <ul> 
+      <li><strong>Agitator's Set (Cost 111 зм):</strong> Dagger, hand crossbow and quiver with 20 bolts, padded cloth, entertainer's pack, flute</li> 
+      <li><strong>Ambassador's Set (Cost 91 зм):</strong> Longsword, shortbow with 20 arrows, padded leather, diplomat's pack, violin</li> 
+      </ul>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  startingEquipment:
+    - _id: l4aVGtA6kTg2e8r0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.sextt5x665ett3s3
+      count: 0
+      type: linked
+      group: ''
+    - _id: l4aVGtA6kTg2e8r1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.u1joluv8fgvfzoth
+      count: 0
+      type: linked
+      group: ''
+  identifier: ''
+  levels: 1
+  hitDice: d8
+  hitDiceUsed: 0
+  advancement:
+    - _id: FRxVq2gmJq6bNazt
+      title: Очки здоров’я
+      type: HitPoints
+    - _id: bf4FI0KafO2zzGae
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - armor:lgt
+        choices: [ ]
+    - _id: jLrmJ9nKz5D2k6vr
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - weapon:mar:handcrossbow
+          - weapon:mar:longsword
+          - weapon:mar:rapier
+          - weapon:mar:shortsword
+          - weapon:sim:*
+        choices: [ ]
+    - _id: 3OYRq9HF3MCZR0aA
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - tool:disg
+              - tool:forg
+              - tool:herb
+              - tool:navg
+              - tool:pois
+              - tool:thief
+              - tool:art:*
+              - tool:music:*
+            count: 2
+    - _id: MiFOI7ZvSMRVUEZO
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - saves:dex
+          - saves:cha
+        choices: [ ]
+    - _id: 2xJvCqO5zpCNG3Tt
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - skills:*
+            count: 3
+    - _id: FAS2kWInIvPWIGWk
+      type: ItemGrant
+      title: Особливості
+      level: 1
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ttee3cjugnnohcyn
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.m7siz0z3rlng8h20
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.hnco2mcq8qjhysqu
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.3qc1rqk8rwvl8van
+    - _id: keRFbku5OwYImBWg
+      type: ItemGrant
+      title: Особливості
+      level: 2
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.rccaky1q9jd9v7xn
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.mkmyxui8l9llh4ql
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.fzmi41u2jx3mxtji
+    - _id: HMdsIW7R4rxupJmO
+      type: ItemGrant
+      title: Особливості
+      level: 4
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.6vy9t8q4cq53nw8v
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.n1y7l6usa4j8sjnn
+    - _id: HxQNRXkDSgxLdHFR
+      type: ItemGrant
+      title: Особливості
+      level: 5
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.3ez4uzpew083mv3y
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.oer5fqsdap9ai3v5
+    - _id: dE7JGVGipEtH4Etn
+      type: ItemGrant
+      title: Особливості
+      level: 6
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.dybu9qjwezqh3r5l
+    - _id: NB8Dac7c5bLHZAAW
+      type: ItemGrant
+      title: Особливості
+      level: 7
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1zensmbiduq06vqm
+    - _id: o4scFfMvnLMMLG1m
+      type: ItemGrant
+      title: Особливості
+      level: 8
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.qp4y5b36beo1vr46
+    - _id: fs6Ol4NApzn3unHo
+      type: ItemGrant
+      title: Особливості
+      level: 11
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.hd5w4jpsyvtkunwg
+    - _id: 239lZwalUeOKHp6b
+      type: ItemGrant
+      title: Особливості
+      level: 13
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7m2n3wg6wrvitzxd
+    - _id: K3LvhshYhvfx2BhV
+      type: ItemGrant
+      title: Особливості
+      level: 20
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.cle0kfe4bl9jj1v1
+    - _id: IPwQamh9mWtdRx1L
+      type: ItemGrant
+      title: Особливості
+      level: 17
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.rn3whyw0usa6t2cm
+    - _id: 63eHxx9K1Cbq1hoL
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: VqQRZOyfcTHvWTdW
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 0xKjUPwyDrL6B389
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: aZfbwr0jVgbnCSvM
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: PnmKKeZuqs1qNwFh
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: EaeGwbe0ZEM3BLo8
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: OyeNgXNDU78Sb5MT
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 6WumH9wU7pbQzySM
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: duQwdUPEyHRGmOoH
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: s7B8LkCcAQp2ef09
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+  spellcasting:
+    ability: cha
+    progression: full
+  wealth: '135'
+effects: [ ]
+folder: null
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722027260078
+  modifiedTime: 1722027285021
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 7ybqdcjh1t39k28t
+_key: '!items!7ybqdcjh1t39k28t'

@@ -1,0 +1,36 @@
+name: Hard Charger
+type: feat
+img: icons/skills/melee/strike-polearm-light-orange.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You are not one to retreat. At 3rd level when you take this archetype, you can run right through damage. While you are raging, once you have moved at least 10 feet, until the beginning of your next turn, every time you take damage, it is reduced by an amount equal to your proficiency bonus. This reduction is only applied once per source no matter how many different types of damage it does. </p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Thunder of War'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722711978280
+  modifiedTime: 1722711982717
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: bshwnaf6ac4vl1gj
+_key: '!items!bshwnaf6ac4vl1gj'

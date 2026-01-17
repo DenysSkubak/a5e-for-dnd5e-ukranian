@@ -1,0 +1,36 @@
+name: Font of Power
+type: feat
+img: icons/weapons/wands/wand-gem-pink.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your object of power takes the form of a wand, talisman, staff, or any other object that could normally be used as a spellcasting focus. You add +2 to the number of artifact charges your bonded artifact has. This increases by +1 at levels 5, 9, 13, and 17.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721639656412
+  modifiedTime: 1721639668514
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 00ein6jo2oc0asex
+_key: '!items!00ein6jo2oc0asex'

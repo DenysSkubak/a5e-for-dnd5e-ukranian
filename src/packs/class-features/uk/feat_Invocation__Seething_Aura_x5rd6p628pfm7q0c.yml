@@ -1,0 +1,33 @@
+name: 'Invocation: Seething Aura'
+type: feat
+img: icons/magic/lightning/orb-ball-spiral-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Choose one of the following damage types: cold, fire, lightning, necrotic, psychic, radiant. Whenever you spend spell points, you can choose to unleash energy that deals an equal amount of damage of the chosen type to hostile creatures within 15 feet of you.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 15h level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: x5rd6p628pfm7q0c
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!x5rd6p628pfm7q0c'

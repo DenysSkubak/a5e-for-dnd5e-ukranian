@@ -1,0 +1,95 @@
+folder: efsBCxTIVPrTYqUO
+name: Lawyer
+type: background
+img: icons/sundries/documents/document-sealed-red-tan.webp
+system:
+  description:
+    value: >-
+      <p dir="ltr">Law is the public ritual (or some would say cosmological force) which demands the respect of commoner and king alike. This makes the rule of law a kind of magic, and the wielders of this magic are lawyers. From presenting legal arguments in courts, presiding over courts as judges, to drafting groundbreaking legislation&mdash;lawyers are indispensable allies when advancing your cause in the eyes of the law.&nbsp;</p> 
+      <p dir="ltr">As a lawyer, do you have a particular subject expertise, like trade law or royal succession? Are you an attorney who defends and prosecutes in the courts, one who drafts injunctions and policies, or do you simply provide private counsel?</p> 
+      <h3 dir="ltr">Lawyer Traits</h3> 
+      <p dir="ltr"><strong>Ability Score Increases:</strong> +1 to Intelligence and one other ability score.</p> 
+      <p dir="ltr"><strong>Skill Proficiencies:</strong> Culture, and either History, Insight, or Persuasion.</p> 
+      <p dir="ltr"><strong>Bonus Specialty: </strong>Laws (per Culture), which does not count against your normal specialty total.</p> 
+      <p dir="ltr"><strong>Language Proficiencies:</strong> Any one of your choice</p> 
+      <p dir="ltr"><strong>Suggested Equipment (Cost 55 gold): </strong>Book (blank), fine clothes, 1 oz. jar of ink, ink pen, signet ring</p> 
+      <p dir="ltr"><strong>Feature: Emergency Injunction.&nbsp;</strong>While in a settlement in which you can communicate with officers of the law, you can spend 1 hour to file an emergency injunction. This injunction compels a specific person to complete or cease a certain action in consistency with the law&mdash;such as &ldquo;stay away from my horse&rdquo; or &ldquo;get your horses out of my stable.&rdquo; The injunction is a legal order which will be enforced by the town guard, and it is considered law for one week after which time the emergency injunction wares out and it must be restored through the normal bureaucratic means. Alternatively, you might instead file paperwork formally accusing a person of a crime or granting someone you know bail without payment. You can file no more than 1 emergency injunction per week.</p> 
+      <p dir="ltr"><strong>Adventures and Advancement.</strong>&nbsp;After enough adventures, you are promoted to a legal role of profound power: a high judge, a district prosecuting or defense attorney, or the personal counsel of someone famous. You acquire a yearly retainer fee, which allows you to afford an estate (Grade 2 luxurious house) and live a rich lifestyle. Additionally, you can use your Emergency Injunction once between long rests instead of once per week.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  advancement:
+    - _id: eDaIGTHRZpWO6DQV
+      type: AbilityScoreImprovement
+      level: 1
+      configuration:
+        points: 1
+        fixed:
+          int: 1
+        cap: 1
+    - _id: 8Z1ZOnLpZe9gHLHd
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - skills:cul
+        choices:
+          - 
+          pool:
+              - skills:his
+              - skills:ins
+              - skills:per
+            count: 1
+    - _id: UvR8DexnS71GyrCR
+      type: ItemGrant
+      title: Features
+      level: 1
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.origin-features.Item.sy4hwojpxmqmbjso
+    - _id: 29HCPHOt9P2Cwf7P
+      type: Trait
+      level: 1
+  startingEquipment:
+    - _id: uqNjbsS8gPIqMjz0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.ito6po17oo0fjtag
+      count: 0
+      type: linked
+      group: ''
+    - _id: uqNjbsS8gPIqMjz1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.fs1g83t1y18hflen
+      count: 0
+      type: linked
+      group: ''
+    - _id: uqNjbsS8gPIqMjz2
+      sort: 30000
+      key: Compendium.a5e-for-dnd5e.gear.Item.32eyx6xvcv2xuqvo
+      count: 0
+      type: linked
+      group: ''
+    - _id: uqNjbsS8gPIqMjz3
+      sort: 40000
+      key: Compendium.a5e-for-dnd5e.gear.Item.82kz4htg65yqk0rq
+      count: 0
+      type: linked
+      group: ''
+    - _id: uqNjbsS8gPIqMjz4
+      sort: 50000
+      key: Compendium.a5e-for-dnd5e.gear.Item.vvvc3ailsmr450pw
+      count: 0
+      type: linked
+      group: ''
+effects: [ ]
+flags: { }
+_id: wws7bpct8gxoa4j5
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!wws7bpct8gxoa4j5'

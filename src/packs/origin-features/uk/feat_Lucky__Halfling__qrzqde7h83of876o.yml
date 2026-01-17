@@ -1,0 +1,33 @@
+name: Lucky (Halfling)
+type: feat
+img: icons/commodities/flowers/clover.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>When you roll a 1 on the d20 for an ability check, attack roll, or saving throw, you can reroll the die and must use the new roll.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: qrzqde7h83of876o
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!qrzqde7h83of876o'

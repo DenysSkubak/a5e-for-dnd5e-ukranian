@@ -1,0 +1,36 @@
+folder: null
+name: Blighted Infliction
+type: feat
+img: icons/skills/melee/blood-slash-foam-red.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p dir="ltr">At 6th level, you have managed to almost perfect your blighted wild shapes. While in your @UUID[Compendium.a5e-for-dnd5e.class-features.Item.3jdfihvtbyhbv9ez]{Wild Shape} form, your natural weapons count as magical, and deal an additional 1d6 necrotic damage.</p>
+    chat: ''
+  source:
+    book: Ace's Adventuring Guide to Necromancy
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722977885496
+  modifiedTime: 1722977903267
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: bw8ylcl03ruxfc0v
+_key: '!items!bw8ylcl03ruxfc0v'

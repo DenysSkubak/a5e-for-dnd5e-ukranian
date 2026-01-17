@@ -1,0 +1,347 @@
+name: Spellcasting (Sorcerer)
+type: feat
+img: icons/magic/unholy/hand-marked-pink.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p><strong>Table: Sorcerer Spells</strong></p> 
+      <table style="width: 100%;" border="1"><colgroup><col style="width: 12.5969%;"><col style="width: 19.186%;"><col style="width: 15.6977%;"><col style="width: 5.23256%;"><col style="width: 6.39535%;"><col style="width: 5.81395%;"><col style="width: 5.81395%;"><col style="width: 5.81395%;"><col style="width: 5.81395%;"><col style="width: 5.81395%;"><col style="width: 5.81395%;"><col style="width: 5.81395%;"></colgroup> 
+      <thead> 
+      <tr style="text-align: center;"> 
+      <td>Level</td> 
+      <td>Cantrips<br>Known</td> 
+      <td>Spells<br>Known</td> 
+      <td>1ˢᵗ</td> 
+      <td>2ⁿᵈ</td> 
+      <td>3ʳᵈ</td> 
+      <td>4ᵗʰ</td> 
+      <td>5ᵗʰ</td> 
+      <td>6ᵗʰ</td> 
+      <td>7ᵗʰ</td> 
+      <td>8ᵗʰ</td> 
+      <td>9ᵗʰ</td> 
+      </tr> 
+      </thead> 
+      <tbody> 
+      <tr> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">6ᵗʰ</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">7ᵗʰ</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">8ᵗʰ</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">9ᵗʰ</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">10ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">11</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">11ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">12</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">12ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">12</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">13ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">13</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">14ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">13</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">15ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">14</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">16ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">14</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">17ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">15</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">18ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">15</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">19ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">16</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">20ᵗʰ</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">16</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      </tbody> 
+      </table> 
+      <h3>Cantrips</h3> 
+      <p>At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer Spells table.</p> 
+      <h3>Spell Slots</h3> 
+      <p>The Sorcerer Spells table shows how many spell slots you have to cast your spells of 1st-level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell&rsquo;s level or higher. You regain all expended spell slots when you finish a long rest.</p> 
+      <h3>Spells Known of 1st-Level and Higher</h3> 
+      <p>You know two 1st-level spells of your choice from the sorcerer spell list.</p> 
+      <p>The Spells Known column of the Sorcerer Spells table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st- or 2nd-level.</p> 
+      <p>Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.</p> 
+      <h3>Spellcasting Ability</h3> 
+      <p>Charisma is your spellcasting ability for your sorcerer spells, as your magic is fueled by an attunement to your very soul. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.</p> 
+      <p><strong>Spell save DC</strong> = 8 + your proficiency bonus + your Charisma modifier</p> 
+      <p><strong>Spell attack modifier</strong> = your proficiency bonus + your Charisma modifier</p> 
+      <h3>Spellcasting Focus</h3> 
+      <p>You can use an arcane focus as a spellcasting focus for your sorcerer spells.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+folder: null
+flags: { }
+_id: whx7ar38i1nr1js4
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!whx7ar38i1nr1js4'

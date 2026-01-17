@@ -1,0 +1,115 @@
+folder: null
+name: Wall of Sound
+type: feat
+img: icons/magic/sonic/scream-wail-shout-teal.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 14th level, you gain the most potent sound sculptor ability: the creation of walls of sound. As an action, you can create a wall of solid sound. The wall is composed of twenty 5-foot-square, 10-foot-tall sections of solid sound. The sections must be contiguous, and all sections must be within 120 feet of your position; otherwise, you can form the wall in any shape you desire. The wall&rsquo;s space is&nbsp;difficult terrain</span>, and reverberations in the air make objects on the opposite side of the wall lightly obscured. Ranged attacks fired through the wall are made at&nbsp;disadvantage</span>&nbsp;. A creature that enters the wall&rsquo;s space for the first time on a turn or that starts its turn inside the wall must make a Constitution&nbsp;saving throw&nbsp;against your spell save DC. On a failed save, the target loses&nbsp;<span>concentration&nbsp;(if applicable) on any spell or effect they are concentrating on and is deafened for one minute. On a success, the target has disadvantage on Perception checks relying on hearing until it exits the section of wall, but is not deafened and does not lose concentration. You must concentrate to maintain the wall (as if concentrating on a spell), and it vanishes if you lose concentration. You can use this feature a number of times equal to your proficiency bonus, regaining all uses when you finish a&nbsp;<span>long rest .</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties:
+    - concentration
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: 120
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: con
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.2KQsnBHm9Ygk0ZQI
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: DRJgdzb5YGecf8OR
+        duration:
+          unit: minutes
+    transfer: false
+    name: Deafened
+    img: icons/magic/sonic/scream-wail-shout-teal.webp
+    _id: bkxYdR2z67y7UTqh
+    type: base
+    system: { }
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["deafened"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    tint: '#ffffff'
+    statuses:
+      - deafened
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: 1722270438226
+      modifiedTime: 1722270457138
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!v2opp24tm3j6htte.bkxYdR2z67y7UTqh'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722270312588
+  modifiedTime: 1722270494772
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: v2opp24tm3j6htte
+_key: '!items!v2opp24tm3j6htte'

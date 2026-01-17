@@ -1,0 +1,46 @@
+name: Shovel
+type: equipment
+img: icons/tools/hand/shovel-spade-steel-grey.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: <p>A standard shovel used for digging.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 5
+  price:
+    value: 2
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: mundane
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: ''
+    baseItem: ''
+folder: VRWG3xL5zF1ktOX6
+_id: vqseoqiptkqkux3k
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!vqseoqiptkqkux3k'

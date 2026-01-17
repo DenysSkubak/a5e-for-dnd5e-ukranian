@@ -1,0 +1,33 @@
+name: 'Invocation: Eldritch Riposte'
+type: feat
+img: icons/magic/defensive/shield-barrier-blades-teal.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When a creature you can see within 30 feet deals damage to you, you can use your reaction and spend spell points to use your Eldritch Disturbance or Eldritch Ray against it. Instead of the normal damage, you deal 1d10 force damage for every 1 spell point spent activating this feature (up to a maximum equal to your proficiency bonus).</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Eldritch Disturbance or Eldritch Ray feature
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: xppbvyx8tyja6pje
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!xppbvyx8tyja6pje'

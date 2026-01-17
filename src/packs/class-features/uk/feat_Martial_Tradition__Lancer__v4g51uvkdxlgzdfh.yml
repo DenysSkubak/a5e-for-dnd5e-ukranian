@@ -1,0 +1,33 @@
+name: Martial Tradition (Lancer)
+type: feat
+img: icons/skills/melee/maneuver-sword-katana-yellow.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 2nd level, and again at 4th and 8th level, you learn a martial tradition of your choice.</p>
+    chat: ''
+  source:
+    book: 'System Architecture: Motif Classes'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: v4g51uvkdxlgzdfh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!v4g51uvkdxlgzdfh'

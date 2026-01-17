@@ -1,0 +1,36 @@
+folder: null
+name: Pierce the Dark
+type: feat
+img: icons/magic/unholy/beam-ringed-impact-purple.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, your senses sharpen to allow you to perceive your lightless environment. If you have the ability to see, you gain darkvision to a range of 120 feet and the ability to see through magical darkness. If you have blindsight, the range of your blindsight increases by 30 feet.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723486458180
+  modifiedTime: 1723490015600
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: rx4j30s5wce3lcfe
+_key: '!items!rx4j30s5wce3lcfe'

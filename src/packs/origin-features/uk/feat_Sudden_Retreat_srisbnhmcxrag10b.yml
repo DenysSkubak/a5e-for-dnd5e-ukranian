@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Sudden Retreat
+type: feat
+img: icons/magic/movement/pinwheel-turning-blue.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>When a creature makes an&nbsp;opportunity attack</span>&nbsp;against you, it does so with&nbsp;<span>disadvantage.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: srisbnhmcxrag10b
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!srisbnhmcxrag10b'

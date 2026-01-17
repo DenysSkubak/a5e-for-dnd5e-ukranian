@@ -1,0 +1,68 @@
+name: Improvised Bastion Aegis
+type: feat
+img: icons/magic/defensive/shield-barrier-deflect-teal.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When a creature’s attack, spell, or ability would damage you, you can use your reaction to devise a momentary defense (using a chair as a shield, predicting a safe spot in an explosion, diluting a spray of acid with a solvent, etc). You gain resistance to one type of damage you would take, which protects you only against the triggering hostile act.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: 1
+    condition: When a creature’s attack, spell, or ability would damage you
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: ''
+    width: null
+    units: ''
+    type: self
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_id: zg8gtdbbbq1xqlt7
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!zg8gtdbbbq1xqlt7'

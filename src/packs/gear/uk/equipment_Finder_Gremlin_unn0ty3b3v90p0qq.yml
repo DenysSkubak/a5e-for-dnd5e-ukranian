@@ -1,0 +1,47 @@
+name: Finder Gremlin
+type: equipment
+img: icons/tools/navigation/compass-worn-copper.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>This tiny ethereal silver goblinoid sits in a clamshell container along with a miniature cup of water and a single thin needle.</p><p>When prompted with a bonus action, the gremlin uses the old cup and needle trick to try and find magnetic north, although it is not particularly good at this.</p><p>Whenever the gremlin tries to find true north, the Narrator roll a d10:</p><ul><li><p><strong>1:</strong> it gets confused, pointing in the exact opposite direction instead.</p></li><li><p><strong>2-10:</strong> it shows you magnetic north</p></li></ul>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 20
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: common
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: ''
+    baseItem: ''
+folder: 9k4UVzCiMuqj62ea
+_id: unn0ty3b3v90p0qq
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!unn0ty3b3v90p0qq'

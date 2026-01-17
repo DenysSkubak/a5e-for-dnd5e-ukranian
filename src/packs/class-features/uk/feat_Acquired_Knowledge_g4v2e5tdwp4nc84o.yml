@@ -1,0 +1,33 @@
+name: Acquired Knowledge
+type: feat
+img: icons/sundries/books/book-tooled-silver-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 13th level, you gain proficiency with one language and one tool of your choice.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: g4v2e5tdwp4nc84o
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!g4v2e5tdwp4nc84o'

@@ -1,0 +1,33 @@
+name: 'Invocation: Reanimator'
+type: feat
+img: icons/magic/death/hand-dirt-undead-zombie.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You can cast animate dead&nbsp;once by spending 5 spell points; you can instead cast it as 4th-level spell by spending 6 spell points, or as a 5th-level spell by spending 7 spell points. You cannot do so again until you finish a long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 5th level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: oidbyy5mb6cnb4rf
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!oidbyy5mb6cnb4rf'

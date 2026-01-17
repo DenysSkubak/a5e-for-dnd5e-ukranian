@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Shroomfinder
+type: feat
+img: icons/consumables/mushrooms/bell-shiitake-brown.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain&nbsp;advantage</span>&nbsp;on checks made to find and identify mushrooms, as well as on checks made to cook mushrooms or use them as alchemical ingredients. In addition, you gain an&nbsp;expertise die</span>&nbsp;on&nbsp;<span>attack rolls&nbsp;and&nbsp;<span>saving throws against plant creatures.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: ij5gmtkabiktcng5
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ij5gmtkabiktcng5'

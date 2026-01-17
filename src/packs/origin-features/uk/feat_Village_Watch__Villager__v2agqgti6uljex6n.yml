@@ -1,0 +1,33 @@
+name: Village Watch (Villager)
+type: feat
+img: icons/environment/settlement/house-farmland-small.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain an expertise die on Perception checks made while keeping watch during a rest.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: v2agqgti6uljex6n
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!v2agqgti6uljex6n'

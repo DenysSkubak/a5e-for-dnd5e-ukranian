@@ -1,0 +1,46 @@
+name: Chain Shirt (Steel)
+type: equipment
+img: icons/commodities/metal/mail-chain-steel.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: ''
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 15
+  price:
+    value: 50
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: mundane
+  identified: true
+  armor:
+    value: 13
+    dex: 2
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: medium
+    baseItem: chainshirt
+folder: lG2ShhMqyfAer1DD
+_id: mf62k1p45js5rxa2
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!mf62k1p45js5rxa2'

@@ -1,0 +1,40 @@
+name: Entertainer's Pack
+type: container
+img: icons/containers/bags/satchel-worn-leather-teal.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>Includes:</p><ul><li><p>1x Backpack</p></li><li><p>1x Bedroll</p></li><li><p>2x Clothes (Costume)</p></li><li><p>5x Candle</p></li><li><p>5x Rations (1 Supply)</p></li><li><p>1x Waterskin</p></li><li><p>1x Disguise Kit</p></li></ul>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 40
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: mundane
+  identified: true
+  capacity:
+    type: weight
+    value: null
+    weightless: false
+  currency:
+    cp: 0
+    sp: 0
+    ep: 0
+    gp: 0
+    pp: 0
+folder: EExYg2tBT0B0X2e9
+_id: gx7s4gy1245p9b6b
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!gx7s4gy1245p9b6b'

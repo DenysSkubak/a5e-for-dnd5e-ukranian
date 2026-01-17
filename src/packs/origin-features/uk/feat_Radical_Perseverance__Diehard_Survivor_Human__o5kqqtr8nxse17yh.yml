@@ -1,0 +1,33 @@
+name: Radical Perseverance (Diehard Survivor Human)
+type: feat
+img: icons/magic/life/crosses-trio-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>Through your sheer stubbornness and will to live, you sometimes manage to wriggle out of death’s grasp. You die after 4 failed death saving throws instead of 3.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: o5kqqtr8nxse17yh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!o5kqqtr8nxse17yh'

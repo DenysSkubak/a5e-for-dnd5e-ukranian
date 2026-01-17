@@ -1,0 +1,231 @@
+folder: null
+name: In The Cracks
+type: feat
+img: icons/magic/death/skull-poison-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 2nd level, you can use a bonus action to assume a wild shape. In addition, you gain an additional form you can assume using your Wild Shape feature: a Medium swarm of Tiny beasts. When you adopt this form, you don&rsquo;t gain temporary hit points, and while in this form you can&rsquo;t gain hit points or temporary hit points. In this form, you can move through other creature&rsquo;s spaces and pass through any space a Tiny creature could without squeezing. The only actions you can take while in this form are the Dash, Disengage, or Dodge actions. Your game statistics are unchanged, except for one of the following benefits, which you choose when you shift:</p><ul><li>You have&nbsp;resistance</span>&nbsp;to bludgeoning, piercing, and slashing damage.</li><li>You don&rsquo;t provoke&nbsp;opportunity attacks&nbsp;when moving out of a creature&rsquo;s reach.</li><li>You have a climb speed equal to your Speed, and you can walk on walls and upside down on ceilings.</li><li>You have a fly speed equal to your Speed.</li><li>When you enter a creature&rsquo;s space for the first time on a turn, that creature must make a Dexterity&nbsp;<span>saving throw&nbsp;against your spell save DC, taking piercing damage equal to your level + your Wisdom modifier on a failure, or half damage on a success.</li></ul><p>If you revert to your normal form before 1 minute has passed, you regain the use of Wild Shape you expended to take this form.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.F9cp7LvSSyHlab8v
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: CkiK3r7hHGXwZOJe
+        applyToSelf: false
+    transfer: false
+    name: Resistance
+    img: icons/magic/death/skull-poison-green.webp
+    _id: PciANQCapTboCsn3
+    type: base
+    system: { }
+    changes:
+      - key: system.traits.dr.value
+        value: bludgeoning
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>You have resistance to bludgeoning, piercing, and slashing damage.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722952646914
+      modifiedTime: 1722952687768
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!uh3w20ghozle5px5.PciANQCapTboCsn3'
+  - origin: Item.F9cp7LvSSyHlab8v
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: CkiK3r7hHGXwZOJe
+    transfer: false
+    name: Opportunity Attacks
+    img: icons/magic/death/skull-poison-green.webp
+    _id: 9uwoz4oP1tweJJSH
+    type: base
+    system: { }
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>You don’t provoke opportunity attacks when moving out of a creature’s reach.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722952703156
+      modifiedTime: 1722952722078
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!uh3w20ghozle5px5.9uwoz4oP1tweJJSH'
+  - origin: Item.F9cp7LvSSyHlab8v
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: CkiK3r7hHGXwZOJe
+    transfer: false
+    name: Climb
+    img: icons/magic/death/skull-poison-green.webp
+    _id: tcqQZt4dcn1gK3P0
+    type: base
+    system: { }
+    changes:
+      - key: system.attributes.movement.climb
+        value: '@attributes.movement.walk.distance'
+        mode: 6
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>You have a climb speed equal to your Speed, and you can walk on walls and upside down on ceilings.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722952736454
+      modifiedTime: 1722952783894
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!uh3w20ghozle5px5.tcqQZt4dcn1gK3P0'
+  - origin: Item.F9cp7LvSSyHlab8v
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: CkiK3r7hHGXwZOJe
+    transfer: false
+    name: Fly
+    img: icons/magic/death/skull-poison-green.webp
+    _id: 5tzI8BY8DyzYoWjs
+    type: base
+    system: { }
+    changes:
+      - key: system.attributes.movement.fly
+        value: '@attributes.movement.walk.distance'
+        mode: 6
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>You have a fly speed equal to your Speed.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722952766460
+      modifiedTime: 1722952799040
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!uh3w20ghozle5px5.5tzI8BY8DyzYoWjs'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722952476354
+  modifiedTime: 1722953213834
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: uh3w20ghozle5px5
+_key: '!items!uh3w20ghozle5px5'

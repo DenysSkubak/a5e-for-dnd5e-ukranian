@@ -1,0 +1,74 @@
+folder: z476XZt1iG4Mb7VJ
+name: Natural Weapons
+type: feat
+img: icons/skills/melee/strike-blade-claw-red.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain a natural weapon, such as claws, horns, or teeth. Choose slashing, piercing, or bludgeoning damage. Your unarmed strikes deal 1d6 + Strength modifier damage of that type.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: mwak
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - 1d6 + @mod
+        - bludgeoning
+      - 
+        - 1d6 + @mod
+        - piercing
+      - 
+        - 1d6 + @mod
+        - slashing
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_id: 933p9dh8a85jq46x
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!933p9dh8a85jq46x'

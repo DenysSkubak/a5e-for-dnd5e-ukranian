@@ -1,0 +1,33 @@
+folder: null
+name: Ooze Within
+type: feat
+img: icons/creatures/slimes/slime-movement-pseudopods-teal.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also starting at 2nd level, your body becomes more ooze-like, allowing you to thwart attackers. Whenever you are subjected to a critical hit, the hit is treated as a normal hit instead. In addition, you are immune to Sneak Attack damage from class features or traits. Finally, you have&nbsp;advantage</span>&nbsp;on&nbsp;ability checks</span>&nbsp;and&nbsp;<span>saving throws&nbsp;you make to escape a&nbsp;<span>grapple.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: bq1b8dobpudypze9
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!bq1b8dobpudypze9'

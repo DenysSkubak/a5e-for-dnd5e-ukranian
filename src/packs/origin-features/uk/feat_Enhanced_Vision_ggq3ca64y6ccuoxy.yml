@@ -1,0 +1,33 @@
+name: Enhanced Vision
+type: feat
+img: icons/environment/wilderness/island.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency&nbsp;in Perception. Choose one of the&nbsp;following.</p><p><em>Nightwalker:</em> You gain an expertise die&nbsp;on Investigation and Perception checks&nbsp;made in moonlight or starlight.&nbsp;</p><p><em>Sunseeing: </em>You gain an expertise die&nbsp;on Investigation and Perception checks&nbsp;made in daylight.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: ggq3ca64y6ccuoxy
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ggq3ca64y6ccuoxy'

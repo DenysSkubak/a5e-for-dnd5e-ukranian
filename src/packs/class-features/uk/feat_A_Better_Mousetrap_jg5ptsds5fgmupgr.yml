@@ -1,0 +1,66 @@
+name: A Better Mousetrap
+type: feat
+img: icons/environment/traps/net.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>There&rsquo;s always a better trap design if you put your mind to it. You can improve fishing traps, hunting snares, and hunting traps as you set them. Hunting traps you improve in this way are always considered masterwork hunting traps. Whenever you retrieve an improved fishing trap or hunting snare, you may add a d6 to the result determining how much Supply has been captured. </p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_id: jg5ptsds5fgmupgr
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!jg5ptsds5fgmupgr'

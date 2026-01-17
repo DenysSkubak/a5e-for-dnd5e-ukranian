@@ -1,0 +1,70 @@
+name: Clockwork Efficiency
+type: feat
+img: icons/commodities/tech/cog-gold.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain the ability to create singular moments of explosive coordination. As an action, select up to 6 friendly creatures (which may include you) within 100 feet. All of the creatures immediately take a single action, expending their reaction to do so. If the order of their actions matter, you may decide the sequence. Once you use this feature, you must finish a long rest before you can use it again.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 6
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 100
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723404177672
+  modifiedTime: 1723404219807
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: yvxiz5ztvhkirvkw
+_key: '!items!yvxiz5ztvhkirvkw'

@@ -1,0 +1,33 @@
+name: Bring 'Em Back Alive
+type: feat
+img: icons/tools/fasteners/chain-steel-blue.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>The escape DCs of nets you throw and manacles you fasten increase to match your maneuver DC unless they are already higher.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_id: 5zh6rcw55b3gls1f
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5zh6rcw55b3gls1f'

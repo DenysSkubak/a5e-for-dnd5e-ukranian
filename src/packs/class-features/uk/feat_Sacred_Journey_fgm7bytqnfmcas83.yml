@@ -1,0 +1,36 @@
+folder: null
+name: Sacred Journey
+type: feat
+img: icons/skills/movement/feet-winged-boots-glowing-yellow.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p><span id="docs-internal-guid-e802b6bb-7fff-9bc2-1b7e-d13d316b8406">At 1st level, you know how to contemplate the divine at all times, no matter where you are or what you&rsquo;re doing. You can perform the Pray journey activity simultaneously with any other journey activity. In addition, you gain the @UUID[Compendium.a5e-for-dnd5e.class-features.Item.e91o1vderqaxj3tv]{Righteous Path} sign of faith.</span></p>
+    chat: ''
+  source:
+    book: Secrets of the Selkies
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722889545463
+  modifiedTime: 1722889581206
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: fgm7bytqnfmcas83
+_key: '!items!fgm7bytqnfmcas83'

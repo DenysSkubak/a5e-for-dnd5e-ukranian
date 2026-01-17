@@ -1,0 +1,33 @@
+name: Savant Archetype
+type: feat
+img: icons/svg/item-bag.svg
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your Savant archetype defines what your greatest aptitude is. The <strong>Steward</strong> is expert at protecting and healing allies.</p><p>The <strong>Vanguard</strong> joins the thick of the fight, looking for tactical opportunities others miss.</p><p>The <strong>Vox</strong> deeply understands how words can manipulate people.</p><hr class="a5e-rule u-my-md"><p>Your archetype gives you unique features at 1st level and again at 2nd, 6th, 11th, 14th, and 17th level.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: uinid6xyysrg8474
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!uinid6xyysrg8474'

@@ -1,0 +1,84 @@
+name: Red Cloak of Riding
+type: equipment
+img: >-
+  https://assets.forge-vtt.com/bazaar/core/icons/equipment/back/cloakcollared-red-gold.webp
+effects:
+  - icon: https://assets.forge-vtt.com/bazaar/core/icons/svg/aura.svg
+    origin: Item.ylgdewrrsqjkk356
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Disadvantage Insight & Perception
+    _id: mWSGh6JuQEXE5MB2
+    changes:
+      - key: flags.a5e.effects.rollMode.skillCheck.ins
+        mode: 6
+        value: '-1'
+        priority: 50
+      - key: flags.a5e.effects.rollMode.skillCheck.prc
+        mode: 6
+        value: '-1'
+        priority: 50
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    tint: '#ffffff'
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!ylgdewrrsqjkk356.mWSGh6JuQEXE5MB2'
+flags: { }
+system:
+  description:
+    value: >-
+      <p>While wearing this scarlet cloak, you gain a +2 bonus to AC but have disadvantage on Insight and Perception checks. In addition, when you are reduced to 0 hit points and wearing this cloak, you drop to 1 hit point instead. You can&rsquo;t use this feature again until you finish a long rest.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 7000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: veryRare
+  identified: true
+  armor:
+    value: 2
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: ''
+    baseItem: ''
+folder: 9k4UVzCiMuqj62ea
+_id: ylgdewrrsqjkk356
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ylgdewrrsqjkk356'

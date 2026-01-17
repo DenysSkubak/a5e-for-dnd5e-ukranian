@@ -1,0 +1,33 @@
+name: War Scholar
+type: feat
+img: icons/magic/time/clock-spinning-gold-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>When you replace an attack or use an action to Disarm, Grapple, Overrun, Shove, or Tumble, you gain an expertise die.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: s18xa1zt5jle6v80
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!s18xa1zt5jle6v80'

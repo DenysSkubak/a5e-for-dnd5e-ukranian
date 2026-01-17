@@ -1,0 +1,33 @@
+name: 'Reputation: Token of Gratitude'
+type: feat
+img: icons/sundries/documents/paper-plain-white.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Word of your deeds is not just advantageous to you: many merchants are eager to capitalize on having done business with someone of your reputation. Upon recognizing you, they offer up to 15% off of the listed price of a particular item in exchange for some sign of your presence such as a small token or autograph.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: ao4lbsapsm4mei1j
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ao4lbsapsm4mei1j'

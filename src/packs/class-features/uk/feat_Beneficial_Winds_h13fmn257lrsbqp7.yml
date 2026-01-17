@@ -1,0 +1,33 @@
+folder: null
+name: Beneficial Winds
+type: feat
+img: icons/commodities/materials/feather-blue-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You are constantly under the effects of the feather fall spell as long as you are conscious. Moving in wind poses no penalty for you. If you need to roll a saving throw against a wind based effect, add an expertise die.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 'Elemental Affinity: Air'
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: h13fmn257lrsbqp7
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!h13fmn257lrsbqp7'

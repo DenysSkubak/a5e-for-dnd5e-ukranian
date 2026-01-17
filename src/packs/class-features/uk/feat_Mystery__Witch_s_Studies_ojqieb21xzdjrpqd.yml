@@ -1,0 +1,33 @@
+name: 'Mystery: Witch’s Studies'
+type: feat
+img: icons/magic/symbols/star-solid-gold.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You may choose a wizard's Elective Study. You may choose this mystery a second time starting at 13th level.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 7th Level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: ojqieb21xzdjrpqd
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ojqieb21xzdjrpqd'

@@ -1,0 +1,33 @@
+name: Widely Known
+type: feat
+img: icons/sundries/documents/document-sealed-red-tan.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You do not have disadvantage on Prestige checks made outside the area described by your Prestige rating.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: q5a9fxxi71e0t9xr
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!q5a9fxxi71e0t9xr'

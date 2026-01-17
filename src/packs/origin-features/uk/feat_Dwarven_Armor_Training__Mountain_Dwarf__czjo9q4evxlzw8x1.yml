@@ -1,0 +1,32 @@
+name: Dwarven Armor Training (Mountain Dwarf)
+type: feat
+img: icons/environment/settlement/mine-cart-rocks-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: <p>You have proficiency with light and medium armor.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: czjo9q4evxlzw8x1
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!czjo9q4evxlzw8x1'

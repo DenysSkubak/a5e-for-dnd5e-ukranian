@@ -1,0 +1,68 @@
+folder: null
+name: Intense Spell
+type: feat
+img: icons/skills/targeting/crosshair-triple-strike-orange.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you cast a spell that deals damage, before rolling damage or determining the result of any of the spell&rsquo;s attack rolls or saving throws, you can spend sorcery points equal to the spell&rsquo;s level. If you do, the spell deals its maximum possible damage to one target.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721921495872
+  modifiedTime: 1721921657047
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 7dpsv85pornhtpm7
+_key: '!items!7dpsv85pornhtpm7'

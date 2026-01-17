@@ -1,0 +1,33 @@
+name: Slapstick (Circusfolk)
+type: feat
+img: icons/environment/settlement/tent-flag.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You are proficient with improvised weapons, and improvised weapons you use can deal 1d6 damage rather than the damage they normally deal. You can use Dexterity instead of Strength for the attack and damage rolls of your improvised weapons.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: z91h9kb6otyjlhtf
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!z91h9kb6otyjlhtf'

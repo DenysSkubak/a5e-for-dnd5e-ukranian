@@ -1,0 +1,36 @@
+name: Fearless Charge
+type: feat
+img: icons/skills/melee/strike-weapons-orange.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Friendly creatures in the range of your @UUID[Compendium.a5e-for-dnd5e.class-features.Item.d71mc2057x7y6c08]{Commanding Presence} can ignore the frightened condition for the purposes of determining where it can move.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723399676730
+  modifiedTime: 1723399691356
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 1fprxvaqj5yo2do2
+_key: '!items!1fprxvaqj5yo2do2'

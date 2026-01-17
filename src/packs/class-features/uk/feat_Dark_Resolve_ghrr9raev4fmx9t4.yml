@@ -1,0 +1,75 @@
+folder: null
+name: Dark Resolve
+type: feat
+img: icons/magic/unholy/beam-ringed-impact-purple.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: <p>At 11th level, you gain proficiency in Wisdom&nbsp;saving throws.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects:
+  - origin: Item.dlycybtYDotpgmYH
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Wisdom STP
+    _id: DvGJxE9ywYF4WQC6
+    changes:
+      - key: system.abilities.wis.save.proficient
+        value: 'true'
+        mode: 6
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.22
+      createdTime: null
+      modifiedTime: 1723492977260
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/magic/unholy/beam-ringed-impact-purple.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!ghrr9raev4fmx9t4.DvGJxE9ywYF4WQC6'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723492977201
+  modifiedTime: 1723492990488
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ghrr9raev4fmx9t4
+_key: '!items!ghrr9raev4fmx9t4'

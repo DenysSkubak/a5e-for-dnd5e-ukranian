@@ -1,0 +1,37 @@
+name: Deputy Squadron
+type: feat
+img: icons/environment/people/infantry-army.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Creatures affected by your @UUID[Compendium.a5e-for-dnd5e.class-features.Item.ctwqda2d5o6hga02]{Deputize} ability also gain the benefits of @UUID[Compendium.a5e-for-dnd5e.class-features.Item.bqcv2iyk5cpz1l7q]{Harsh Sentence} for the duration of the ability.</p> 
+      <p>&nbsp;</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722960143639
+  modifiedTime: 1722960163828
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 382fmo377tfnkgnf
+_key: '!items!382fmo377tfnkgnf'

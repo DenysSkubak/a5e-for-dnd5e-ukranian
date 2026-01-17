@@ -1,0 +1,80 @@
+name: Holy Avenger Bastard Sword
+type: weapon
+img: icons/weapons/swords/greatsword-guard.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p><em>Parrying, Versatile (1d10)</em></p><p>You gain a +3 bonus to attack and damage rolls made with this magic sword. While you are attuned to the sword and use it to attack a fiend or undead, on a hit it deals an extra 2d10 radiant damage. In addition, while drawn the sword creates an aura in a 10-foot radius around you. You and friendly creatures in the aura gain&nbsp;advantage</span>&nbsp;on&nbsp;<span>saving throws&nbsp;against spells and other magical effects. If you have 17 or more levels in the herald class, the aura increases to a 30-foot radius.</p><hr><p><b>Parrying:</b> When you are wielding this weapon and you are not using a shield, once before your next turn you can gain an expertise die to your AC against a single melee attack made against you by a creature you can see. You cannot use this property while incapacitated , paralyzed , rattled , restrained , or stunned.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 5
+  price:
+    value: 100000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: legendary
+  identified: true
+  proficient: true
+  type:
+    value: martialM
+    baseItem: bastardsword
+  properties:
+    - ver
+  armor:
+    value: null
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  activation: { }
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: zzy7PcM8aJV9irTn
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_id: f4qgb43i2yc3h4u7
+_key: '!items!f4qgb43i2yc3h4u7'

@@ -1,0 +1,33 @@
+name: Necromantic Touch
+type: feat
+img: icons/magic/unholy/hand-claw-fire-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p dir="ltr">At 2nd level, your intimate knowledge with necromancy has taught you many things that are normally forbidden.</p><p dir="ltr">Necromancy, Necrotic and Undead spells are treated as Wizard Spells for you.</p><p dir="ltr">You also learn the Chill Touch cantrip. This does not count against the number of cantrips known.</p>
+    chat: ''
+  source:
+    book: Ace's Adventuring Guide to Necromancy
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: xqjeu09otmqw4wl8
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!xqjeu09otmqw4wl8'

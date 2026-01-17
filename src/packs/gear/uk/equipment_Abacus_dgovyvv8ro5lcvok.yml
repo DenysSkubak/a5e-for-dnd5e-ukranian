@@ -1,0 +1,46 @@
+name: Abacus
+type: equipment
+img: icons/skills/trades/farming-picking-basket-fruit-green.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: <p>A standard tool used to make calculations.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 2
+  price:
+    value: 2
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: mundane
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: ''
+    baseItem: ''
+folder: VRWG3xL5zF1ktOX6
+_id: dgovyvv8ro5lcvok
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!dgovyvv8ro5lcvok'

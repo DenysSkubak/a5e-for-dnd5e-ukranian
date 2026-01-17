@@ -1,0 +1,171 @@
+name: Stride and Seek (Hunter's Target)
+type: feat
+img: icons/skills/targeting/crosshair-pointed-orange.webp
+effects:
+  - origin: Item.WyWHy0btzSk6VfE5
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: 6nIMkEWZElls5fgZ
+        duration:
+          unit: hours
+    transfer: false
+    name: Quarry
+    _id: eJp8RSGhP05Gj5DC
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 3600
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    img: icons/skills/targeting/crosshair-pointed-orange.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!yuncbhlz6js1w4t4.eJp8RSGhP05Gj5DC'
+  - origin: Item.WyWHy0btzSk6VfE5
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: 6nIMkEWZElls5fgZ
+        applyToSelf: true
+        duration:
+          unit: hours
+    transfer: false
+    name: Hunter’s Target
+    _id: yorFJmwZWCnRPMdX
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 3600
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Gain a +1 bonus to weapon attack rolls against the creature, and your weapon attacks against it deal an extra 1d6 damage. In addition, you have advantage on Perception and Survival checks you make to find it.</p>
+    statuses: [ ]
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    img: icons/skills/targeting/crosshair-pointed-orange.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!yuncbhlz6js1w4t4.yorFJmwZWCnRPMdX'
+  - origin: Item.WyWHy0btzSk6VfE5
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: G9PrVxJbJXvzMbah
+        duration:
+          unit: hours
+    transfer: false
+    name: Quarry
+    img: icons/skills/targeting/crosshair-pointed-orange.webp
+    _id: TzP8Pvpjz8tOGUSY
+    type: base
+    system: { }
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 3600
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    folder: null
+    _key: '!items.effects!yuncbhlz6js1w4t4.TzP8Pvpjz8tOGUSY'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You can use your bonus action to focus your attention on a specific enemy. Choose a creature you can see within 90 feet to mark as your quarry. For 1 hour, you are focused on this creature. You gain a +1 bonus to weapon attack rolls against the creature, and your weapon attacks against it deal an extra 1d6 damage. In addition, you have advantage on Perception and Survival checks you make to find it. If the creature drops to 0 hit points before the hour ends, you can use a bonus action to mark a new quarry.&nbsp;</p><p>Once you use this feature, you can&rsquo;t use it again until you finish a short or long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_id: yuncbhlz6js1w4t4
+_key: '!items!yuncbhlz6js1w4t4'

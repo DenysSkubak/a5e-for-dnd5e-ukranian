@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Mindsight
+type: feat
+img: icons/magic/perception/third-eye-blue-red.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>Your deceptions and manipulations are aided by your eerie ability to understand what people are thinking. You gain an&nbsp;expertise die on Deception and Insight checks.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: c96iq2vcd0ngeaay
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!c96iq2vcd0ngeaay'

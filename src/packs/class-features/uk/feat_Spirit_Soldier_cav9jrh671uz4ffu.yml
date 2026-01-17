@@ -1,0 +1,32 @@
+name: Spirit Soldier
+type: feat
+img: icons/skills/melee/strike-weapon-polearm-ice-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: <p>You gain proficiency with light armor, medium armor, and shields.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: cav9jrh671uz4ffu
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!cav9jrh671uz4ffu'

@@ -1,0 +1,36 @@
+name: Champion of the Arena
+type: feat
+img: icons/environment/settlement/city-wall.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 7th level, you’ve improved your techniques and methods for landing a crowd-pleasing blow. Your weapon attacks score a critical hit on a roll of 19–20. If you already have a feature that increases the range of your critical hits, your critical hit range increases by 1 (maximum 17–20).</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723126629997
+  modifiedTime: 1723126680944
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 2p0o5udhg6th3y5n
+_key: '!items!2p0o5udhg6th3y5n'

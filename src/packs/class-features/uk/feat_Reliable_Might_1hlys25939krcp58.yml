@@ -1,0 +1,33 @@
+name: Reliable Might
+type: feat
+img: icons/magic/control/buff-strength-muscle-damage-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 17th level, if your total for a Strength or Constitution check is less than the corresponding score, you can use that score in place of the total.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 1hlys25939krcp58
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!1hlys25939krcp58'

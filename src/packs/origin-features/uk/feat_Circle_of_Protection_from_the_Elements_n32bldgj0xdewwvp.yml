@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Circle of Protection from the Elements
+type: feat
+img: icons/magic/nature/leaf-elm-beam-green.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You are trained on magical protection from the elements, which you reinforce or alter through a simple ritual. When you complete a long rest, choose one damage type from the following: acid, cold, fire, lightning, or thunder. You have resistance against that damage type until you use this trait to change damage types.</p><p>As an action, you can convey this damage resistance to a willing creature you touch. The damage resistance disappears from you, and lasts on the target creature for 1 hour. You regain the damage resistance at the end of your long rest.&nbsp;</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: n32bldgj0xdewwvp
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!n32bldgj0xdewwvp'

@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Social Grace
+type: feat
+img: icons/magic/perception/third-eye-blue-red.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: <p>You are proficient in Deception and Insight.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 49eiot8i6v4c2p0x
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!49eiot8i6v4c2p0x'

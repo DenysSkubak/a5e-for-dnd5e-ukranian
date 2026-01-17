@@ -1,0 +1,412 @@
+name: Відьма
+type: class
+img: icons/tools/cooking/cauldron-empty.webp
+system:
+  description:
+    value: >-
+      <p><strong>Table: The Witch</strong></p> 
+      <table style="width: 100%;" border="1"><colgroup><col style="width: 12.9845%;"><col style="width: 11.075%;"><col style="width: 48.2273%;"><col style="width: 27.7132%;"></colgroup> 
+      <thead> 
+      <tr style="text-align: center; height: 33.5938px;"> 
+      <td style="height: 33.5938px;">Рівень</td> 
+      <td style="height: 33.5938px;">Бонус<br>майстерності</td> 
+      <td style="height: 33.5938px;">Особливості</td> 
+      <td style="height: 33.5938px;">Magical Mysteries<br>Known</td> 
+      </tr> 
+      </thead> 
+      <tbody> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.dice2o2bv8tsynlt]{Witch's Familiar} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9qbeuh6ddmny8ezv]{Spellcasting}</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.qc31gfu9bjee9s0d]{Witch Archetype} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.rx9h6syyexdx88xo]{Witch Magic}</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.vmkfr5u0neendp2v]{Magical Mysteries} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.xwc5t6d36zhw7kp3]{Otherworldly Defense}</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.f3gqgjl29sdwvt7i]{A Blessing or a Curse} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9xnbz4ye27kxob0y]{Witch&rsquo;s Brew}</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">6ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">Archetype Feature</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">7ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">4</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">8ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}</td> 
+      <td style="text-align: center;">4</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">9ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.booj6izdxt9v1ysb]{Ritual Mastery}</td> 
+      <td style="text-align: center;">5</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">10ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">Archetype Feature</td> 
+      <td style="text-align: center;">5</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">11ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.vgx9qhqph9937nov]{Bewitching Personality}</td> 
+      <td style="text-align: center;">6</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">12ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}</td> 
+      <td style="text-align: center;">6</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">13ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">7</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">14ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">Archetype Feature</td> 
+      <td style="text-align: center;">7</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">15ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.cdhxn05f8c9k96g7]{Third Eye}</td> 
+      <td style="text-align: center;">8</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">16ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}</td> 
+      <td style="text-align: center;">8</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">17ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">9</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">18ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.booj6izdxt9v1ysb]{Ritual Mastery}</td> 
+      <td style="text-align: center;">9</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">19ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}</td> 
+      <td style="text-align: center;">10</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">20ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.xteh2jo4x9kgc3mn]{High Priest of Magic}</td> 
+      <td style="text-align: center;">10</td> 
+      </tr> 
+      </tbody> 
+      </table> 
+      <h3>Очки здоров’я</h3> 
+      <p><strong>Кістки здоров’я: </strong>1d6 за кожний рівень відьми</p> 
+      <p><strong>Hit Points at 1st Рівень: </strong>6 + your Constitution модифікатор</p> 
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d6 (or 4) + your Constitution модифікатор per witch level after first</p> 
+      <h3>Володіння</h3> 
+      <p><strong>Броня: </strong>Light armor</p> 
+      <p><strong>Зброя: </strong>Daggers, darts, sickles, slings, and quarterstaffs</p> 
+      <p><strong>Інструменти: </strong>Choose one from an artisan's tool, a musical instrument, an herbalism kit, or a poisoner's kit</p> 
+      <p><strong>Ряткидки: </strong>Wisdom and either Intelligence or Charisma</p> 
+      <p><strong>Навички: </strong>Choose two from Поводження з тваринами, Аркана, Обман, Історія, Проникливість, intimidation, Медицина, Природа, Переконання, or Релігія</p> 
+      <h3>Спорядження</h3> 
+      <p>You begin the game with 100зм which you can spend on your character's starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Also consult the Suggested Equipment section of your chosen background.</p> 
+      <ul> 
+      <li><strong>Arcane Student's Set (Cost 89зм):</strong> Quarterstaff, abacus, clothes (fine), ink (1-ounce bottle), ink pen, orb arcane focus, 10 sheets of parchment, sack, spellbook</li> 
+      <li><strong>Magical Acolyte's Set (77зм): </strong>Quarterstaff, dagger 2 flasks of holy water, healer's satchel, amulet divine focus, priest's pack</li> 
+      <li><strong>Wandering Witch's Set (38 gold):</strong> Quarterstaff, sling and 20 sling bullets, clothe's (traveler's) component pouch, explorer's pack</li> 
+      <li><strong>Wild Witch's Set (88 gold):</strong> Quarterstaff, clothes (common), herbalism kit, priest's pack, focus tattoo (nature focus), tent (one person), tinder box, healer's satchel</li> 
+      </ul>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  startingEquipment:
+    - _id: aWruxzmIKTVdUaJ0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.z172r7b7cz9ic1fc
+      count: 0
+      type: linked
+      group: ''
+    - _id: aWruxzmIKTVdUaJ1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.z5ovcgdlaisr14oc
+      count: 0
+      type: linked
+      group: ''
+    - _id: aWruxzmIKTVdUaJ2
+      sort: 30000
+      key: Compendium.a5e-for-dnd5e.gear.Item.7nvojb8ti84i5qur
+      count: 0
+      type: linked
+      group: ''
+    - _id: aWruxzmIKTVdUaJ3
+      sort: 40000
+      key: Compendium.a5e-for-dnd5e.gear.Item.1x1jfffbbjie4e8i
+      count: 0
+      type: linked
+      group: ''
+  identifier: ''
+  levels: 1
+  hitDice: d6
+  hitDiceUsed: 0
+  advancement:
+    - _id: FRxVq2gmJq6bNazt
+      title: Очки здоров’я
+      type: HitPoints
+    - _id: YazDUQmralvqI10k
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - armor:lgt
+        choices: [ ]
+    - _id: 6SqJ7xeCsxjbFuxY
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - weapon:sim:dagger
+          - weapon:sim:sling
+          - weapon:sim:sickle
+          - weapon:sim:quarterstaff
+          - weapon:mar:dart
+        choices: [ ]
+    - _id: Fxu6RU1VldR8PB1C
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - tool:herb
+              - tool:pois
+              - tool:art:*
+              - tool:music:*
+            count: 1
+    - _id: NiWJbYbiWhhXoPoZ
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - saves:wis
+        choices:
+          - 
+          pool:
+              - saves:int
+              - saves:cha
+            count: 1
+    - _id: 9fHDLkOGUgfFVE7D
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - skills:ani
+              - skills:arc
+              - skills:dec
+              - skills:his
+              - skills:ins
+              - skills:itm
+              - skills:med
+              - skills:nat
+              - skills:per
+              - skills:rel
+            count: 2
+    - _id: 6JE7WzQZYjtotQ9q
+      type: ItemGrant
+      title: Особливості
+      level: 1
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.dice2o2bv8tsynlt
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.9qbeuh6ddmny8ezv
+    - _id: s2Wi85MeBgRifK9s
+      type: ItemGrant
+      title: Особливості
+      level: 2
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.rx9h6syyexdx88xo
+    - _id: tYvZOtQSnwnoeHzJ
+      type: ItemGrant
+      title: Особливості
+      level: 3
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.xwc5t6d36zhw7kp3
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.vmkfr5u0neendp2v
+    - _id: 66bavLNxRJ7Yn9rG
+      type: ItemGrant
+      title: Особливості
+      level: 5
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.f3gqgjl29sdwvt7i
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.9xnbz4ye27kxob0y
+    - _id: pnJbSHm5yUKYli4k
+      type: ItemGrant
+      title: Особливості
+      level: 9
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.booj6izdxt9v1ysb
+    - _id: 2N24yuOVo5lFcmAo
+      type: ItemGrant
+      title: Особливості
+      level: 11
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.vgx9qhqph9937nov
+    - _id: XePkCQZXP1eDax7K
+      type: ItemGrant
+      title: Особливості
+      level: 15
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.cdhxn05f8c9k96g7
+    - _id: miN8rTHHmvGnVtjM
+      type: ItemGrant
+      title: Особливості
+      level: 20
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.xteh2jo4x9kgc3mn
+    - _id: RhmbJA4ltyqwBxMk
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: lJVUfYuWSlBuPEwz
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: jE80iC0H1EDqNGq0
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 3aNlvetYCgbpHg53
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: XRzV9vQLh0w0N6JZ
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: G3rDKekQlwApbqBW
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: ssX0GbXDBKC2kZ37
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 086l7US28M9kHH9Y
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: Oggyut1pAUxY8QGV
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: c2fPge94vZkqn7Oz
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+  spellcasting:
+    ability: none
+    progression: full
+  wealth: 100 gp
+effects: [ ]
+folder: null
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722027332174
+  modifiedTime: 1722027654306
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: yzklcjrmf9rkpo07
+_key: '!items!yzklcjrmf9rkpo07'

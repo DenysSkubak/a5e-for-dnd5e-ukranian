@@ -1,0 +1,36 @@
+name: Freerunner
+type: feat
+img: icons/skills/movement/feet-winged-boots-brown.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You have learned to traverse challenging urban terrain quickly to escape pursuit or catch those you are pursuing. You gain a climb speed equal to your Speed.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722197693695
+  modifiedTime: 1722197730461
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: v6y0e553htfxa1la
+_key: '!items!v6y0e553htfxa1la'

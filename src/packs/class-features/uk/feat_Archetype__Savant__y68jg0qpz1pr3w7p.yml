@@ -1,0 +1,33 @@
+name: Archetype (Savant)
+type: feat
+img: icons/sundries/documents/document-official-capital.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your Savant archetype defines what your greatest aptitude is.&nbsp;The steward is expert at protecting and healing allies. The vanguard joins the thick of the fight, looking for tactical opportunities others miss. The vox deeply understands how words can manipulate people.</p><p>Your archetype gives you unique features at 1st level and again at 2nd, 6th, 11th, 14th, and 17th level.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: y68jg0qpz1pr3w7p
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!y68jg0qpz1pr3w7p'

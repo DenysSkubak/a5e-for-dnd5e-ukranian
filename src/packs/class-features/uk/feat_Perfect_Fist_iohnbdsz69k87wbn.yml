@@ -1,0 +1,768 @@
+name: Perfect Fist
+type: feat
+img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+effects:
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+        applyToSelf: true
+    transfer: false
+    name: Additional Damage
+    _id: 83xEYFnijROQrsy2
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>Deal additional damage equal to twice your martial arts die.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.83xEYFnijROQrsy2'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+        applyToSelf: false
+        duration:
+          unit: minutes
+    transfer: false
+    name: Blinded and Deafened
+    _id: wVVQHlaXqfVabCKX
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["blinded","deafened"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses:
+      - blinded
+      - deafened
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.wVVQHlaXqfVabCKX'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+        duration:
+          unit: minutes
+    transfer: false
+    name: Paralyzed
+    _id: 78YRUXzr0AMXxAaf
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["paralyzed"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses:
+      - paralyzed
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.78YRUXzr0AMXxAaf'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+        duration:
+          unit: minutes
+    transfer: false
+    name: Prone and Poisoned
+    _id: xTXXdP4wmAEbk5xP
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["poisoned","prone"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses:
+      - poisoned
+      - prone
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.xTXXdP4wmAEbk5xP'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: No Healing
+    _id: 0KoludqHVp108Q45
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: 1
+      startRound: null
+      startTurn: null
+    description: <p>Healing features, spells, and traits have no effect.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.0KoludqHVp108Q45'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+    transfer: false
+    name: Lose Spell Slot
+    _id: JD5JGgU6W4ukJ5og
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>Lose a spell slot from highest available level.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.JD5JGgU6W4ukJ5og'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+    transfer: false
+    name: Lose Exertion
+    _id: cntwcEPaIeIkyIGy
+    changes:
+      - key: system.attributes.exertion.current
+        value: '6'
+        mode: 3
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>Lose 6 exertion.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.cntwcEPaIeIkyIGy'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: No Additional Actions
+    _id: tdgAGxTxEqXyZ5y5
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: 1
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Can’t use bonus actions, legendary actions, or reactions until the beginning of your next turn.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.tdgAGxTxEqXyZ5y5'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: vrGsvHOYTwiykRiH
+    transfer: false
+    name: Fatigue
+    _id: EYku3rYOw6qO7X2o
+    changes:
+      - key: system.attributes.fatigue
+        value: '1'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.EYku3rYOw6qO7X2o'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: yFhOIQChCNVkSZZV
+        applyToSelf: true
+    transfer: false
+    name: Additional Damage
+    _id: EIwRyeeaZBZa5Mls
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>Deal additional damage equal to twice your martial arts die.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.EIwRyeeaZBZa5Mls'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: yFhOIQChCNVkSZZV
+        duration:
+          unit: minutes
+    transfer: false
+    name: Paralyzed
+    _id: MONkoA6noqcPxfIm
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["paralyzed"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses:
+      - paralyzed
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.MONkoA6noqcPxfIm'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: yFhOIQChCNVkSZZV
+        duration:
+          unit: minutes
+    transfer: false
+    name: Prone and Poisoned
+    _id: QVdl0VfVYeDT0Mkp
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["poisoned","prone"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses:
+      - poisoned
+      - prone
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.QVdl0VfVYeDT0Mkp'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: yFhOIQChCNVkSZZV
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: No Healing
+    _id: N826McKNAhRXrlLN
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: 1
+      startRound: null
+      startTurn: null
+    description: <p>Healing features, spells, and traits have no effect.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.N826McKNAhRXrlLN'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: yFhOIQChCNVkSZZV
+    transfer: false
+    name: Lose Spell Slot
+    _id: flRQkHNjWOsOOr04
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>Lose a spell slot from highest available level.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.flRQkHNjWOsOOr04'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: yFhOIQChCNVkSZZV
+    transfer: false
+    name: Lose Exertion
+    _id: gt1HFtYsRdbmmY77
+    changes:
+      - key: system.attributes.exertion.current
+        value: '6'
+        mode: 3
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>Lose 6 exertion.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.gt1HFtYsRdbmmY77'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: yFhOIQChCNVkSZZV
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: No Additional Actions
+    _id: yKVpHUNytnvN4Tzt
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: 1
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Can’t use bonus actions, legendary actions, or reactions until the beginning of your next turn.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.yKVpHUNytnvN4Tzt'
+  - origin: Item.hbdFiYu3qSlfOC9Q
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: yFhOIQChCNVkSZZV
+    transfer: false
+    name: Fatigue
+    _id: CD4mFh4tCnq81SLW
+    changes:
+      - key: system.attributes.fatigue
+        value: '1'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.19
+      createdTime: null
+      modifiedTime: 1722287703689
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!iohnbdsz69k87wbn.CD4mFh4tCnq81SLW'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 17th level, when you make an unarmed strike, you score critical hits on a roll of 19&ndash;20. If you already have a feature that increases the range of your critical hits, your critical hit range increases by 1 (maximum 17&ndash;20). In addition, when you use a bonus action to make an unarmed strike, the attack deals an additional damage die.</p><p>When your unarmed strike reduces a creature to 0 hit points, you can spend 3 exertion to utterly destroy the target&rsquo;s body and soul. The target can&rsquo;t be restored to life by any means short of a @UUID[Compendium.a5e-for-dnd5e.spells.Item.pe52jryde7ljobzq]{Wish} spell.</p><p>When you hit a creature with two or more unarmed strikes in the same turn, you can spend 3 exertion to force it to make a Constitution saving throw. On a failed save, the target suffers one effect you choose from the list below. For each successful unarmed strike after the second, you can spend 1 exertion to deal one additional effect. For example, if you hit with four unarmed attacks, you can spend 5 exertion to deal three effects. You can&rsquo;t choose the same effect more than once, and a successful saving throw negates all effects.</p><ul><li>The target takes extra damage equal to twice your martial arts die.</li><li>The target is blinded and deafened for 1 minute.</li><li>The target is paralyzed for 1 minute. At the start of each of its turns, the target can repeat the saving throw, ending the effect on a success.</li><li>The target is knocked prone and becomes poisoned for 1 minute.</li><li>Features, spells, and traits that would restore the target&rsquo;s hit points have no effect on the target until the start of your next turn.</li><li>The target loses a spell slot from its highest available level.</li><li>The target loses 6 exertion.</li><li>The target can&rsquo;t use bonus actions, legendary actions, or reactions until the start of your next turn.</li><li>The target gains a level of fatigue.</li></ul>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: con
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722287703581
+  modifiedTime: 1722287838594
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: iohnbdsz69k87wbn
+_key: '!items!iohnbdsz69k87wbn'

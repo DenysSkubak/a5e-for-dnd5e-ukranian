@@ -1,0 +1,33 @@
+name: Natural Authority (Guard)
+type: feat
+img: icons/magic/control/control-influence-rally-purple.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: background
+    subtype: ''
+  description:
+    value: >-
+      <p>Commoners and civilians sometimes assume you are part of a local constabulary force and defer to you.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: n7MBM7lcayeaiQdF
+_id: dgl1bp93fxkjkawn
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!dgl1bp93fxkjkawn'

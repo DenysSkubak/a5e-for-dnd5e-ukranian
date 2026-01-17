@@ -1,0 +1,33 @@
+name: Familiar With Death (Hangman)
+type: feat
+img: icons/magic/death/blood-corruption-vomit-red.webp
+system:
+  type:
+    value: background
+    subtype: ''
+  description:
+    value: >-
+      <p>As long as you have good light, you can tell at a glance and with no roll required if a humanoid body is truly dead, still alive, or undead.</p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Judge, Jury, and Executioner'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: n7MBM7lcayeaiQdF
+_id: 1cc5yif31xsuhd2d
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!1cc5yif31xsuhd2d'

@@ -1,0 +1,70 @@
+name: Deceptive Duplicate
+type: feat
+img: icons/magic/defensive/illusion-evasion-echo-purple.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 6th level you can summon an identical duplicate of yourself within 30 feet. This duplicate lasts for 1 minute. You can cast spells as if they originated from the duplicate's space, though you must still see the target if necessary. As a bonus action you can move the duplicate up to 30 feet, and as an action you can swap places with the duplicate. Once you have used this ability you cannot do so again until you finish a long rest.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722946455973
+  modifiedTime: 1722946551794
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: su44imos3mfpgehm
+_key: '!items!su44imos3mfpgehm'

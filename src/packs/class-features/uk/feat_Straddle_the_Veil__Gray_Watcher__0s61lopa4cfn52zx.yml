@@ -1,0 +1,33 @@
+name: Straddle the Veil (Gray Watcher)
+type: feat
+img: icons/magic/unholy/silhouette-robe-evil-power.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain resistance to necrotic and radiant damage, your hit point maximum cannot be reduced, and whenever you are healed by a spell, it heals you an additional amount equal to the spell&rsquo;s level.</p><p>In addition, if you would damage an undead creature with a spell or ability that deals necrotic damage, you may instead choose to heal it for the same amount.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Level 10 Witch Class; Gray Watcher archetype
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 0s61lopa4cfn52zx
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!0s61lopa4cfn52zx'

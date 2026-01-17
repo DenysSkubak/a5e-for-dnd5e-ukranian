@@ -1,0 +1,33 @@
+name: Speed (Dwarf)
+type: feat
+img: icons/equipment/feet/boots-armored-steel.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>Your base Speed is 25 feet. Your Speed is not reduced by wearing heavy armor or wielding tower shields.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: odjg0pd6bpkm87bw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!odjg0pd6bpkm87bw'

@@ -1,0 +1,33 @@
+folder: null
+name: Hidden Attacker
+type: feat
+img: icons/magic/unholy/hand-claw-fire-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 3rd level, you excel at staying hidden from your enemy&rsquo;s sight even when on the attack. If you start your turn hidden from one or more creatures, you can activate this power to remain hidden from them until the start of your next turn. Attacking does not reveal your position, and you do not need&nbsp;cover</span>&nbsp;to remain hidden. You can use this ability a number of times equal to your proficiency bonus, regaining all uses when you finish a&nbsp;<span>short or long rest.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: ensh6bamq1r6b4vk
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ensh6bamq1r6b4vk'

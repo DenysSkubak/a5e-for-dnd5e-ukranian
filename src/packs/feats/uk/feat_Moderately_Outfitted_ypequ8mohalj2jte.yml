@@ -1,0 +1,33 @@
+name: Moderately Outfitted
+type: feat
+img: icons/equipment/chest/breastplate-metal-scaled-grey.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: feat
+    subtype: ''
+  description:
+    value: >-
+      <p>You’re trained to use medium armor and shields efficiently, gaining the following benefits:</p><ul><li><p>Your Strength or Dexterity score increases by 1, to a maximum of 20.</p></li><li><p>You gain proficiency with medium armor and shields.</p></li></ul>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Proficiency with light armor
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: ypequ8mohalj2jte
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ypequ8mohalj2jte'

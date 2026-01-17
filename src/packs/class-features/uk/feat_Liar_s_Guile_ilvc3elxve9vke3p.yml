@@ -1,0 +1,33 @@
+name: Liar's Guile
+type: feat
+img: icons/magic/unholy/silhouette-light-fire-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at 1st level when you select this archetype, you become exceptionally good at deceiving others. You gain proficiency with the Deception skill and your choice of the Sleight of Hand or Stealth skills or an expertise die if you are already proficient. You also gain three skill specialties of your choice spread across these skills.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: ilvc3elxve9vke3p
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ilvc3elxve9vke3p'

@@ -1,0 +1,71 @@
+name: Soaring Wings
+type: feat
+img: icons/magic/holy/angel-winged-humanoid-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your Speed. You can create or dismiss these wings as a bonus action. You can’t manifest these wings while wearing armor unless the armor is made&nbsp;to accommodate them (increasing the armor’s cost by 50%), and clothing not made to accommodate your wings may be destroyed when you manifest them.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723332053391
+  modifiedTime: 1723332094031
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ar9r2rfdhv0guelt
+_key: '!items!ar9r2rfdhv0guelt'

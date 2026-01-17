@@ -1,0 +1,74 @@
+name: Sturdy Mycelium
+type: feat
+img: icons/magic/defensive/shield-barrier-glowing-triangle-teal.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at 6th level, you can reshape mycelium around yourself to form armor. When you finish a short or long rest, you gain temporary hit points equal to twice your Wisdom modifier. When you reach level 15, you instead gain temporary hit points equal to your Wisdom score.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: heal
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - 2*@mod
+        - temphp
+      - 
+        - '@abilities.wis.value'
+        - temphp
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722966263371
+  modifiedTime: 1722966431560
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: sfwtixpedao4i94l
+_key: '!items!sfwtixpedao4i94l'

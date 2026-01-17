@@ -1,0 +1,64 @@
+name: Launched Strike
+type: a5e-for-dnd5e.maneuver
+img: icons/creatures/mammals/spirit-deer-herd-blue.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>You leap from your mount to attack a nearby opponent.</p><p>You must be mounted to use this maneuver. You leap 10 feet away from your mount and make a melee weapon attack against a creature within your reach before you land. On a hit, your attack becomes a critical hit.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  degree: 3
+  tradition: ss
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 2
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: '10'
+    long: null
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: blwE2F2beSsEoADH
+_id: far4mb1j4diftyjm
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!far4mb1j4diftyjm'

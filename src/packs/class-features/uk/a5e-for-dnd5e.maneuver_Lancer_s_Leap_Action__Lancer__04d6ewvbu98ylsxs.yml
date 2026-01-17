@@ -1,0 +1,65 @@
+name:
+Стрибок списника: дія (Списник)
+type: a5e-for-dnd5e.maneuver
+img: icons/skills/movement/arrows-up-trio-red.webp
+system:
+  description:
+    value: >-
+      <p><strong>Стрибок списника (1 пункт)</strong></p><p><em>Дія списника</em></p><p>З силою громовиці ти вражаєш ціль згори. Коли під час свого ходу ти ковзаєш, їдеш верхи, стрибаєш, падаєш або летиш, ти завдаєш цілі цієї атаки додаткової шкоди, що дорівнює одному кубику руків’я за кожні 10 футів переміщення, яке ти здійснив перед виконанням атаки.&nbsp;</p><p><br>Після використання «Стрибка списника» ти маєш завершити короткий або тривалий відпочинок, перш ніж зможеш використати його знову. Якщо ти витратиш 3 пункти напруги до короткого або тривалого відпочинку, використання цієї здатності відновлюється.</p>
+    chat: ''
+  source:
+    book: 'System Architecture: Motif Classes'
+    license: OGL 1.0a
+  degree: 0
+  tradition: ''
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 0
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_id: 04d6ewvbu98ylsxs
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!04d6ewvbu98ylsxs'

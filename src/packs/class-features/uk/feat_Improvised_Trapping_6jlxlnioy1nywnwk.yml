@@ -1,0 +1,66 @@
+folder: null
+name: Improvised Trapping
+type: feat
+img: icons/environment/traps/spike-skull-white-brown.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: ''
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Carry the Darkness'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_id: 6jlxlnioy1nywnwk
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!6jlxlnioy1nywnwk'

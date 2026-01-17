@@ -1,0 +1,495 @@
+folder: null
+name: Шахрай
+type: class
+img: icons/skills/social/theft-pickpocket-bribery-brown.webp
+system:
+  description:
+    value: >-
+      <p><strong>Таблиця: Шахрай</strong></p> 
+      <table style="width: 100%; height: 369.532px;" border="1"><colgroup><col style="width: 9.49612%;"><col style="width: 8.52713%;"><col style="width: 32.5581%;"><col style="width: 11.0465%;"><col style="width: 9.88372%;"><col style="width: 14.5349%;"><col style="width: 13.9535%;"></colgroup> 
+      <thead> 
+      <tr style="height: 33.5938px;"> 
+      <td style="height: 33.5938px; text-align: center;">Рівень</td> 
+      <td style="height: 33.5938px; text-align: center;">Бонус<br>майстерності</td> 
+      <td style="height: 33.5938px; text-align: center;">Особливості</td> 
+      <td style="height: 33.5938px; text-align: center;">Sneak<br>Attack</td> 
+      <td style="height: 33.5938px; text-align: center;">Tricks<br>Known</td> 
+      <td style="height: 33.5938px; text-align: center;">Відомі<br>маневри</td> 
+      <td style="height: 33.5938px; text-align: center;">Ступінь<br>маневру</td> 
+      </tr> 
+      </thead> 
+      <tbody> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">1ˢᵗ</td> 
+      <td style="height: 16.7969px; text-align: center;">+2</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.o2eh10mg3xh9tbu3]{Skill Tricks} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.4727pnvz5nwn3h23]{Sneak Attack}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 1d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">1</td> 
+      <td style="height: 16.7969px; text-align: center;">&mdash;</td> 
+      <td style="height: 16.7969px; text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">2ⁿᵈ</td> 
+      <td style="height: 16.7969px; text-align: center;">+2</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.7veh3gwrd4dercti]{Combat Maneuvers} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.m0l76nf5hlm54bck]{Combat Tactic} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.d8k1x28y4vn6h3q5]{Cunning Action}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 1d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">1</td> 
+      <td style="height: 16.7969px; text-align: center;">2</td> 
+      <td style="height: 16.7969px; text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">3ʳᵈ</td> 
+      <td style="height: 16.7969px; text-align: center;">+2</td> 
+      <td style="height: 16.7969px; text-align: center;">Rogue Archetype</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 2d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">2</td> 
+      <td style="height: 16.7969px; text-align: center;">2</td> 
+      <td style="height: 16.7969px; text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">4ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+2</td> 
+      <td style="height: 16.7969px; text-align: center;">Ability Score Improvement @UUID[Compendium.a5e-for-dnd5e.class-features.Item.byt94a4v23q90413]{Innocent Facade}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 2d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">2</td> 
+      <td style="height: 16.7969px; text-align: center;">3</td> 
+      <td style="height: 16.7969px; text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">5ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+3</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.7kl58aphfakupnn1]{Aim}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 3d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">3</td> 
+      <td style="height: 16.7969px; text-align: center;">3</td> 
+      <td style="height: 16.7969px; text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">6ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+3</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.e5mepl86zsavxhrp]{Self-Preservation}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 3d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">3</td> 
+      <td style="height: 16.7969px; text-align: center;">3</td> 
+      <td style="height: 16.7969px; text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">7ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+3</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.1sefig5jtx2injy0]{Improved Critical}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 4d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">4</td> 
+      <td style="height: 16.7969px; text-align: center;">4</td> 
+      <td style="height: 16.7969px; text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">8ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+3</td> 
+      <td style="height: 16.7969px; text-align: center;">Ability Score Improvement @UUID[Compendium.a5e-for-dnd5e.class-features.Item.0k3qurx2exzg127v]{Shrewd Judgement}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 4d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">4</td> 
+      <td style="height: 16.7969px; text-align: center;">4</td> 
+      <td style="height: 16.7969px; text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">9ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+4</td> 
+      <td style="height: 16.7969px; text-align: center;">Rogue Archetype Feature</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 5d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">5</td> 
+      <td style="height: 16.7969px; text-align: center;">4</td> 
+      <td style="height: 16.7969px; text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">10ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+4</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.p5l9usj384rd1qaf]{Low Profile}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 5d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">5</td> 
+      <td style="height: 16.7969px; text-align: center;">5</td> 
+      <td style="height: 16.7969px; text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">11ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+4</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.p3e69ngk8cdsss6n]{Cunning Celerity} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.mc153rkyv5li85dh]{Expert Talent}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 6d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">6</td> 
+      <td style="height: 16.7969px; text-align: center;">5</td> 
+      <td style="height: 16.7969px; text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">12ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+4</td> 
+      <td style="height: 16.7969px; text-align: center;">Ability Score Improvement @UUID[Compendium.a5e-for-dnd5e.class-features.Item.e5mepl86zsavxhrp]{Self-Preservation}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 6d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">6</td> 
+      <td style="height: 16.7969px; text-align: center;">5</td> 
+      <td style="height: 16.7969px; text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">13ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+5</td> 
+      <td style="height: 16.7969px; text-align: center;">Rogue Archetype Feature</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 7d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">7</td> 
+      <td style="height: 16.7969px; text-align: center;">6</td> 
+      <td style="height: 16.7969px; text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">14ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+5</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.mfqnpwmprkj1dex6]{Guarded Aspect}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 7d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">7</td> 
+      <td style="height: 16.7969px; text-align: center;">6</td> 
+      <td style="height: 16.7969px; text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">15ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+5</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.04nkloa9suebak6h]{Elusive}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 8d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">8</td> 
+      <td style="height: 16.7969px; text-align: center;">6</td> 
+      <td style="height: 16.7969px; text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">16ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+5</td> 
+      <td style="height: 16.7969px; text-align: center;">Ability Score Improvement</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 8d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">8</td> 
+      <td style="height: 16.7969px; text-align: center;">7</td> 
+      <td style="height: 16.7969px; text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">17ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+6</td> 
+      <td style="height: 16.7969px; text-align: center;">Rogue Archetype Feature</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 9d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">9</td> 
+      <td style="height: 16.7969px; text-align: center;">7</td> 
+      <td style="height: 16.7969px; text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">18ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+6</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.bb311rj7pwhnt5m6]{Overpowering Personality} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.e5mepl86zsavxhrp]{Self-Preservation}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 9d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">9</td> 
+      <td style="height: 16.7969px; text-align: center;">7</td> 
+      <td style="height: 16.7969px; text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">19ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+6</td> 
+      <td style="height: 16.7969px; text-align: center;">Ability Score Improvement&nbsp;</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 10d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">10</td> 
+      <td style="height: 16.7969px; text-align: center;">8</td> 
+      <td style="height: 16.7969px; text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="height: 16.7969px; text-align: center;">20ᵗʰ</td> 
+      <td style="height: 16.7969px; text-align: center;">+6</td> 
+      <td style="height: 16.7969px; text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.d1ftr7sy3mpmm7ev]{Grand Larcenist}</td> 
+      <td style="height: 16.7969px; text-align: center;">[[/r 10d6]]</td> 
+      <td style="height: 16.7969px; text-align: center;">10</td> 
+      <td style="height: 16.7969px; text-align: center;">8</td> 
+      <td style="height: 16.7969px; text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      </tbody> 
+      </table> 
+      <h3>Очки здоров’я</h3> 
+      <p><strong>Кістки здоров’я: </strong>1d8 за кожний рівень шахрая</p> 
+      <p><strong>Hit Points at 1st Рівень: </strong>8 + your Constitution модифікатор</p> 
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d8 (or 5) + your Constitution модифікатор per rogue level after first</p> 
+      <h3>Володіння</h3> 
+      <p><strong>Броня: </strong>Light armor</p> 
+      <p><strong>Weapons:&nbsp;</strong>Simple weapons, dueling daggers, hand crossbows, rapiers, sabres, shortswords, throwing daggers</p> 
+      <p><strong>Tools:&nbsp;</strong>Disguise kit, poisoner&rsquo;s kit, thieves&rsquo; tools</p> 
+      <p><strong>Saving Throws:&nbsp;</strong>Dexterity, Intelligence</p> 
+      <p><strong>Skills:&nbsp;</strong>Choose four from Акробатика, Атлетика, Culture, Обман, Engineering, Проникливість, Залякування, Розслідування, Увага, Виступ, Переконання, Спритність рук, and Скрадання</p> 
+      <h3>Спорядження</h3> 
+      <p>You begin the game with 125 gold which you can spend on your character&rsquo;s starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Також звернися до розділу «Рекомендоване Equipment section of your chosen background.</p> 
+      <ul> 
+      <li><strong>Skulker&rsquo;s Set (Cost 91 gold): </strong>2 daggers, shortbow and quiver with 20 arrows, shortsword, padded leather, explorer&rsquo;s pack, thieves&rsquo; tools</li> 
+      <li><strong>Swashbuckler&rsquo;s Set (Cost 92 gold): </strong>Saber, sling and 20 sling bullets, 2 throwing daggers, padded leather, burglar&rsquo;s pack, thieves&rsquo; tools</li> 
+      </ul>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  startingEquipment:
+    - _id: 9595FEjLhBtes6a0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.f4x7yh82z866l39g
+      count: 0
+      type: linked
+      group: ''
+    - _id: 9595FEjLhBtes6a1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.1vn8o9yu7rls0p64
+      count: 0
+      type: linked
+      group: ''
+  identifier: ''
+  levels: 1
+  hitDice: d8
+  hitDiceUsed: 0
+  advancement:
+    - _id: FRxVq2gmJq6bNazt
+      title: Очки здоров’я
+      type: HitPoints
+    - _id: dlKyaIRcZsvTSwf2
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - armor:lgt
+        choices: [ ]
+    - _id: qAVa677yfFiM7pIJ
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - weapon:mar:duelingdagger
+          - weapon:mar:handcrossbow
+          - weapon:mar:rapier
+          - weapon:mar:saber
+          - weapon:mar:throwingdagger
+          - weapon:mar:shortsword
+          - weapon:mar:shortbow
+          - weapon:sim:*
+        choices: [ ]
+    - _id: 7FDjfN4rvOxQtR6H
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - tool:disg
+          - tool:pois
+          - tool:thief
+        choices: [ ]
+    - _id: LlpjDk5tdI56apsI
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - saves:dex
+          - saves:int
+        choices: [ ]
+    - _id: aSSWw4gLllnbebtT
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - skills:acr
+              - skills:ath
+              - skills:cul
+              - skills:dec
+              - skills:eng
+              - skills:ins
+              - skills:itm
+              - skills:inv
+              - skills:prc
+              - skills:prf
+              - skills:per
+              - skills:slt
+              - skills:ste
+            count: 4
+    - _id: D3IGfHbYZhpQdFLf
+      type: ItemGrant
+      title: Особливості
+      level: 1
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.o2eh10mg3xh9tbu3
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.4727pnvz5nwn3h23
+    - _id: I44tIp19qZ7HittP
+      type: ItemGrant
+      title: Особливості
+      level: 2
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7veh3gwrd4dercti
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.d8k1x28y4vn6h3q5
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.m0l76nf5hlm54bck
+    - _id: FNUUMUCxKChSXpmU
+      type: ItemGrant
+      title: Особливості
+      level: 4
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.byt94a4v23q90413
+    - _id: ZayPMY0s7m9dRIHL
+      type: ItemGrant
+      title: Особливості
+      level: 5
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7kl58aphfakupnn1
+    - _id: PU4aG6FOlW4Lkz3X
+      type: ItemGrant
+      title: Особливості
+      level: 6
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.e5mepl86zsavxhrp
+    - _id: g6qwEtMpxdqlt1Dk
+      type: ItemGrant
+      title: Особливості
+      level: 7
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1sefig5jtx2injy0
+    - _id: dM12jNyjgKQCaNWk
+      type: ItemGrant
+      title: Особливості
+      level: 8
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.0k3qurx2exzg127v
+    - _id: 1PO2UwK2Dmj0uBlC
+      type: ItemGrant
+      title: Особливості
+      level: 10
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.p5l9usj384rd1qaf
+    - _id: edg146fJV9NXV6Rl
+      type: ItemGrant
+      title: Особливості
+      level: 11
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.p3e69ngk8cdsss6n
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.mc153rkyv5li85dh
+    - _id: 1Axe5dUA8JnmlLor
+      type: ItemGrant
+      title: Особливості
+      level: 14
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.mfqnpwmprkj1dex6
+    - _id: 2G86P5sNhPsYZAP6
+      type: ItemGrant
+      title: Особливості
+      level: 15
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.04nkloa9suebak6h
+    - _id: XeymwUG9SyN7V6EM
+      type: ItemGrant
+      title: Особливості
+      level: 18
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.bb311rj7pwhnt5m6
+    - _id: GB8dYIhIMApKXFwT
+      type: ItemGrant
+      title: Особливості
+      level: 20
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.d1ftr7sy3mpmm7ev
+    - _id: fptbEOwT9R5z3RIa
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 6rJfWH5VHXk3BvG2
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 8m3PmD5HCbYmfNHk
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: GXXr9R6FiGQlBlAO
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: K3WS5e0r9u1yBjG3
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: nBdhFgSUw3rqiiF1
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: NXBImzzeGnZMtXwP
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 6cjW7VHzKD8ptlbY
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 4gPZvMmMmrfT2qkN
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: SX9V9vi2zRAkZwAJ
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+  spellcasting:
+    ability: none
+    progression: martial
+  wealth: '125'
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722027325095
+  modifiedTime: 1722027530760
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: sig6ojunphj2a082
+_key: '!items!sig6ojunphj2a082'

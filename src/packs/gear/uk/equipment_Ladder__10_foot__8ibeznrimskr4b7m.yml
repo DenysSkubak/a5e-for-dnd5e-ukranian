@@ -1,0 +1,46 @@
+name: Ladder (10 foot)
+type: equipment
+img: icons/sundries/misc/ladder.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: <p>This item is a straight, simple wooden ladder.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 25
+  price:
+    value: 1
+    denomination: sp
+  attunement: 0
+  equipped: false
+  rarity: mundane
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: ''
+    baseItem: ''
+folder: VRWG3xL5zF1ktOX6
+_id: 8ibeznrimskr4b7m
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!8ibeznrimskr4b7m'

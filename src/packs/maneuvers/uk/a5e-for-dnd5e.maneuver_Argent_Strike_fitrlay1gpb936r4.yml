@@ -1,0 +1,64 @@
+name: Argent Strike
+type: a5e-for-dnd5e.maneuver
+img: icons/magic/symbols/cog-shield-white-blue.webp
+system:
+  description:
+    value: >-
+      <p>You disorient your enemy with a concussive burst of silver light.</p><p>Make a melee weapon attack. On a hit, the target is blinded and deafened and can&rsquo;t benefit from either blindsight or tremorsense, in addition to taking the weapon damage.</p><p>At the beginning of each of its turns, a creature affected by this maneuver can make a Constitution saving throw, ending the effect on itself on a success.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#9'
+  degree: 5
+  tradition: arckn
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 2
+  activation:
+    type: action
+    cost: 1
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 5
+    long: null
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: save
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: con
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: R8Z0Z5twv70om01I
+_id: fitrlay1gpb936r4
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!fitrlay1gpb936r4'

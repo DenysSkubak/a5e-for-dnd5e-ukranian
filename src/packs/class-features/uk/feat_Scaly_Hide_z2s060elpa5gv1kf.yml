@@ -1,0 +1,110 @@
+folder: null
+name: Scaly Hide
+type: feat
+img: icons/commodities/leather/scales-brown.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 3rd level, when you are raging, your flesh takes on the thick, protective qualities of dragon scales. While you are raging, any damage you take except psychic damage is reduced by an amount equal to half your proficiency bonus.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: heal
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - floor(@prof/2)
+        - temphp
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.Vkk43KwdXmVlZdAq
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: ujdn1tphDmP1Sapk
+        applyToSelf: true
+    transfer: false
+    name: Scaly Hide
+    _id: 7DOkcF4aJXrOj2Tw
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Starting at 3rd level, when you are raging, your flesh takes on the thick, protective qualities of dragon scales. While you are raging, any damage you take except psychic damage is reduced by an amount equal to half your proficiency bonus.</p>
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: null
+      modifiedTime: 1722954556129
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/commodities/leather/scales-brown.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!z2s060elpa5gv1kf.7DOkcF4aJXrOj2Tw'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722954556077
+  modifiedTime: 1722954615235
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: z2s060elpa5gv1kf
+_key: '!items!z2s060elpa5gv1kf'

@@ -1,0 +1,33 @@
+name: Legendary Spellslinger
+type: feat
+img: icons/skills/ranged/arrows-flying-salvo-blue-light.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <ul><li style="list-style-type: none;"><ul><li><strong>Ranger Spellslinger</strong>: You immediately learn a new school and maneuver of your choice, neither of which count against your limit of maneuvers or schools known.</li><li><strong>Sorcerer Spellslinger</strong>: You gain an additional selection from <em>Combat Arcanist</em>, <em>Combat Arcanist II</em>, or <em>Mystical Power</em>.<br>All spells granted by these features are added to your Spells Known for the purpose of sorcery.</li></ul></li></ul>
+    chat: ''
+  source:
+    book: 'System Architecture: Motif Classes'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Spellslinger Level 8
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: t28u31dx8zccfrsz
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!t28u31dx8zccfrsz'

@@ -1,0 +1,39 @@
+folder: juYjTH85siuKSM9j
+name: Scholar Tier 3 Starting Gear
+type: container
+img: icons/sundries/books/book-tooled-gold-brown.webp
+system:
+  description:
+    value: <p>Also includes 640 gp.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 7000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: rare
+  identified: true
+  capacity:
+    type: weight
+    value: null
+    weightless: false
+  currency:
+    cp: 0
+    sp: 0
+    ep: 0
+    gp: 0
+    pp: 0
+effects: [ ]
+flags: { }
+_id: 9vzrrreeenph29p4
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!9vzrrreeenph29p4'

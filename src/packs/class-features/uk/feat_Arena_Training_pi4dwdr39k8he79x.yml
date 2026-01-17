@@ -1,0 +1,36 @@
+name: Arena Training
+type: feat
+img: icons/skills/melee/swords-parry-block-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, you gain proficiency with one of the following skills: Acrobatics, Athletics, Intimidation, or Performance.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723126188228
+  modifiedTime: 1723126215611
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: pi4dwdr39k8he79x
+_key: '!items!pi4dwdr39k8he79x'

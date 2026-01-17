@@ -1,0 +1,36 @@
+name: Take Aim
+type: feat
+img: icons/skills/targeting/crosshair-pointed-orange.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you select this archetype at 3rd level you gain proficiency with longbows and shortbows and they count as adept weapons for you. You also gain proficiency with the Biting Zephyr combat tradition. You gain a bonus combat maneuver known from the Biting Zephyr tradition which does not count against your number of maneuvers known.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722149815552
+  modifiedTime: 1722149932030
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 2qc8umwouq8prv0f
+_key: '!items!2qc8umwouq8prv0f'

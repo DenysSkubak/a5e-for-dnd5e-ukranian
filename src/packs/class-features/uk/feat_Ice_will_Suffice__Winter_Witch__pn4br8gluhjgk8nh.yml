@@ -1,0 +1,33 @@
+name: Ice will Suffice (Winter Witch)
+type: feat
+img: icons/magic/water/snowflake-ice-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 10th level, whenever you cast a spell that deals fire or lightning damage, you may cause it to deal cold damage instead. If you do so, it counts as a cold spell for the purposes of heart of winter.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Level 10 Witch Class; Winter Witch archetype
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: pn4br8gluhjgk8nh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!pn4br8gluhjgk8nh'

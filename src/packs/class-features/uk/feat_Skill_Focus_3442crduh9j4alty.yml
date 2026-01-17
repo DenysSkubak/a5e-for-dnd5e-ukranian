@@ -1,0 +1,33 @@
+name: Skill Focus
+type: feat
+img: icons/tools/scribal/lens-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, and again at 7th, 11th, 15th, and 19th, choose a skill you are proficient with. You gain an expertise die on checks with that skill. An expertise die is 1d4 you roll and add.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 3442crduh9j4alty
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!3442crduh9j4alty'

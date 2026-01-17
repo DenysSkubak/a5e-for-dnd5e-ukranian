@@ -1,0 +1,33 @@
+name: 'Invocation: Cosmic Armory'
+type: feat
+img: icons/weapons/staves/staff-ornate-eye.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your patron bestows you with a magic item worth no more than 25,000 gold. Your patron collects this item when you die or lose this invocation.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 17th Level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 78kewndacf9axlan
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!78kewndacf9axlan'

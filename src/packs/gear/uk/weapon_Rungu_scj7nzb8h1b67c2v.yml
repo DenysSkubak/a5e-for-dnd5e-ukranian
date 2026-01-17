@@ -1,0 +1,86 @@
+name: Rungu
+type: weapon
+img: icons/weapons/clubs/club-simple-stone-brown.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>This @UUID[Compendium.a5e-for-dnd5e.gear.Item.8u3v0q3jr3ov8u6l]{Club} has the&nbsp;thrown property (range 30/150).</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 2
+  price:
+    value: 3
+    denomination: sp
+  attunement: 0
+  equipped: false
+  rarity: mundane
+  identified: true
+  proficient: true
+  type:
+    value: simpleR
+    baseItem: ''
+  properties:
+    - thr
+  armor:
+    value: null
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creatureOrObject
+  range:
+    value: 30
+    long: 150
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: rwak
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - 1d4 + @mod
+        - bludgeoning
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: efbKERxtOjiRkqDD
+_id: scj7nzb8h1b67c2v
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!scj7nzb8h1b67c2v'

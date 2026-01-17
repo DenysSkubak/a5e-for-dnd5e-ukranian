@@ -1,0 +1,46 @@
+name: Hide Armor +2
+type: equipment
+img: icons/equipment/chest/breastplate-layered-leather-stitched.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: ''
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 15
+  price:
+    value: 500
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: uncommon
+  identified: true
+  armor:
+    value: 13
+    dex: 2
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: medium
+    baseItem: hide
+folder: TqzM6GRsfHr13lsw
+_id: st9o1ld3vd0sr514
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!st9o1ld3vd0sr514'

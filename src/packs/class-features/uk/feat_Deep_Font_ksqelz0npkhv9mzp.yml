@@ -1,0 +1,68 @@
+name: Deep Font
+type: feat
+img: icons/magic/water/wave-water-explosion.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You can reach beyond your limits to draw more power from within. When you finish a short rest, you may expend a number of hit dice up to your Charisma modifier to regain some of your magic essence. For each hit die expended in this way, you regain 2 sorcery points. Once you have used this feature, you cannot do so again until you finish a long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721856734213
+  modifiedTime: 1721856853692
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ksqelz0npkhv9mzp
+_key: '!items!ksqelz0npkhv9mzp'

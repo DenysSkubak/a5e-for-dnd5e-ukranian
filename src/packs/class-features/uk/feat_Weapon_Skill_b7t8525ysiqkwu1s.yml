@@ -1,0 +1,33 @@
+name: Weapon Skill
+type: feat
+img: icons/skills/melee/hand-grip-hammer-spiked-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Choose a martial weapon that does not have the heavy or special properties. You become proficient with that weapon, and it counts as an adept weapon for you.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: b7t8525ysiqkwu1s
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!b7t8525ysiqkwu1s'

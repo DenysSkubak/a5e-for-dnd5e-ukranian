@@ -1,0 +1,68 @@
+name: Ancestral Guidance
+type: feat
+img: icons/magic/holy/meditation-chi-focus-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 11th level, you can meditate during a long rest to commune with the spirits of ancient warrior monks and borrow their techniques. Choose a combat tradition. If you are proficient in that tradition, learn two maneuvers from it. If you are not proficient in that tradition, you become proficient in it and learn two maneuvers from it. Combat maneuvers learned through this feature are forgotten when you begin your next long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722287668184
+  modifiedTime: 1722287691060
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: astly38rsxbuz218
+_key: '!items!astly38rsxbuz218'

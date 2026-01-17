@@ -1,0 +1,33 @@
+name: Spider Climb (Vampire Spawn)
+type: feat
+img: icons/magic/death/mouth-bite-fangs-vampire.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: feat
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain a climb speed equal to your Speed, and you can climb even on difficult surfaces and upside down on ceilings.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: pfknhv3wxysnldxb
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!pfknhv3wxysnldxb'

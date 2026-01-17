@@ -1,0 +1,68 @@
+folder: null
+name: Pathways of Shadow
+type: feat
+img: icons/creatures/abilities/wing-batlike-purple-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p id="docs-internal-guid-e34ffa51-7fff-5dd9-6e2d-165aadda6e5a" dir="ltr">At 14th level, you have learned to move swiftly through the darkness. You gain the @UUID[Compendium.a5e-for-dnd5e.class-features.Item.egx81qj0jhpzl8eq]{Shadow Walk} practiced technique from the adept class.</p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Carry the Darkness'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_id: ci2zh9cvjrps2mud
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ci2zh9cvjrps2mud'

@@ -1,0 +1,159 @@
+name: Entertainer
+type: background
+img: icons/tools/instruments/flute-simple-wood.webp
+system:
+  description:
+    value: >-
+      <p>You&rsquo;re a performer who knows how to dazzle a crowd, an artist but also a professional: you never forget to pass the hat after a show.</p><p>Are you a lute-strumming singer? An actor? A poet or author? A tumbler or juggler? Are you a rising talent, or a star with an established following?</p><hr><p><strong>Ability Score Increases:</strong>&nbsp;+1 to Charisma and one other ability score.&nbsp;</p><p><strong>Skill Proficiencies:&nbsp;</strong>Performance, and either Acrobatics, Culture, or Persuasion.</p><p><strong>Tool Proficiencies: </strong>Gaming set, musical instrument.</p><p><strong>Suggested Equipment (Cost 40 gold):&nbsp;</strong>Lute or other musical instrument, costume.</p><p><strong><em>Feature: Pay the Piper.</em></strong>&nbsp;In any settlement in which you haven&rsquo;t made yourself unpopular, your performances can earn enough money to support yourself and your companions: the bigger the settlement, the higher your standard of living, up to a moderate lifestyle in a city.</p><p><strong><em>Adventures and Advancement.</em></strong><strong>&nbsp;</strong>Some of your admirers will pay you to plead a cause or smear an enemy. If you succeed at several such quests, your fame will grow. You will be welcome at royal courts, which will support you at a rich lifestyle.</p><h3><strong>ENTERTAINER CONNECTIONS</strong></h3><ol><li>Your rival, an equally talented performer.</li><li>The cruel ringleader of the sinister circus where you learned your trade.</li><li>A noble who wants vengeance for the song you wrote about him.</li><li>The actor who says that there&rsquo;s always room in their troupe for you and your companions.</li><li>The noble who owes you a favor for penning the love poems that won their spouse.</li><li>Your former partner, a slumming noble with a good ear and bad judgment.</li><li>The rival who became successful and famous by taking credit for your best work.</li><li>The highly-placed courtier who is always trying to further your career.</li><li>A jilted lover who wants revenge.</li><li>The many tavernkeepers and tailors to whom you owe surprisingly large sums.</li></ol><hr><h3><strong>ENTERTAINER MEMENTOS</strong></h3><ol><li>Your unfinished masterpiece&mdash;if you can find inspiration to overcome your writer&rsquo;s block.</li><li>Fine clothing suitable for a noble and some reasonably convincing costume jewelry.</li><li>A love letter from a rich admirer.</li><li>A broken instrument of masterwork quality&mdash;if repaired, what music you could make on it!</li><li>A stack of slim poetry volumes you just can&rsquo;t sell.</li><li>Jingling jester&rsquo;s motley.</li><li>A disguise kit.</li><li>Water-squirting wands, knotted scarves, trick handcuffs, and other tools of a bizarre new entertainment trend: a nonmagical magic show.</li><li>A stage dagger.</li><li>A letter of recommendation from your mentor to a noble or royal court.</li></ol>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  advancement:
+    - _id: Gu9Qm78JfMLLLp7l
+      type: AbilityScoreImprovement
+      level: 0
+      configuration:
+        points: 1
+        fixed:
+          cha: 1
+        cap: 1
+    - _id: 0LeLrcHIuNAhHTZL
+      type: ItemGrant
+      title: Features
+      level: 0
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.origin-features.l5rvu81dt6iy4aah
+    - _id: BhbQgudzA0MZNKLI
+      type: Trait
+      level: 0
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - skills:prf
+        choices:
+          - 
+          pool:
+              - skills:acr
+              - skills:cul
+              - skills:per
+            count: 1
+    - _id: qIXdWxEwwsho8lbJ
+      type: Trait
+      level: 0
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - tool:music:*
+          - tool:game:*
+        choices: [ ]
+  startingEquipment:
+    - _id: 5Ou0hRLNEm7wUpn0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.lw3bie3xa3nboxeq
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.cxvl9129lqknwhot
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn2
+      sort: 30000
+      key: Compendium.a5e-for-dnd5e.gear.5aovzjcwvodkwrsf
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn3
+      sort: 40000
+      key: Compendium.a5e-for-dnd5e.gear.p19fsr4yoziebffl
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn4
+      sort: 50000
+      key: Compendium.a5e-for-dnd5e.gear.r6sackopm7addnxn
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn5
+      sort: 60000
+      key: Compendium.a5e-for-dnd5e.gear.3sli49o1u8f23qqy
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn6
+      sort: 70000
+      key: Compendium.a5e-for-dnd5e.gear.xpqiy7mlahmq42b4
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn7
+      sort: 80000
+      key: Compendium.a5e-for-dnd5e.gear.xlgxl1qcmsjtixxu
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn8
+      sort: 90000
+      key: Compendium.a5e-for-dnd5e.gear.paxo8qi1p7cpxq5w
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUpn9
+      sort: 100000
+      key: Compendium.a5e-for-dnd5e.gear.t6l6qmq7859oi3dp
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUp10
+      sort: 110000
+      key: Compendium.a5e-for-dnd5e.gear.jin34erfica7m99s
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUp11
+      sort: 120000
+      key: Compendium.a5e-for-dnd5e.gear.fdt78se95ctirerh
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUp12
+      sort: 130000
+      key: Compendium.a5e-for-dnd5e.gear.wlpyvif2btl5wwbd
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUp13
+      sort: 140000
+      key: Compendium.a5e-for-dnd5e.gear.tgftb52fb09tsd2q
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUp14
+      sort: 150000
+      key: Compendium.a5e-for-dnd5e.gear.xo0aa0wgz5d71sp3
+      count: 0
+      type: linked
+      group: ''
+    - _id: 5Ou0hRLNEm7wUp15
+      sort: 160000
+      key: Compendium.a5e-for-dnd5e.gear.krj29v7tofmzee1a
+      count: null
+      type: linked
+      group: ''
+effects: [ ]
+flags: { }
+folder: efsBCxTIVPrTYqUO
+_id: bz1px38i50gq3koh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!bz1px38i50gq3koh'

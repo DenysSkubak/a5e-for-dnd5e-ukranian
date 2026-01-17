@@ -1,0 +1,33 @@
+name: Unwavering Sentinel
+type: feat
+img: icons/magic/symbols/fleur-de-lis-yellow.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 15th level, you cannot become rattled and gain an expertise die on saving throws versus being charmed, frightened, paralysed, or stunned.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 2yqejo7dxnmmjikq
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!2yqejo7dxnmmjikq'

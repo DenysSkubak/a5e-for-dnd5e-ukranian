@@ -1,0 +1,33 @@
+name: Innocent Facade (Social Expertise)
+type: feat
+img: icons/skills/social/diplomacy-handshake.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain an expertise die on checks made with one of the following skills: Insight, Persuasion, or Sleight of Hand.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 2sikkeycn7gg7vhf
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!2sikkeycn7gg7vhf'

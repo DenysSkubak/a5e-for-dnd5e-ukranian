@@ -1,0 +1,79 @@
+name: Gauntlets of Ogre Power
+type: equipment
+img: icons/equipment/hand/glove-armored-leather-steel-brown.webp
+effects:
+  - icon: icons/equipment/hand/glove-armored-leather-steel-brown.webp
+    origin: Item.ty8o5pviitsquops
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Gauntlets of Ogre Power
+    _id: PZMcipXkyDi4021f
+    changes:
+      - key: system.abilities.str.value
+        mode: 5
+        value: '19'
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    tint: '#ffffff'
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!ty8o5pviitsquops.PZMcipXkyDi4021f'
+flags: { }
+system:
+  description:
+    value: >-
+      <p>Wearing these gauntlets increases your Strength score to 19.</p><p>They have no effect if your Strength is equal to or greater than 19.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 8
+  price:
+    value: 400
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: uncommon
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: clothing
+    baseItem: ''
+folder: 9k4UVzCiMuqj62ea
+_id: ty8o5pviitsquops
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ty8o5pviitsquops'

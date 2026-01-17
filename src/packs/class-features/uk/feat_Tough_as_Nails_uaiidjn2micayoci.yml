@@ -1,0 +1,71 @@
+name: Tough as Nails
+type: feat
+img: icons/tools/fasteners/nails-steel-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 7th level, your overbearing strength allows you to shrug off blows. Whenever you finish a short or long rest, you gain a number of temporary hit points equal to twice your Strength modifier. When you reach 15th level, you instead gain a number of temporary hit points equal to your Strength score.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: heal
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@classResources.tough-as-nails'
+        - temphp
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723123836334
+  modifiedTime: 1723124043285
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: uaiidjn2micayoci
+_key: '!items!uaiidjn2micayoci'

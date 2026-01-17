@@ -1,0 +1,85 @@
+name: Marauder
+type: background
+img: icons/weapons/axes/axe-broad-worn-yellow.webp
+system:
+  description:
+    value: >-
+      <p><strong>Ability Score Increases:</strong>&nbsp;+1 to Dexterity and one other ability score.</p><p><strong>Skill Proficiencies:</strong>&nbsp;Survival, and either Intimidation or Stealth.</p><p><strong>Tool Proficiencies:</strong>&nbsp;One type of artisan&rsquo;s tools or vehicle.</p><p><strong>Suggested Equipment (Cost 4 gold):</strong>&nbsp;Traveler&rsquo;s clothes, signal whistle, tent (one person).</p><p><strong><em>Feature: Secret Ways.</em></strong>&nbsp;When you navigate while traveling, pursuers have&nbsp;disadvantage</span>&nbsp;on checks made to track your group. Additionally, you can travel stealthily at a normal pace.</p><p><strong><em>Adventures and Advancement.</em></strong>&nbsp;Allies and informants occasionally give you tips about the whereabouts of poorly-guarded loot. After a few such scores, you may gain the free service of up to 8&nbsp;<span>bandits&nbsp;.</p><h3><strong>MARAUDER CONNECTIONS</strong></h3><ol><li>Your nemesis: a naval captain or captain of the guard who thwarted you on several occasions.</li><li>Your mentor: a charismatic pirate captain.</li><li>The stylish highway robber who taught you the trade.</li><li>The local noble who pursues you obsessively.</li><li>The three outlaws who hold the other three pieces of your treasure map.</li><li>The marauder chief who betrayed you and the rest of the gang in exchange for freedom.</li><li>The child you became an outlaw to protect.</li><li>The cleric who converted you to a life of law and faith.</li><li>The scholarly old bandit whose inventions gave you an edge against the pursuing authorities.</li><li>Your best friend&mdash;who is serving a life sentence for your shared crime.</li></ol><hr><h3><strong>MARAUDER MEMENTOS</strong></h3><ol><li>The eerie mask by which your victims know you.</li><li>The one item that you wish you hadn&rsquo;t stolen.</li><li>A signet ring marking you as heir to a seized estate.</li><li>A locket containing a picture of the one who betrayed you.</li><li>A broken compass.</li><li>A love token from the young heir to a fortune.</li><li>Half of a torn officer&rsquo;s insignia.</li><li>The hunter&rsquo;s horn which members of your band use to call allies.</li><li>A wanted poster bearing your face.</li><li>Your unfinished thesis from your previous life as an honest scholar.</li></ol>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  advancement:
+    - _id: 1dTvYw4WamQmtH5q
+      type: AbilityScoreImprovement
+      level: 0
+      configuration:
+        points: 1
+        fixed:
+          dex: 1
+        cap: 1
+    - _id: hb84EMGdoqvxE3vM
+      type: Trait
+      level: 0
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - skills:sur
+        choices:
+          - 
+          pool:
+              - skills:itm
+              - skills:ste
+            count: 1
+    - _id: FVsT7zuJwkPZYjbo
+      type: Trait
+      level: 0
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - tool:undefinedland
+              - tool:undefinedwater
+              - tool:undefinedair
+              - tool:art:*
+            count: 1
+    - _id: 6GTYlq2CzyYObkrz
+      type: ItemGrant
+      title: Features
+      level: 0
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.origin-features.Item.7uhcfq3mt4vsnsbd
+  startingEquipment:
+    - _id: dtoiJuRatup1SgR0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.yd87og78egvpztx3
+      count: 0
+      type: linked
+      group: ''
+    - _id: dtoiJuRatup1SgR1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.f0o7tjfis6wm3x82
+      count: 0
+      type: linked
+      group: ''
+    - _id: dtoiJuRatup1SgR2
+      sort: 30000
+      key: Compendium.a5e-for-dnd5e.gear.Item.jk11dj3y8qcdosej
+      count: null
+      type: linked
+      group: ''
+effects: [ ]
+flags: { }
+folder: efsBCxTIVPrTYqUO
+_id: 03ihd9edc8kduucy
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!03ihd9edc8kduucy'

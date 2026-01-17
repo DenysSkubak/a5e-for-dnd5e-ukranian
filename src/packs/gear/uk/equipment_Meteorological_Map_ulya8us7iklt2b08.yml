@@ -1,0 +1,47 @@
+name: Meteorological Map
+type: equipment
+img: icons/sundries/books/book-open-brown-black.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>This book has a simple, line-drawn map of the world on its cover. Writing the name of a specific place (no bigger than a small town) on one of its blank pages will cause it to magically write out a 50 word description of the current weather conditions there. </p><p>There are 25 blank pages. Pages cannot be erased or otherwise unbound from their target location once the name has been written.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 150
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: uncommon
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: ''
+    baseItem: ''
+folder: 9k4UVzCiMuqj62ea
+_id: ulya8us7iklt2b08
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ulya8us7iklt2b08'

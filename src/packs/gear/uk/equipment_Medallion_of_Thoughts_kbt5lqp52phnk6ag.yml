@@ -1,0 +1,87 @@
+name: Medallion of Thoughts
+type: equipment
+img: icons/equipment/neck/amulet-geometric-gold-green.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>While you are wearing this ornate medallion, you can use an action to expend one of its three charges to cast @UUID[Compendium.a5e-for-dnd5e.spells.4rgo85d49qwancup]{Detect Thoughts} (DC 13). The medallion regains [[/r 1d3 #charges]] expended charges every dawn. </p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 450
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: uncommon
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: clothing
+    baseItem: ''
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: save
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: wis
+    dc: null
+    scaling: spell
+folder: 9k4UVzCiMuqj62ea
+_id: kbt5lqp52phnk6ag
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!kbt5lqp52phnk6ag'

@@ -1,0 +1,34 @@
+name: Druidic Training
+type: feat
+img: icons/magic/nature/root-vines-face-glow-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>All druids are taught to commune with nature, to become a conduit for natural power, and to maintain the secrets of their druid circle. Also at 1st level, you gain proficiency with Nature, and you learn the @UUID[Compendium.a5e-for-dnd5e.spells.Item.5o1rvwzxmsh5ji9i]{Druidcraft} cantrip (this does not count against your total cantrips known).&nbsp;</p> 
+      <p>You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message&rsquo;s presence with a successful DC 15 Wisdom (Perception) check but can&rsquo;t decipher it without magic.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 0ummig34seznbvnq
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!0ummig34seznbvnq'

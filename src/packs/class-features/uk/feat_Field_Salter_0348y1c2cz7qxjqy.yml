@@ -1,0 +1,157 @@
+folder: null
+name: Field Salter
+type: feat
+img: icons/magic/death/grave-tombstone-glow-teal.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 10th level, your connection to undeath allows you to forcibly tear the life from the earth. Once a month, you can perform a special ritual requiring you to take 2 levels of fatigue and 2 levels of strife and 8 hours of uninterrupted work to blight a wide swath of territory. Upon the successful completion of the ritual, all of the vegetation and creatures weighing less than 5 pounds within a 5-mile radius immediately die and begin decomposing into putrid, toxic ichor. Creatures weighing more than 5 pounds must make a Constitution save against your spell save DC or gain a level of fatigue. Nothing will grow in this area again for a year unless it is ritually purified, which takes a 100gp of reagents and a month of 8-hour days of ritual work from trained spellcasters per affected square mile. At the Narrator&rsquo;s discretion, other methods such as divine intervention, the @UUID[Compendium.a5e-for-dnd5e.spells.Item.r6eshb9jaeqc70mp]{Hallow}<em>&nbsp;</em>spell, or similar means may also be able to end the curse.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: hour
+    cost: 8
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: 5
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: con
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.4QohnohmfxG7gObG
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: zvceLoeSaAXSixeu
+        applyToSelf: true
+    transfer: false
+    name: Field Salter (Self)
+    img: icons/magic/death/grave-tombstone-glow-teal.webp
+    _id: ZOojgYOMxSRXfMGj
+    type: base
+    system: { }
+    changes:
+      - key: system.attributes.fatigue
+        value: '2'
+        mode: 2
+        priority: null
+      - key: flags.a5e-for-dnd5e.stress
+        value: '2'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>Yyou to take 2 levels of fatigue and 2 levels of strife.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722965553040
+      modifiedTime: 1722965630909
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!0348y1c2cz7qxjqy.ZOojgYOMxSRXfMGj'
+  - origin: Item.4QohnohmfxG7gObG
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: zvceLoeSaAXSixeu
+    transfer: false
+    name: Field Salter
+    img: icons/magic/death/grave-tombstone-glow-teal.webp
+    _id: l5nNnjfKkei941xn
+    type: base
+    system: { }
+    changes:
+      - key: system.attributes.fatigue
+        value: '1'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722965635359
+      modifiedTime: 1722965652867
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!0348y1c2cz7qxjqy.l5nNnjfKkei941xn'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722965528762
+  modifiedTime: 1722965678466
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 0348y1c2cz7qxjqy
+_key: '!items!0348y1c2cz7qxjqy'

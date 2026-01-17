@@ -1,0 +1,42 @@
+name: Elemental Body
+type: feat
+img: icons/magic/defensive/armor-stone-skin.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 11th level, your body begins to become more elemental and less flesh. You gain immunity to the poisoned condition and to disease. Additionally, you gain one of the following abilities, matching your element, even if you don&rsquo;t meet its prerequisites.</p> 
+      <ul> 
+      <li><strong>Earth</strong>: You gain the @UUID[Compendium.a5e-for-dnd5e.class-features.Item.utcgr3iulspvdft0]{Earth Glide} adaptation.</li> 
+      <li><strong>Air</strong>: You gain the @UUID[Compendium.a5e-for-dnd5e.class-features.Item.lczz48v2p88m1hgq]{Wings of Air} adaptation.</li> 
+      <li><strong>Fire</strong>: You gain the @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9tn5pstqxq73khmh]{Flame Jet} adaptation.</li> 
+      <li><strong>Water</strong>: You gain the @UUID[Compendium.a5e-for-dnd5e.class-features.Item.w0fijhokako8n7zu]{Denizen of the Deep} adaptation.</li> 
+      </ul>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722974552865
+  modifiedTime: 1722975271009
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: c030qxuc4fsytm02
+_key: '!items!c030qxuc4fsytm02'

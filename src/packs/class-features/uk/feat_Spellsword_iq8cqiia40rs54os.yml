@@ -1,0 +1,33 @@
+name: Spellsword
+type: feat
+img: icons/skills/melee/strike-weapon-polearm-ice-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 5th level, whenever you cast a wielder spell as an action using your bonded artifact you may immediately make a weapon attack using a weapon you are holding.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: iq8cqiia40rs54os
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!iq8cqiia40rs54os'

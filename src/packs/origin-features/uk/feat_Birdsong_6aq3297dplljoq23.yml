@@ -1,0 +1,32 @@
+folder: z476XZt1iG4Mb7VJ
+name: Birdsong
+type: feat
+img: icons/creatures/birds/dove-pigeon-flying-white.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: <p>You gain proficiency with Performance.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 6aq3297dplljoq23
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!6aq3297dplljoq23'

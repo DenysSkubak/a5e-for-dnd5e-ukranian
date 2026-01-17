@@ -1,0 +1,64 @@
+name: Rapid Drink
+type: a5e-for-dnd5e.maneuver
+img: icons/magic/movement/trail-streak-zigzag-yellow.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>As casually as any seasoned alchemist, you pluck the cork from a magical concoction and pour it down your throat or a companion's.</p><p>You drink a potion or administer a potion to a creature within reach.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  degree: 2
+  tradition: rc
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 2
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: touch
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: swHJnelJJBne8YQB
+_id: xncxwkt40mbbw1u0
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!xncxwkt40mbbw1u0'

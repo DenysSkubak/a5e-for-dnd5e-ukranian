@@ -1,0 +1,39 @@
+name: Inspiring Devotion
+type: feat
+img: icons/magic/holy/angel-winged-humanoid-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 9th level, you can draw upon your oath for extra assistance in social situations. Choose one of the following features.</p> 
+      <h2>Lend Faith</h2> 
+      <p>When an ally within 30 feet that can see and hear you would make a saving throw or ability check you can inspire them with your faith, adding your Charisma modifier to the roll. Once you have used this feature you can't do so again until you finish a short rest.</p> 
+      <h2>Reveal Heresy</h2> 
+      <p>You gain proficiency in the Insight skill, and gain an expertise die on to Insight checks. Whenever a creature is lying to you, it makes a Charisma saving throw against a DC equal to your passive Insight score. This save is made with disadvantage and done in secret by the Narrator. On a failure, you get a strong sense that they are being untruthful.</p> 
+      <h2>Truth of Conviction</h2> 
+      <p>Whenever you or an ally are telling the truth and make any Charisma ability check to do so, you can use this feature to treat any roll of 10 or less as an 11 for that roll. Once you have used this feature you can't do so again until you finish a short rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 2td6srku3ln8qasl
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!2td6srku3ln8qasl'

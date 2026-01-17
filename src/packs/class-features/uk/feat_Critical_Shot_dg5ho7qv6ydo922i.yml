@@ -1,0 +1,36 @@
+name: Critical Shot
+type: feat
+img: icons/skills/targeting/target-strike-triple-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 18th level, you can hit miniscule targets at ludicrous ranges with seemingly impossible accuracy. Whenever you take the Attack action and are able to make multiple ranged attacks, you may forgo all of those ranged attacks except for one to turn that remaining attack into a Critical Shot, making a ranged weapon attack with advantage. If your Critical Shot hits it becomes a critical hit.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723130357590
+  modifiedTime: 1723130373567
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: dg5ho7qv6ydo922i
+_key: '!items!dg5ho7qv6ydo922i'

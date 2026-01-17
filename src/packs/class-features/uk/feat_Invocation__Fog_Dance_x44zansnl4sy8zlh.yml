@@ -1,0 +1,33 @@
+name: 'Invocation: Fog Dance'
+type: feat
+img: icons/magic/air/wind-vortex-swirl-blue-purple.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You can cast misty step&nbsp;without spending spell points, and if you do not move on your turn you can cast it without using a bonus action.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 13th level, Spellbound archetype
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: x44zansnl4sy8zlh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!x44zansnl4sy8zlh'

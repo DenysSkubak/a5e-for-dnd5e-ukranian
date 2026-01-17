@@ -1,0 +1,33 @@
+name: 'Sign: Monastic Austerity'
+type: feat
+img: icons/environment/settlement/tent.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your greater entity acts as a buffer to shield you from hardship or your religious self-discipline sustains you even during harsh times, preventing the first level of fatigue you would take each day.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: tphbbbo1br3947s5
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!tphbbbo1br3947s5'

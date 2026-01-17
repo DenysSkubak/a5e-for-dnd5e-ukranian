@@ -1,0 +1,99 @@
+name: 'Battle Hymn: Song of Clarity'
+type: feat
+img: icons/skills/trades/music-notes-sound-blue.webp
+effects:
+  - icon: icons/skills/trades/music-notes-sound-blue.webp
+    origin: Item.vk0Jt5Jt6Zr0dzEu
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: e63nPZ8WzIi8yxBZ
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: 'Battle Hymn: Song of Clarity'
+    _id: GHdxDKGoTRyYM3qe
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 1
+      turns: null
+      startRound: null
+      startTurn: null
+    description: "<p>At the start of the target’s turn, if it is not at 0 hit points it can expend\_one of its Hit Dice to regain hit points.</p>"
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!am5r25ebgscf2273.GHdxDKGoTRyYM3qe'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At the start of the target&rsquo;s turn, if it is not at 0 hit points it can expend&nbsp;one of its Hit Dice to regain hit points.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: ''
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 30
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: am5r25ebgscf2273
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!am5r25ebgscf2273'

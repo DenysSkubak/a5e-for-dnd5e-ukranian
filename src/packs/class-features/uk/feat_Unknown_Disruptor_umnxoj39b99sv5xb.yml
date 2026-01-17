@@ -1,0 +1,36 @@
+name: Unknown Disruptor
+type: feat
+img: icons/magic/control/hypnosis-mesmerism-eye.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 17th level you are under the permanent effects of a @UUID[Compendium.a5e-for-dnd5e.spells.wad0cgw4tcdbuvbr]{Mind Blank} spell, and if you have an alignment trait it cannot be detected by magic.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722946623405
+  modifiedTime: 1722946627010
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: umnxoj39b99sv5xb
+_key: '!items!umnxoj39b99sv5xb'

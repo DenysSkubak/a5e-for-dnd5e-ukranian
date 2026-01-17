@@ -1,0 +1,99 @@
+name: 'Battle Hymn: Ode of Blood'
+type: feat
+img: icons/skills/trades/music-notes-sound-blue.webp
+effects:
+  - icon: icons/skills/trades/music-notes-sound-blue.webp
+    origin: Item.P6vXOE7ZeqoGMaIb
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: VbueG5JU8gaIbAyC
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: 'Battle Hymn: Ode of Blood'
+    _id: Oz86SvIns37QdbxU
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: 3
+      turns: null
+      startRound: null
+      startTurn: null
+    description: "<p>\_If the target is dying, it continues making death saving throws but regains consciousness for up to 3 rounds. The target falls unconscious again if it\_takes damage, and it dies if it fails its last death saving throw. Once a creature has\_benefited from this battle hymn, it can’t benefit from it again until it finishes a rest.</p>"
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!dcl4v0rzoyyif9pw.Oz86SvIns37QdbxU'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>&nbsp;If the target is dying, it continues making death saving throws but regains consciousness for up to 3 rounds. The target falls unconscious again if it&nbsp;takes damage, and it dies if it fails its last death saving throw. Once a creature has&nbsp;benefited from this battle hymn, it can&rsquo;t benefit from it again until it finishes a rest.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: dcl4v0rzoyyif9pw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!dcl4v0rzoyyif9pw'

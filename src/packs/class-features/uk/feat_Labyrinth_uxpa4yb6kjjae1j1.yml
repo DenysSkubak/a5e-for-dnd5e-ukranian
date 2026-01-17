@@ -1,0 +1,111 @@
+folder: null
+name: Labyrinth
+type: feat
+img: icons/environment/wilderness/cave-entrance-mountain-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 17th level, you can expend one use of your Channel Divinity to cast the @UUID[Compendium.a5e-for-dnd5e.spells.Item.k99eld0oyhiukqbt]{Maze} spell.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: ''
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.7yy5wdYubWlzXoXD
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Speed Boost
+    _id: e6uWrkA5iMBBmUd1
+    changes:
+      - key: system.attributes.movement.walk
+        value: '10'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: null
+      modifiedTime: 1722952128784
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/environment/wilderness/cave-entrance-mountain-blue.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!uxpa4yb6kjjae1j1.e6uWrkA5iMBBmUd1'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722952128742
+  modifiedTime: 1722952198435
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: uxpa4yb6kjjae1j1
+_key: '!items!uxpa4yb6kjjae1j1'

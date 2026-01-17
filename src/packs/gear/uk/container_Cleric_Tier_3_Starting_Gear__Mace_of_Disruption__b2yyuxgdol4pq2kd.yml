@@ -1,0 +1,39 @@
+folder: juYjTH85siuKSM9j
+name: Cleric Tier 3 Starting Gear (Mace of Disruption)
+type: container
+img: icons/equipment/neck/necklace-astrology-sun-gold.webp
+system:
+  description:
+    value: <p>Also includes 1500 gp.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 7000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: rare
+  identified: true
+  capacity:
+    type: weight
+    value: null
+    weightless: false
+  currency:
+    cp: 0
+    sp: 0
+    ep: 0
+    gp: 0
+    pp: 0
+effects: [ ]
+flags: { }
+_id: b2yyuxgdol4pq2kd
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!b2yyuxgdol4pq2kd'

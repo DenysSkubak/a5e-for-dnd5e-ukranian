@@ -1,0 +1,48 @@
+folder: null
+name: Dungeon Crawler
+type: feat
+img: icons/magic/earth/barrier-stone-explosion-spiked.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 7th level, your experience exploring dungeons has made you a veteran of the depths, able to smash your way through common obstacles with ease or endure whatever hazards you encounter.</p> 
+      <p>Choose one of the following options:</p> 
+      <h2>Aggressive Delving</h2> 
+      <ul> 
+      <li>You make Dexterity saving throws to avoid or resist traps with advantage.</li> 
+      <li>You have advantage on ability checks to break objects such as locked or jammed doors and locked chests, and your attacks deal double damage to objects and constructs.</li> 
+      </ul> 
+      <h2>Defensive Delving</h2> 
+      <ul> 
+      <li>You make Constitution saving throws to avoid or resist traps with advantage.</li> 
+      <li>You can hold your breath for a minimum of 5 minutes + your Constitution modifier before checking for suffocation or drowning.</li> 
+      <li>You have resistance to falling damage.</li> 
+      </ul>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723417587343
+  modifiedTime: 1723417669717
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: fynxdlxwc48p04se
+_key: '!items!fynxdlxwc48p04se'

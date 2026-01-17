@@ -1,0 +1,33 @@
+name: Adept Weaponry
+type: feat
+img: icons/weapons/fist/fist-katar-triple-engraved.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Choose two simple or martial weapons, or one rare weapon. You become proficient with those weapons, and they count as adept weapons for you.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 5th Level
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: jraaj8pcuyzfjuql
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!jraaj8pcuyzfjuql'

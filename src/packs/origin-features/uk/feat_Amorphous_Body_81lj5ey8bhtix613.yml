@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Amorphous Body
+type: feat
+img: icons/creatures/slimes/slime-movement-splash-green.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>While you are unarmored and not carrying any items, you can pass through an opening as narrow as 1 inch wide without squeezing.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 81lj5ey8bhtix613
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!81lj5ey8bhtix613'

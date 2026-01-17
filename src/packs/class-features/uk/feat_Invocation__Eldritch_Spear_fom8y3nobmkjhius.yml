@@ -1,0 +1,32 @@
+name: 'Invocation: Eldritch Spear'
+type: feat
+img: icons/magic/unholy/projectile-bolts-salvo-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: <p>The range of your Eldritch Ray increases to 300 feet.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: Eldritch Ray feature
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: fom8y3nobmkjhius
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!fom8y3nobmkjhius'

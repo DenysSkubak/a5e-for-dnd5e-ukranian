@@ -1,0 +1,76 @@
+name: Battle Hymn Specialization
+type: feat
+img: icons/skills/trades/music-notes-sound-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 8th level, the range of your battle hymns&nbsp;increases to 60 feet.</p> 
+      <p>In addition, choose one of the following.&nbsp;</p> 
+      <ul> 
+      <li>You can expend two uses of Bardic&nbsp;Inspiration to activate two Battle&nbsp;Hymns at the same time. Losing&nbsp;concentration or changing battle&nbsp;hymns ends both hymns.</li> 
+      <li>Pick three spells of 4th-level or lower&nbsp;that have only vocalized&nbsp;components. These spells can be&nbsp;from any class spell list. You can&nbsp;spend two uses of Bardic Inspiration&nbsp;to cast one of the chosen spells at&nbsp;the start of your turn without using an action. If you do, you can&rsquo;t&nbsp;activate a battle hymn that turn.&nbsp;</li> 
+      <li>When you expend a use of Bardic&nbsp;Inspiration to activate a battle hymn,&nbsp;you can also grant a Bardic&nbsp;Inspiration die to a creature within 60&nbsp;feet.</li> 
+      </ul> 
+      <p>Whenever you gain a bard level, you can change your Battle Hymn Specialization.</p> 
+      <p>At 12th level, you gain a second Battle Hymn Specialization.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721841530880
+  modifiedTime: 1721841603151
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: qp4y5b36beo1vr46
+_key: '!items!qp4y5b36beo1vr46'

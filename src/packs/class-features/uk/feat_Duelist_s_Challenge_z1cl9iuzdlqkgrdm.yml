@@ -1,0 +1,109 @@
+name: Duelist’s Challenge
+type: feat
+img: icons/skills/melee/maneuver-greatsword-yellow.webp
+effects:
+  - origin: Item.qJdy24jQKQwp3MYo
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: 2JKzhWK6I5eFmBxr
+    transfer: false
+    name: Challenged
+    img: icons/skills/melee/maneuver-greatsword-yellow.webp
+    _id: hZLbaG6dn3xhFlvh
+    type: base
+    system: { }
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Once you challenge a creature in this way, you have disadvantage on attacks against creatures other than the challenged creature, and the challenged creature has disadvantage on attacks against creatures other than you. A creature remains challenged in this way until either you or the challenged creature are incapacitated, dies, or either ends their turn out of line of sight from the other. The challenge also ends if you use this feature again to challenge a different creature, or if a third creature challenges either you or your challenged creature.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.22
+      createdTime: 1723125603694
+      modifiedTime: 1723125657872
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!z1cl9iuzdlqkgrdm.hZLbaG6dn3xhFlvh'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 10th level, you&rsquo;re confident enough to challenge even the most monstrous threats. You can use a bonus action to expend a use of @UUID[Compendium.a5e-for-dnd5e.class-features.Item.r27c0kzdujkn31w5]{Panache} to challenge a creature within 30 feet to an honorable duel. Once you challenge a creature in this way, you have disadvantage on attacks against creatures other than the challenged creature, and the challenged creature has disadvantage on attacks against creatures other than you. A creature remains challenged in this way until either you or the challenged creature are incapacitated, dies, or either ends their turn out of line of sight from the other. The challenge also ends if you use this feature again to challenge a different creature, or if a third creature challenges either you or your challenged creature.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 30
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723125358781
+  modifiedTime: 1723125603752
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: z1cl9iuzdlqkgrdm
+_key: '!items!z1cl9iuzdlqkgrdm'

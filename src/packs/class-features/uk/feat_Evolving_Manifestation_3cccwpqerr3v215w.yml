@@ -1,0 +1,38 @@
+name: Evolving Manifestation
+type: feat
+img: icons/svg/item-bag.svg
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 12th level, you gain a deeper understanding of your magics. You may either take the improved form of the manifestation you selected at 2nd level, or you may choose an additional feature from the Manifestation list.</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.pzs0gjz3n2dtiu4j]{Manifestation: Evolving Blizzard}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.hyc3bjf8ppsa42ly]{Manifestation: Evolving Corrosion}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.m5djvkyry5ftz5hu]{Manifestation: Evolving Hurricane}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.yvzk1tzuwtnioiiw]{Manifestation: Evolving Inferno}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.32j20t2dhaivos46]{Manifestation: Evolving Venom}</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 3cccwpqerr3v215w
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!3cccwpqerr3v215w'

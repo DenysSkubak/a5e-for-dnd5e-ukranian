@@ -1,0 +1,36 @@
+name: Fungal Durability
+type: feat
+img: icons/consumables/mushrooms/mushroom-spotted-red.webp
+effects: [ ]
+folder: null
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at 10th level, the fungal structures in your body have become incredibly robust, making you very resistant to harm. You gain resistance to non-magical bludgeoning, piercing, and slashing damage, and you become immune to poison damage.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722966633636
+  modifiedTime: 1722966687309
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 7cnqkv4zd3olhz6q
+_key: '!items!7cnqkv4zd3olhz6q'

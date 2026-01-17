@@ -1,0 +1,32 @@
+name: High Elf Weapon Training (High Elf)
+type: feat
+img: icons/environment/settlement/gazebo.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: <p>You have proficiency with rapiers and longswords.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: 51hklbd57uiyppv2
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!51hklbd57uiyppv2'

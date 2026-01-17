@@ -1,0 +1,33 @@
+name: Expert Talent
+type: feat
+img: icons/sundries/gaming/chess-queen-gray.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at 11th level, you almost never make mistakes when performing routine tasks. Whenever you make an ability check on which you roll expertise dice, you treat a d20 roll of 9 or lower as a 10.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: mc153rkyv5li85dh
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!mc153rkyv5li85dh'

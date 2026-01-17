@@ -1,0 +1,33 @@
+name: 'Exceptional Poise: Confounding Defense'
+type: feat
+img: icons/magic/defensive/illusion-evasion-echo-purple.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>The first time each round that you use an aegis, you can immediately prepare another aegis trick.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: ec08hy75rkm2438t
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ec08hy75rkm2438t'

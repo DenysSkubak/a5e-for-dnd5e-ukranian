@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Joie de Vivre
+type: feat
+img: icons/magic/water/water-well.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You take great delight in good company, good music, and good food. You gain proficiency with one gaming set, one musical instrument, and your choice of either cook&rsquo;s utensils or brewer&rsquo;s supplies.</p>
+    chat: ''
+  source:
+    book: Secrets of the Selkies
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 356auh3dykjivhyj
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!356auh3dykjivhyj'

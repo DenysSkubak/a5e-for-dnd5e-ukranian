@@ -1,0 +1,33 @@
+name: Magical Versatility (High Elf)
+type: feat
+img: icons/environment/settlement/gazebo.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You know a cantrip of your choice, which can be chosen from any spell list. Your spellcasting ability score for this cantrip is Intelligence, Wisdom, or Charisma (whichever is highest).</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: y70prmkqgggc21qg
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!y70prmkqgggc21qg'

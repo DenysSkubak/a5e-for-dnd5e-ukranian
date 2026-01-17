@@ -1,0 +1,68 @@
+folder: null
+name: Withering Wrath
+type: feat
+img: icons/skills/wounds/anatomy-organ-heart-red.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 10th level, your fury magically suppresses the regenerative abilities of your foes. While you are raging, a creature with a regeneration ability that starts its turn within 10 feet of you regains only half as many hit points as normal (rounded down).</p><p>You also gain the supernatural ability to devour life force from downed foes. When you reduce a creature to 0 hit points with a melee attack, you recover one expended hit die. For you to do so, the creature&rsquo;s CR must be at least half your character level (rounded down).</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: self
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722950550727
+  modifiedTime: 1722950572553
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: u878r2bwhvsuq1fi
+_key: '!items!u878r2bwhvsuq1fi'

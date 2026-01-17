@@ -1,0 +1,36 @@
+name: Headology
+type: feat
+img: icons/magic/control/hypnosis-mesmerism-eye.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 2nd level you’ve picked up the subtle art of tricking people with common sense. You gain proficiency with Persuasion (if you already have proficiency with Persuasion you instead gain an expertise die) and you may always use Wisdom when making Persuasion checks.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723057126300
+  modifiedTime: 1723057171611
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 4kxsapsjdudxvd66
+_key: '!items!4kxsapsjdudxvd66'

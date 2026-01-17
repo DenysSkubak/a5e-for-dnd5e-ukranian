@@ -1,0 +1,37 @@
+name: Loyalty's Reward
+type: feat
+img: icons/magic/life/cross-area-circle-green-white.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 15th level, if damage reduces a beast you are the guardian ranger of to 0 hit points, it makes a Constitution saving throw against a DC equal to 10 + the attack modifier of the damaging attack. On a success, the beast drops to 1 hit point instead.</p> 
+      <p>A beast can use this feature once between long rests.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723331557059
+  modifiedTime: 1723331586261
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: tffbn45ysdshrugh
+_key: '!items!tffbn45ysdshrugh'

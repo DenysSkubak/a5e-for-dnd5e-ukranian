@@ -1,0 +1,119 @@
+name: Battle Dance
+type: feat
+img: icons/skills/trades/music-notes-sound-blue.webp
+effects:
+  - origin: Item.uNPwqkFFkTosMn91
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: 9GX1tZEbmHCZIMpq
+        applyToSelf: true
+        duration:
+          type: rounds
+          unit: minutes
+    transfer: false
+    name: Battle Dance
+    _id: AGvkVrGZnrMhV85w
+    changes:
+      - key: system.attributes.movement.walk
+        value: '20'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: 1
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.329'
+      systemId: a5e
+      systemVersion: 0.19.18
+      createdTime: null
+      modifiedTime: 1721838812986
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/skills/trades/music-notes-sound-blue.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!a70cebx1jovzxufw.AGvkVrGZnrMhV85w'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in the Performance skill. As a bonus action, you can spend 2 exertion to bob and sway, starting a battle dance. Until the end of your turn, your Speed increases by 20 feet and opportunity attacks against you are made with disadvantage. When a creature makes an opportunity attack against you and misses, you can use your reaction to make an unarmed strike against that creature.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: reaction
+    cost: 1
+    condition: Creature makes an opportunity attack against you and misses
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: mwak
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@classResources.martial-arts + @mod'
+        - bludgeoning
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721838812964
+  modifiedTime: 1721838967131
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: a70cebx1jovzxufw
+_key: '!items!a70cebx1jovzxufw'

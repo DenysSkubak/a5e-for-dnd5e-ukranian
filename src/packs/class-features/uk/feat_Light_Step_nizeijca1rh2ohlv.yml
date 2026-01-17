@@ -1,0 +1,76 @@
+folder: null
+name: Light Step
+type: feat
+img: icons/environment/wilderness/cave-entrance-mountain-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you choose this archetype at 1st level, your Speed increases by 10 feet while you are unarmored or wearing light armor. Also, armor you wear does not impose&nbsp;disadvantage on your Stealth checks.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects:
+  - origin: Item.NC4puWsJglRkgiQc
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Light Step
+    _id: e6uWrkA5iMBBmUd1
+    changes:
+      - key: system.attributes.movement.walk
+        value: '10'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: null
+      modifiedTime: 1722951341932
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/environment/wilderness/cave-entrance-mountain-blue.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!nizeijca1rh2ohlv.e6uWrkA5iMBBmUd1'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722951274644
+  modifiedTime: 1722951278277
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: nizeijca1rh2ohlv
+_key: '!items!nizeijca1rh2ohlv'

@@ -1,0 +1,34 @@
+name: Ink (1 ounce Bottle)
+type: consumable
+img: icons/tools/scribal/ink-quill-red.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: <p>Ink is&nbsp;typically used with an ink pen to write.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 10
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: mundane
+  identified: true
+  type:
+    value: potion
+    subtype: ''
+  uses:
+    autoDestroy: false
+folder: jczlz1TrOcJzDCz6
+_id: 32eyx6xvcv2xuqvo
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!32eyx6xvcv2xuqvo'

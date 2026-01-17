@@ -1,0 +1,36 @@
+name: Unplaceable Song
+type: feat
+img: icons/magic/symbols/question-stone-yellow.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at level 6, you learn to throw off those searching for you, even as you taunt them. While you are hidden, obscured, or invisible, your voice and the sound of musical instruments you play seem to come from everywhere or nowhere in particular, imposing disadvantage on checks to locate you by sound. If you remain still while singing or playing music, you cannot be located by their sound alone.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722260436641
+  modifiedTime: 1722260454968
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: hufggmxkzojkr633
+_key: '!items!hufggmxkzojkr633'

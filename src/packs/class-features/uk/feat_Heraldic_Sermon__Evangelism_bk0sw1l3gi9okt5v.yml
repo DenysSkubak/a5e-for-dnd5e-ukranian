@@ -1,0 +1,33 @@
+name: 'Heraldic Sermon: Evangelism'
+type: feat
+img: icons/magic/holy/saint-glass-portrait-halo.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in the Performance skill. You have advantage when using this skill to convert others through preaching about your oath or deity, and witnesses that hear your words are inspired to donate to your cause.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: bk0sw1l3gi9okt5v
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!bk0sw1l3gi9okt5v'

@@ -1,0 +1,33 @@
+name: Sacred Call
+type: feat
+img: icons/magic/holy/chalice-glowing-gold.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 1st level, your clerical vocation anoints you with certain graces for spreading your message to the people. Choose one of the following:</p><h2>Clerical Charisma</h2><p>Crowds find your public presence irresistible. You gain proficiency in the Performance skill. Whenever you use Performance to deliver a sermon or to sing holy songs in a town or city, even on a failed check other than a natural 1, you still attract a crowd of people no smaller than your spell save DC.</p><h2>Ordination</h2><p>Your mission in the world is supported by the spiritual community or religious hierarchy who called you to religious service. As a formal leader within your religious order, you are expected to perform the ceremonies of your faith, including weddings and funerals. In exchange, members of your faith provide you and your companions with food, lodging, and a modest lifestyle.</p><p>Additionally, if your congregation or order is able, they send you letters with regular updates about their well-being. They are willing to help connect you with other chapters of your faith through letters of introduction.</p><h2>Zeal of the Convert</h2><p>You enthusiastically see the hand of a greater entity everywhere. You gain advantage on Persuasion checks when you invoke the name of your deity or movement during a conversation with a pious person. If the listener is negatively disposed to your greater entity or movement, you have disadvantage instead.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: l9kvw4n809k17gsy
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!l9kvw4n809k17gsy'

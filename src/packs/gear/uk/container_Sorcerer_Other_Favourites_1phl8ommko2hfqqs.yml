@@ -1,0 +1,39 @@
+folder: juYjTH85siuKSM9j
+name: Sorcerer Other Favourites
+type: container
+img: icons/magic/light/hand-sparks-glow-yellow.webp
+system:
+  description:
+    value: ''
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 467250
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: legendary
+  identified: true
+  capacity:
+    type: weight
+    value: null
+    weightless: false
+  currency:
+    cp: 0
+    sp: 0
+    ep: 0
+    gp: 0
+    pp: 0
+effects: [ ]
+flags: { }
+_id: 1phl8ommko2hfqqs
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!1phl8ommko2hfqqs'

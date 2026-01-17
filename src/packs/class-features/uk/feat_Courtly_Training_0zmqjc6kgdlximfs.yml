@@ -1,0 +1,37 @@
+folder: null
+name: Courtly Training
+type: feat
+img: icons/environment/settlement/castle.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, you gain proficiency with two of the following skills: Culture, History, or Insight. If you are already proficient, you instead gain an expertise die.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#3'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723416425119
+  modifiedTime: 1723416428506
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 0zmqjc6kgdlximfs
+_key: '!items!0zmqjc6kgdlximfs'

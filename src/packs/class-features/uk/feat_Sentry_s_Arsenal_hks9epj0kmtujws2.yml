@@ -1,0 +1,36 @@
+name: Sentry’s Arsenal
+type: feat
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 3rd level, you train with the specialized weapons used by guards and sentries in their duties. You gain proficiency with glaives, halberds, and pikes, and they count as adept weapons for you. </p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Scrapper'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+img: icons/skills/melee/spear-tips-quintuple-orange.webp
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722095168523
+  modifiedTime: 1722095223101
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: hks9epj0kmtujws2
+_key: '!items!hks9epj0kmtujws2'

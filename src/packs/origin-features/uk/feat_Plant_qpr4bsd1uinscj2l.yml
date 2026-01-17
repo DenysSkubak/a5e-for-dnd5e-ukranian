@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Plant
+type: feat
+img: icons/consumables/mushrooms/campanulate-bell-red-white.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You are a plant in addition to a humanoid. So long as rocks and soil are available, you can sustain yourself without other sources of food, although you still require water. While exploring, you consume 1&nbsp;Supply</span>&nbsp;every other day before suffering&nbsp;<span>fatigue.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: qpr4bsd1uinscj2l
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!qpr4bsd1uinscj2l'

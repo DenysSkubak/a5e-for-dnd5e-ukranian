@@ -1,0 +1,74 @@
+name: Way of the Fist
+type: feat
+img: icons/skills/melee/unarmed-punch-fist.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 6th level, you regain exertion equal to half your proficiency bonus (rounded down) when you critically hit with an unarmed strike. When you hit a creature with an unarmed strike, you can spend 1 exertion to deal additional damage equal to your martial arts die.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@classResources.martial-arts'
+        - bludgeoning
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722287497748
+  modifiedTime: 1722287553577
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 5iqw4oofua80qa2p
+_key: '!items!5iqw4oofua80qa2p'

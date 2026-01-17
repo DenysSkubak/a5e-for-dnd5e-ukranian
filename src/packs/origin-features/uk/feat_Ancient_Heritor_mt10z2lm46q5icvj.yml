@@ -1,0 +1,33 @@
+name: Ancient Heritor
+type: feat
+img: icons/magic/perception/eye-ringed-glow-angry-large-teal.webp
+effects: [ ]
+folder: OpVlQm2oviOU6e9w
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You are proficient in History, plus one History specialty of your choice.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_id: mt10z2lm46q5icvj
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!mt10z2lm46q5icvj'

@@ -1,0 +1,33 @@
+name: Aggressive (Warhordling)
+type: feat
+img: icons/environment/settlement/watchtower-wood.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>As a bonus action, you can move up to your speed towards an enemy that you can see or hear.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: k5dqyx7k76mk01st
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!k5dqyx7k76mk01st'

@@ -1,0 +1,98 @@
+name: 'Battle Hymn: Willful Serenade'
+type: feat
+img: icons/skills/trades/music-notes-sound-blue.webp
+effects:
+  - icon: icons/skills/trades/music-notes-sound-blue.webp
+    origin: Item.yEv4c2qOq6EJFIpz
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: imQgmFhEEysgcMYN
+        duration:
+          type: seconds
+    transfer: false
+    name: 'Battle Hymn: Willful Serenade'
+    _id: iJZcmn90XEYtiEEK
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: "<p>Until the end of the combat, the target ignores up to 4 levels of\_fatigue or strife it is suffering from (how much of each to ignore is determined by the\_creature).</p>"
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!okn7tljq4n6nu8d3.iJZcmn90XEYtiEEK'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Until the end of the combat, the target ignores up to 4 levels of&nbsp;fatigue or strife it is suffering from (how much of each to ignore is determined by the&nbsp;creature).</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: ''
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: okn7tljq4n6nu8d3
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!okn7tljq4n6nu8d3'

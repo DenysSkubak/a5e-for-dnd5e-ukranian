@@ -1,0 +1,36 @@
+name: Armory Training
+type: feat
+img: icons/equipment/chest/breastplate-helmet-metal.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, you learn some of the finer minutiae that let you feel comfortable in even the heaviest armors. You gain the following benefits:</p><ul><li><p>Your passive Perception score is not reduced while wearing a helm or visored helm.</p></li><li><p>You never suffer fatigue from wearing armor or sleeping in armor.</p></li><li><p>You can don or doff armor in half the time it would normally take.</p></li><li><p>You never have disadvantage on Acrobatics or Stealth checks due to wearing armor or using a heavy shield.</p></li></ul>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723127837525
+  modifiedTime: 1723127841478
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: umxl3hj9ix8lajq0
+_key: '!items!umxl3hj9ix8lajq0'

@@ -1,0 +1,32 @@
+name: 'Invocation: Eldritch Warrior'
+type: feat
+img: icons/equipment/shield/heater-steel-segmented-purple.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: <p>You gain proficiency with medium armor and martial weapons.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: u5fms3ikoua995s7
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!u5fms3ikoua995s7'

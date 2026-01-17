@@ -1,0 +1,71 @@
+name: Unrelenting
+type: feat
+img: icons/magic/life/heart-hand-gold-green-light.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 17th level, when you drop to 0 hit points, you can roll your martial arts die. You regain that many hit points and lose that much exertion. Similarly, when your exertion pool reaches 0, you can roll your martial arts die. You regain that much exertion and lose that many hit points.</p><p>Once you have regained hit points or exertion from this feature, you can&rsquo;t use this feature again until you finish a rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: heal
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - '@classResources. martial-arts'
+        - healing
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722285417048
+  modifiedTime: 1722286298305
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ojfdp0drxxgo99io
+_key: '!items!ojfdp0drxxgo99io'

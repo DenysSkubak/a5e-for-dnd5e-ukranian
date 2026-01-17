@@ -1,0 +1,36 @@
+name: Archetype Schools
+type: feat
+img: icons/magic/earth/explosion-lava-stone-red.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Add the <em>earth </em>and <em>fire </em>schools of magic to your list of herald spells.</p>
+    chat: ''
+  source:
+    book: Fiery Justice
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723493207077
+  modifiedTime: 1723493282785
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 8wckbodu0apf8sbm
+_key: '!items!8wckbodu0apf8sbm'

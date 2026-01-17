@@ -1,0 +1,33 @@
+name: Studied Discipline - Architecture (Collegiate)
+type: feat
+img: icons/environment/settlement/city-hall.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in Engineering. You can use a bonus action to intuitively identify the weight-bearing wall or pillars of a structure, dealing double damage against it with your next weapon attack. Alternatively, you can double the hit points a structure regains from the next action you or an ally take to repair it.</p><p>You always choose which ability score to use for rolls (Intelligence, Wisdom, or Charisma).</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: 2d4st9emc66byi4o
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!2d4st9emc66byi4o'

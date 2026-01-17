@@ -1,0 +1,70 @@
+name: Weapon of Dread
+type: feat
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 3rd level, you obtain a magical signature weapon—your Weapon of Dread. Select one weapon with the Versatile or Two-Handed property. You acquire a masterwork weapon of that type that you can conjure into your empty hand as an action. It is always considered to have the flamboyant property. This is a magical weapon (it overcomes resistance and immunity to nonmagical attacks and damage). Your Weapon of Dread disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+img: icons/weapons/swords/greatsword-crossguard-flanged-purple.webp
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723400243052
+  modifiedTime: 1723400260914
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: v1veq4yf1kt1boh3
+_key: '!items!v1veq4yf1kt1boh3'

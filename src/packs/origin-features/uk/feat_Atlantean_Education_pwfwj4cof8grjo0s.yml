@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Atlantean Education
+type: feat
+img: icons/magic/water/bubbles-air-water-blue.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You are proficient with one skill from Animal Handling, Arcana, Engineering, Medicine, Nature, and Religion. You are also proficient with any one tool of your choice.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: pwfwj4cof8grjo0s
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!pwfwj4cof8grjo0s'

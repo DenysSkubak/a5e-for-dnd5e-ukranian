@@ -1,0 +1,33 @@
+name: Practical Knowledge
+type: feat
+img: icons/sundries/books/book-open-turquoise.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 2nd level, you gain a bonus number of skill specialties equal to your Intelligence modifier. Unlike those normally granted by your Intelligence, these may be chosen for any skill. Alternatively you may exchange a specialty for proficiency in a tool kit or language of your choice on a one to one basis.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: y3hiwasiwid8gz1u
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!y3hiwasiwid8gz1u'

@@ -1,0 +1,32 @@
+folder: OpVlQm2oviOU6e9w
+name: Sailor
+type: feat
+img: icons/environment/settlement/ship.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: <p>You gain proficiency with water vehicles.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 1o0v6sg4jpoqsoza
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!1o0v6sg4jpoqsoza'

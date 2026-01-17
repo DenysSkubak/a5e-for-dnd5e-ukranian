@@ -1,0 +1,34 @@
+folder: z476XZt1iG4Mb7VJ
+name: Overactive Enzymes
+type: feat
+img: icons/magic/acid/dissolve-vomit-green-brown.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You can release a splash of digestive enzymes to harm your foes. You gain the<em> @UUID[Compendium.a5e-for-dnd5e.spells.Item.z3y2a7pwy9gzcv45]{Acid Splash} </em>cantrip, which you can cast without requiring components. Your spellcasting ability for this cantrip is your choice of Charisma, Constitution, Intelligence, or Wisdom.</p> 
+      <p>You can also use your digestive enzymes to dig. You have a burrowing speed of 10 feet and can move through nonmagical earth and stone, but not solid rock. You don&rsquo;t leave a tunnel behind unless you spend time and effort to shore up the tunnel, reducing your burrow speed to 5 feet every 15 minutes.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: jxrs6kddaddbmqsw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!jxrs6kddaddbmqsw'

@@ -1,0 +1,68 @@
+name: Pole Vaulter
+type: feat
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Finally at 6th level, when you are wielding a quarterstaff, glaive, halberd, or pike, you can use the weapon to aid your jumps. You may spend 1 exertion to double your jumping distance (high or long), provided you have at least 10 feet of running start. If you have Gale Walk, this extends the multiplier from that feature to 5x normal distance when used as long as you are wielding one of the weapons listed above. </p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Scrapper'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+img: icons/skills/movement/arrow-upward-yellow.webp
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722095602881
+  modifiedTime: 1722095632904
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 9hrwrg6qs1th65vk
+_key: '!items!9hrwrg6qs1th65vk'

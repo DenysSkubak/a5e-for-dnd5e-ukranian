@@ -1,0 +1,65 @@
+name: Mistfade Retreat
+type: a5e-for-dnd5e.maneuver
+img: icons/magic/unholy/hand-claw-glow-orange.webp
+system:
+  description:
+    value: >-
+      <p>As your foe&rsquo;s deadly attack falls upon you, your form becomes mist and shadow. When you take&nbsp;damage</span>&nbsp;from a&nbsp;melee attack, you can move 15 feet without&nbsp;<span>provoking opportunity attacks&nbsp;.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#11'
+  degree: 3
+  tradition: elb
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 2
+  activation:
+    type: reaction
+    cost: 1
+    condition: "When you take\_damage\_from a\_melee attack"
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+folder: f49w1dSTaDnUZkds
+flags: { }
+_id: rapspziwifremttg
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!rapspziwifremttg'

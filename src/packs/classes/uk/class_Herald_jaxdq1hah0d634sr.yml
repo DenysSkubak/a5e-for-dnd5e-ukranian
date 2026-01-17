@@ -1,0 +1,478 @@
+folder: null
+name: Глашатай
+type: class
+img: icons/magic/holy/barrier-shield-winged-blue.webp
+system:
+  description:
+    value: >-
+      <p><strong>Таблиця: Глашатай<br></strong></p> 
+      <table style="width: 95.565%;" border="1"><colgroup><col style="width: 6.75068%;"><col style="width: 7.61862%;"><col style="width: 35.7786%;"><col style="width: 7.23287%;"><col style="width: 8.77588%;"><col style="width: 9.16232%;"><col style="width: 10.6875%;"></colgroup> 
+      <thead> 
+      <tr style="height: 47.6px;"> 
+      <td style="text-align: center; height: 47.6px;">Рівень</td> 
+      <td style="text-align: center; height: 47.6px;">Бонус<br>майстерності</td> 
+      <td style="text-align: center; height: 47.6px;">Особливості</td> 
+      <td style="text-align: center; height: 47.6px;">Lessons<br>Known</td> 
+      <td style="text-align: center; height: 47.6px;"> 
+      <p>Smite</p> 
+      <p>Damage</p> 
+      </td> 
+      <td style="text-align: center; height: 47.6px;">Відомі<br>маневри</td> 
+      <td style="text-align: center; height: 47.6px;">Ступінь<br>маневру</td> 
+      </tr> 
+      </thead> 
+      <tbody> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.01szspr1nunp0lql]{Divine Sense} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.my42mip0qc35rcp2]{Lay on Hands} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.71l0zmi8bryu6ssx]{Spellcasting (Herald)}</td> 
+      <td style="text-align: center;">-</td> 
+      <td style="text-align: center;">-</td> 
+      <td style="text-align: center;">-</td> 
+      <td style="text-align: center;">-</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.j0kinls7be97oxsw]{Combat Maneuvers (Herald)} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.c6aiq8cd90fo3ry1]{Divine Smite}</td> 
+      <td style="text-align: center;">-</td> 
+      <td style="text-align: center;">1d8</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1st</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.zj2p68ex28alzo9i]{Divine Lessons} Herald Archetype</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1d8</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1st</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.u220f22b3cpphtgb]{Empowered Smite}</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1d8</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1st</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.b6bbf481xmj9mi6u]{Extra Attack (Herald)} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.ul62twmxrrc072yg]{Heraldic Sermon}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">2d8</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1st</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">6ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.xezwxikwrsfkzg4o]{Sacred Aura}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">2d8</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1st</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">7ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">Archetype Feature</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2d8</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2nd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">8ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.p9gkawegqqbxb821]{Greater Empowered Smite}</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2d8</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2nd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">9ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.2td6srku3ln8qasl]{Inspiring Devotion}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3d8</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2nd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">10ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.eg3jukesb09wd7ot]{Improved Sacred Aura}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">3d8</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">2nd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">11ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.ldib2glh1r8ufnzj]{Divine Warrior}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">3d8</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">2nd</td> 
+      </tr> 
+      <tr style="height: 50.4px;"> 
+      <td style="text-align: center;">12ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.qaiz9fwowbfzsm8y]{Divine Recovery}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">3d8</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">2nd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">13ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">-</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">4d8</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3rd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">14ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.dn7qd4m58ac396qm]{Infectious Resolve}</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">4d8</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3rd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">15ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">Archetype Feature</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">4d8</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3rd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">16ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">4d8</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">3rd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">17ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">-</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">5d8</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">3rd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">18ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">Aura Improvements</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">5d8</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">3rd</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">19ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">6d8</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">4th</td> 
+      </tr> 
+      <tr style="height: 16.8px;"> 
+      <td style="text-align: center;">20ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">Archetype Feature @UUID[Compendium.a5e-for-dnd5e.class-features.Item.6s1lhuxjy6b485jo]{Holy Exemplar}</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">6d8</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">4th</td> 
+      </tr> 
+      </tbody> 
+      </table> 
+      <h3>Очки здоров’я</h3> 
+      <p><strong>Кістки здоров’я: </strong>1d10 за кожний рівень глашатая&nbsp;</p> 
+      <p><strong>Hit Points at 1st Рівень: 10</strong> + your Constitution модифікатор</p> 
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d10 (or 6) + your Constitution модифікатор за кожний рівень глашатая після 1-го</p> 
+      <h3>Володіння</h3> 
+      <p><strong>Armor:&nbsp;</strong>Light armor, medium armor, heavy armor, shields</p> 
+      <p><strong>Weapons:&nbsp;</strong>Simple weapons, martial weapons</p> 
+      <p><strong>Saving Throws:&nbsp;</strong>Wisdom, Charisma</p> 
+      <p><strong>Skills:&nbsp;</strong>Choose two from Атлетика, Акробатика, Історія, Проникливість, Залякування, Медицина, Переконання, and Релігія</p> 
+      <h3>Спорядження</h3> 
+      <p>You begin the game with 200 gold which you can spend on your character&rsquo;s starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Також звернися до розділу «Рекомендоване Equipment section of your chosen background.</p> 
+      <ul> 
+      <li><strong>Blessed Explorer&rsquo;s Set (Cost 189 gold):</strong> Handaxe (4), hauberk, priest&rsquo;s pack</li> 
+      <li><strong>Divine Warrior&rsquo;s Set (Cost 200 gold):</strong> Longsword, hauberk, medium shield, explorer&rsquo;s pack</li> 
+      </ul>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  startingEquipment:
+    - _id: bjw1GwWJG3iETq50
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.3duu65eeic8ru1u9
+      count: 0
+      type: linked
+      group: ''
+    - _id: bjw1GwWJG3iETq51
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.x0ggo061t8h533pu
+      count: 0
+      type: linked
+      group: ''
+  identifier: ''
+  levels: 1
+  hitDice: d10
+  hitDiceUsed: 0
+  advancement:
+    - _id: FRxVq2gmJq6bNazt
+      title: Очки здоров’я
+      type: HitPoints
+    - _id: xZvqBnoISF7aE0mL
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - armor:lgt
+          - armor:med
+          - armor:hvy
+          - armor:shield
+        choices: [ ]
+    - _id: z1zrXHBC1xaejD8I
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - weapon:sim:*
+          - weapon:mar:*
+        choices: [ ]
+    - _id: Y0wDrYTmVrkuuWMq
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - saves:wis
+          - saves:cha
+        choices: [ ]
+    - _id: fFcVesHvtlCIwsZR
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - skills:ath
+              - skills:acr
+              - skills:his
+              - skills:ins
+              - skills:itm
+              - skills:med
+              - skills:per
+              - skills:rel
+            count: 2
+    - _id: hH6TFO3xX3fwsAeQ
+      type: ItemGrant
+      title: Особливості
+      level: 1
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.01szspr1nunp0lql
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.my42mip0qc35rcp2
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.71l0zmi8bryu6ssx
+    - _id: 0tmhnpAJHRNEesaj
+      type: ItemGrant
+      title: Особливості
+      level: 2
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.j0kinls7be97oxsw
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.c6aiq8cd90fo3ry1
+    - _id: uITLK2io7Z37VMdr
+      type: ItemGrant
+      title: Особливості
+      level: 3
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.zj2p68ex28alzo9i
+    - _id: XcdRnWWBlUFAxH5O
+      type: ItemGrant
+      title: Особливості
+      level: 4
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.u220f22b3cpphtgb
+    - _id: qRBjeBKcF3GHtAXK
+      type: ItemGrant
+      title: Особливості
+      level: 5
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ul62twmxrrc072yg
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.b6bbf481xmj9mi6u
+    - _id: WDEA4D8eSmRfzyIl
+      type: ItemGrant
+      title: Особливості
+      level: 6
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.xezwxikwrsfkzg4o
+    - _id: BIqdICkEPCe6aVmV
+      type: ItemGrant
+      title: Особливості
+      level: 8
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.p9gkawegqqbxb821
+    - _id: VE3Hyln3A3NKGLyl
+      type: ItemGrant
+      title: Особливості
+      level: 9
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.2td6srku3ln8qasl
+    - _id: ZZcZ8ahHalbacoIC
+      type: ItemGrant
+      title: Особливості
+      level: 10
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.eg3jukesb09wd7ot
+    - _id: BzJcj7bniByqwJSt
+      type: ItemGrant
+      title: Особливості
+      level: 11
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ldib2glh1r8ufnzj
+    - _id: y9StHC9fBzB7xgF0
+      type: ItemGrant
+      title: Особливості
+      level: 12
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.qaiz9fwowbfzsm8y
+    - _id: cOx8rmwzbCyvgNcV
+      type: ItemGrant
+      title: Особливості
+      level: 14
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.dn7qd4m58ac396qm
+    - _id: Zp3IdDvpIpjYvm9O
+      type: ItemGrant
+      title: Особливості
+      level: 20
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.6s1lhuxjy6b485jo
+    - _id: SWB1y3WQWxV7Lw2J
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: wQcLiKeVXZbotafV
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: BQ1xoC7UGZ9BdDFe
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 8sFe15woRgbB7Ri9
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: OmDjqn1SRSgUqONb
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: T0nEn3N8q8QQQoTV
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: GoGYp7ixag8Y5af7
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 2JH1sKooXdWLoo8d
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: OSCymSbAwDYUywcS
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: WjCophfJ6vQoiLpK
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+  spellcasting:
+    ability: cha
+    progression: none
+  wealth: '200'
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722027312643
+  modifiedTime: 1722027466394
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: jaxdq1hah0d634sr
+_key: '!items!jaxdq1hah0d634sr'

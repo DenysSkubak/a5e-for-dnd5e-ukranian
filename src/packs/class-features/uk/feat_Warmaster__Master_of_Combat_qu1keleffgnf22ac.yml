@@ -1,0 +1,33 @@
+name: 'Warmaster: Master of Combat'
+type: feat
+img: icons/skills/melee/swords-triple-orange.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You master every maneuver you know and any future maneuvers you learn as per Maneuver Specialization. Additionally, choose one maneuver of 3rd degree or less that you know. You are able to use the chosen maneuver without expending any exertion points.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: qu1keleffgnf22ac
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!qu1keleffgnf22ac'

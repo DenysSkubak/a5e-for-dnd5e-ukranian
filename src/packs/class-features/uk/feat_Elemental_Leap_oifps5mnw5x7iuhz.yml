@@ -1,0 +1,33 @@
+folder: null
+name: Elemental Leap
+type: feat
+img: icons/magic/movement/trail-streak-pink.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p dir="ltr">Using your wind or flames to boost you (creating an audible and visible display), you are always considered to have a running start when jumping, and you jump twice as far as normal.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 'Elemental Affinity: Air or Fire'
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: oifps5mnw5x7iuhz
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!oifps5mnw5x7iuhz'

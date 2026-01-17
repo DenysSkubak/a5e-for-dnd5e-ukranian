@@ -1,0 +1,36 @@
+name: Magical Understanding
+type: feat
+img: icons/magic/symbols/circle-ouroboros.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 6th level, you become significantly better at uncovering obscure druidic magic. When you perform the Spellcraft activity during downtime, you gain an expertise die on the roll and the time and materials costs are reduced by 25%.</p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Storyteller'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723134524672
+  modifiedTime: 1723134528582
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: on9zopszoxtlo7ot
+_key: '!items!on9zopszoxtlo7ot'

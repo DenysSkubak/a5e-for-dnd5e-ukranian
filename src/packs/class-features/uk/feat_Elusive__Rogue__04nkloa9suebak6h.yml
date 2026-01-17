@@ -1,0 +1,33 @@
+name: Elusive (Rogue)
+type: feat
+img: icons/skills/movement/feet-winged-boots-brown.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 15th level, you know how to avoid vulnerable positions. As long as you are not incapacitated, no attack roll has advantage against you.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 04nkloa9suebak6h
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!04nkloa9suebak6h'

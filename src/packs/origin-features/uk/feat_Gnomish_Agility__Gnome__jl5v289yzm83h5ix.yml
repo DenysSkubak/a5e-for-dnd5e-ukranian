@@ -1,0 +1,33 @@
+name: Gnomish Agility (Gnome)
+type: feat
+img: icons/skills/movement/figure-running-gray.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>Adept at avoiding the attacks of the “Big Folk”, you gain +1 to your Armor Class against creatures of a size category larger than your own.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: jl5v289yzm83h5ix
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!jl5v289yzm83h5ix'

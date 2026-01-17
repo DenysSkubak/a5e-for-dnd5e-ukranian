@@ -1,0 +1,55 @@
+folder: null
+name: Elemental Security
+type: feat
+img: icons/magic/symbols/elements-air-earth-fire-water.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <ul> 
+      <li dir="ltr" aria-level="2"> 
+      <p dir="ltr" role="presentation"><strong>Fire Priest. </strong>Immunity to fire damage and effects.</p> 
+      </li> 
+      <li dir="ltr" aria-level="2"> 
+      <p dir="ltr" role="presentation"><strong>Ice Priest. </strong>Immunity to cold damage and effects.</p> 
+      </li> 
+      <li dir="ltr" aria-level="2"> 
+      <p dir="ltr" role="presentation"><strong>Plant Priest.</strong> Immune to poison damage, the poisoned condition, as well as spells and effects from the plant school.</p> 
+      </li> 
+      <li dir="ltr" aria-level="2"> 
+      <p dir="ltr" role="presentation"><strong>Stone Priest. </strong>Immune to force damage and effects.&nbsp;</p> 
+      </li> 
+      <li dir="ltr" aria-level="2"> 
+      <p dir="ltr" role="presentation"><strong>Storm Priest. </strong>Immune to lightning and thunder damage, and storm effects.&nbsp;</p> 
+      </li> 
+      <li dir="ltr" aria-level="2"> 
+      <p dir="ltr" role="presentation"><strong>Water Priest.</strong> Immune to acid damage and water effects. You also can also breathe underwater, and you gain a swim speed equal to your base walking speed. If you already have a swim speed, it instead increases by 30 feet.</p> 
+      </li> 
+      </ul>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722958130858
+  modifiedTime: 1722958512243
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: q2x3qnu6bbbgyfm0
+_key: '!items!q2x3qnu6bbbgyfm0'

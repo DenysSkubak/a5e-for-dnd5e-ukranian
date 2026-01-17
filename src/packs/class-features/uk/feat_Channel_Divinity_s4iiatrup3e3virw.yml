@@ -1,0 +1,36 @@
+folder: null
+name: Channel Divinity
+type: feat
+img: icons/magic/holy/projectiles-blades-salvo-yellow.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 2nd level, you are able to channel the energy of your greater entity directly, and use it for a variety of magical effects. You start with two of these effects: @UUID[Compendium.a5e-for-dnd5e.class-features.Item.zhuf06durl8bnmh3]{Turn Undead} and an additional effect dependent on your chosen Cleric Archetype. Some archetypes provide additional uses of Channel Divinity as your cleric level increases, detailed under the heading of your chosen archetypes.</p><p>You may choose which Channel Divinity effect to create each time you use this feature. You must then finish a short or long rest before you&rsquo;re able to Channel Divinity again.</p><p>Some Channel Divinity effects require saving throws. The DC for this is the same as your cleric spell save DC.</p><p>From 6th level you can use your Channel Divinity twice between rests, and beginning at 18th level you can use it three times between rests. Finishing a short or long rest regains your expended uses.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721850670630
+  modifiedTime: 1721850683763
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: s4iiatrup3e3virw
+_key: '!items!s4iiatrup3e3virw'

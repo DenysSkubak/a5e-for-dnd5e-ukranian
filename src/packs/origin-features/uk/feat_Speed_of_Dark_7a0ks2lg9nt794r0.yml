@@ -1,0 +1,36 @@
+name: Speed of Dark
+type: feat
+img: icons/magic/unholy/projectile-bullet-orb-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>What little remains of your flesh is suffused with the stuff of shadow. You gain the following benefits:</p><p><strong><em>Speed of Dark</em></strong>. Your base walking speed increases by 5 feet.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_stats:
+  coreVersion: '12.328'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721303404061
+  modifiedTime: 1721303415764
+  lastModifiedBy: LP1qW4KtlZ3Zp5g1
+_id: 7a0ks2lg9nt794r0
+_key: '!items!7a0ks2lg9nt794r0'

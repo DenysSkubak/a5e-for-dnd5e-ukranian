@@ -1,0 +1,65 @@
+name: 'Defense: Rugged Defense'
+type: feat
+img: icons/skills/melee/maneuver-daggers-paired-orange.webp
+effects:
+  - icon: icons/skills/melee/maneuver-daggers-paired-orange.webp
+    origin: Item.mlDpwyeDoON6S8k7
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Rugged Defense
+    _id: FxK9JKVxqhn6TCW2
+    changes:
+      - key: system.attributes.movement.walk
+        value: '5'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: >-
+      <p>Your speed increases by 5 feet while you aren’t wearing heavy armor. At 5th level, your speed increases by an additional 5 feet.</p>
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!j2n9an7ozhbs1hlp.FxK9JKVxqhn6TCW2'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>While you are not wearing any armor, your armor class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.</p><p>In addition, your speed increases by 5 feet while you aren’t wearing heavy armor. At 5th level, your speed increases by an additional 5 feet.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: j2n9an7ozhbs1hlp
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!j2n9an7ozhbs1hlp'

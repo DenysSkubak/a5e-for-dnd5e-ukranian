@@ -1,0 +1,33 @@
+name: Green Spells (Green Witch)
+type: feat
+img: icons/magic/nature/leaf-hand-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you select this archetype at 2nd level you add the nature spell school to your list of witch spells. You are also under the constant effect of a <span>@UUID[Compendium.a5e-for-dnd5e.spells.Item.z5a26lxyh3esw2rl]{Speak with Animals}</span>&nbsp;spell.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 5s8u1k1c2escpku9
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5s8u1k1c2escpku9'

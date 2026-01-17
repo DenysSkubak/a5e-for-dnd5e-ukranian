@@ -1,0 +1,70 @@
+name: Embraced Serenity
+type: feat
+img: icons/environment/wilderness/tree-oak.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You have advantage on concentration checks made to maintain spells. In addition, as a bonus action you may sacrifice a use of Wild Shape to recover an expended spell slot of 3rd-level or lower, or two uses of your Wild Shape feature to recover an expended spell slot of 6th-level or lower.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721852159274
+  modifiedTime: 1721852228065
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: zl34bpcsilf9sihs
+_key: '!items!zl34bpcsilf9sihs'

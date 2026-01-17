@@ -1,0 +1,37 @@
+name: Developed Poise
+type: feat
+img: icons/skills/melee/maneuver-greatsword-yellow.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 5th level, you refine your combat poise. Choose one of the following, or one of the combat poise options available at 2nd level.</p> 
+      <h2>Extra Attack</h2> 
+      <p>When you use the Attack action on your turn, you can make two attacks.</p> 
+      <h2>Rational Maneuvers</h2> 
+      <p>You can use your Intelligence bonus to calculate the DCs of your basic maneuvers and combat maneuvers.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: asjk6epfoj4vtdhk
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!asjk6epfoj4vtdhk'

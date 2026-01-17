@@ -1,0 +1,33 @@
+name: 'Mystery: Bountiful Blessing'
+type: feat
+img: icons/magic/holy/prayer-hands-glowing-yellow-white.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When using a Witch&rsquo;s Blessing to bless a target, the bonus increases to d8 + your spellcasting ability modifier. If the Witch&rsquo;s Blessing causes a creature to succeed on the roll, they gain inspiration. A creature who gains inspiration in this way cannot do so again until they finish a long rest.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 5th level, Witch's Blessing feature
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: ok5ouliu248w2z40
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ok5ouliu248w2z40'

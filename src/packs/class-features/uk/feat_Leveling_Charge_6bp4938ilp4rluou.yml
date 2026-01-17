@@ -1,0 +1,112 @@
+name: Leveling Charge
+type: feat
+img: icons/magic/movement/trail-streak-pink.webp
+effects:
+  - origin: Item.rl0UdhtnEIkBolMq
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: 4rHKJVOgK1K8rf5b
+    transfer: false
+    name: Prone
+    img: icons/magic/movement/trail-streak-pink.webp
+    _id: i9nmdgCcIQElsCLb
+    type: base
+    system: { }
+    changes:
+      - key: flags.a5e.effects.statusConditions
+        value: '["prone"]'
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    tint: '#ffffff'
+    statuses:
+      - prone
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.20
+      createdTime: 1722362164733
+      modifiedTime: 1722362176998
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!6bp4938ilp4rluou.i9nmdgCcIQElsCLb'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 3rd level, if you make a successful attack after moving at least 20 feet you can attempt to knock that creature to the ground. The target must make a Strength saving throw against your Furious Critical DC or fall prone.</p><p>At 10th level, you can use a bonus action to attempt to knock down a creature that is within your reach that you pass during your Leveling Charge.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.20
+  createdTime: 1722362021838
+  modifiedTime: 1722362199237
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 6bp4938ilp4rluou
+_key: '!items!6bp4938ilp4rluou'

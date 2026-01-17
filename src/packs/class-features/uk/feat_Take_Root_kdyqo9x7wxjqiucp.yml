@@ -1,0 +1,71 @@
+name: Take Root
+type: feat
+img: icons/magic/nature/vines-thorned-entwined-teal.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 14th level you&rsquo;ve learned how to ingratiate yourself into a community or tie yourself to the magic of the land. As a series of rituals requiring 24 hours of uninterrupted work, you can take root in a specific community such as a village, city, or commune, or a place of magical importance such as a temple, revered grove, or convergence of leylines. You may cast the spell&nbsp;@UUID[Compendium.a5e-for-dnd5e.spells.Item.r4yz1k7dlp8lazx5]{Transport via Plants} to travel to the place you&rsquo;ve taken root without expending a spell slot. In addition, while within a mile of the place you&rsquo;ve taken root, you may cast the spell&nbsp;@UUID[Compendium.a5e-for-dnd5e.spells.Item.8j1p6dsp3qfvjprc]{Tree Stride} without expending a spell slot.</p> 
+      <p>These effects end when you attempt to take root in a new location.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: hour
+    cost: 24
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723058136820
+  modifiedTime: 1723058232289
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: kdyqo9x7wxjqiucp
+_key: '!items!kdyqo9x7wxjqiucp'

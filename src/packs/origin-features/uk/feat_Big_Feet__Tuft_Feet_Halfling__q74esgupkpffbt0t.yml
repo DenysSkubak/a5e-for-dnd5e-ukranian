@@ -1,0 +1,33 @@
+name: Big Feet (Tuft Feet Halfling)
+type: feat
+img: icons/commodities/biological/foot-black-grey.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain an expertise die on checks and saving throws made to resist being knocked prone.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: q74esgupkpffbt0t
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!q74esgupkpffbt0t'

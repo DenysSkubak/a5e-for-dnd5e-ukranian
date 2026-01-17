@@ -1,0 +1,496 @@
+name: Адепт
+type: class
+img: icons/skills/melee/unarmed-punch-fist.webp
+system:
+  description:
+    value: >-
+      <p><strong>Таблиця: Адепт</strong></p> 
+      <table style="width: 100%;" border="1"><colgroup><col style="width: 5.46747%;"><col style="width: 6.11071%;"><col style="width: 7.23636%;"><col style="width: 33.2873%;"><col style="width: 10.9349%;"><col style="width: 8.36202%;"><col style="width: 8.20121%;"><col style="width: 10.6133%;"><col style="width: 9.64848%;"></colgroup> 
+      <thead> 
+      <tr> 
+      <td style="text-align: center;">Рівень</td> 
+      <td style="text-align: center;">Бонус<br>майстерності</td> 
+      <td style="text-align: center;">Бойові<br>мистецтва</td> 
+      <td style="text-align: center;">Особливості</td> 
+      <td style="text-align: center;">Відомі<br>техніки</td> 
+      <td style="text-align: center;">Focus<br>Особливості</td> 
+      <td style="text-align: center;">Додаткова<br>напруга</td> 
+      <td style="text-align: center;">Відомі<br>маневри</td> 
+      <td style="text-align: center;">Ступінь<br>маневру</td> 
+      </tr> 
+      </thead> 
+      <tbody> 
+      <tr> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;"> 
+      <p>1d4</p> 
+      </td> 
+      <td style="text-align: center;"> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.wqcltzuwqink2dq5]{Adroit Defense}&nbsp; @UUID[Compendium.a5e-for-dnd5e.class-features.Item.sjprqaclatqthzlh]{Martial Arts}</p> 
+      </td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">1d4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.pcm01sl6ypp5j0zz]{Combat Maneuvers}&nbsp; @UUID[Compendium.a5e-for-dnd5e.class-features.Item.7898s0y00p4be1fw]{Exertion Focus}&nbsp; @UUID[Compendium.a5e-for-dnd5e.class-features.Item.ec1turlvb2g9ivgd]{Practiced Techniques}</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">1d4</td> 
+      <td style="text-align: center;">Adept Archetype&nbsp; @UUID[Compendium.a5e-for-dnd5e.class-features.Item.ous46a876n9yrgqi]{Battlefield Etiquette}&nbsp; @UUID[Compendium.a5e-for-dnd5e.class-features.Item.k9a86qhku4stw0kg]{Focus Feature}</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">1d4</td> 
+      <td style="text-align: center;">Ability Score Improvement<br>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.7xjj4fdmu7qvbh72]{Bonus Exertion (Adept)}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">1d6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.nzvdvnq1bf86p3eb]{Extra Attack}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">6ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">1d6</td> 
+      <td style="text-align: center;">Adept Archetype Feature</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">7ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">1d6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.u729rb1wfnlm6blo]{Empty Mind}</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">8ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">1d6</td> 
+      <td style="text-align: center;">Ability Score Improvements</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">9ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">1d6</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">10ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">1d6</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">11ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">1d8</td> 
+      <td style="text-align: center;">Adept Archetype Feature</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">12ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">1d8</td> 
+      <td style="text-align: center;">Ability Score Improvement</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">13ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">1d8</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.g4v2e5tdwp4nc84o]{Acquired Knowledge}</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">11</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">14ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">1d8</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">12</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">15ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">1d8</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.6n9s9xjyovuwubmt]{Great Reputation}</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">13</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">16ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">1d10</td> 
+      <td style="text-align: center;">Ability Score Improvement</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">14</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">17ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">1d10</td> 
+      <td style="text-align: center;">Adept Archetype Feature</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">15</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">18ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">1d10</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">16</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">19ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">1d10</td> 
+      <td style="text-align: center;">Ability Score Improvement</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">17</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      </tr> 
+      <tr> 
+      <td style="text-align: center;">20ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">1d10</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.erkupn5aotw8mkx2]{Великий майстер}</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">18</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      </tr> 
+      </tbody> 
+      </table> 
+      <h3>Очки здоров’я</h3> 
+      <p><strong>Кістки здоров’я: </strong>1d8 за кожний рівень адепта&nbsp;</p> 
+      <p><strong>Hit Points at 1st Рівень: </strong>8 + your Constitution модифікатор</p> 
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d8 (or 5) + your Constitution модифікатор за кожний рівень адепта після 1-го</p> 
+      <h3>Володіння</h3> 
+      <p><strong>Броня: </strong>None</p> 
+      <p><strong>Зброя: </strong>Simple weapons, punching daggers, shortswords, throwing daggers&nbsp;</p> 
+      <p><strong>Інструменти: </strong>Choose one type of artisan&rsquo;s tools or one musical instrument</p> 
+      <p><strong>Ряткидки: </strong>Strength, Dexterity&nbsp;</p> 
+      <p><strong>Навички: </strong>Choose two from Акробатика, Атлетика, Історія, Проникливість, Увага, Релігія, and Скрадання</p> 
+      <h3>Спорядження</h3> 
+      <p>Ти починаєш гру з 30 зм. Ти можеш обрати власне спорядження або взяти one of the following equipment packages. Також звернися до розділу «Рекомендоване Equipment section of your chosen background.</p> 
+      <ul> 
+      <li><strong>Dungeoneer&rsquo;s Set (Cost 18 зм): </strong>Quarterstaff, 10 darts, dungeoneer&rsquo;s pack</li> 
+      <li><strong>Explorer&rsquo;s Set (Cost 25 зм): </strong>Shortsword, 10 darts, explorer&rsquo;s pack</li> 
+      </ul>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  startingEquipment:
+    - _id: uwd6IxdP2M26BCq0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.tm8ugh49ag7vdfuw
+      count: 0
+      type: linked
+      group: ''
+    - _id: uwd6IxdP2M26BCq1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.d94u0mer0lymn2cq
+      count: 0
+      type: linked
+      group: ''
+  identifier: ''
+  levels: 1
+  hitDice: d8
+  hitDiceUsed: 0
+  advancement:
+    - _id: FRxVq2gmJq6bNazt
+      title: Очки здоров’я
+      type: HitPoints
+    - _id: KQHq5QQiCM5w36rY
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - weapon:mar:punchingdagger
+          - weapon:mar:shortsword
+          - weapon:mar:throwingdagger
+          - weapon:sim:*
+        choices: [ ]
+    - _id: HvAxZ2CkCJIukNaM
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - tool:art:*
+              - tool:music:*
+            count: 1
+    - _id: Hw6LetFqRelVnTIa
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - saves:str
+          - saves:dex
+        choices: [ ]
+    - _id: sYuv2vTxv4Qple4T
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - skills:acr
+              - skills:ath
+              - skills:his
+              - skills:ins
+              - skills:prc
+              - skills:ste
+              - skills:rel
+            count: 2
+    - _id: J0JYuKKdOgfPEgcm
+      type: ItemGrant
+      title: Особливості
+      level: 1
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.wqcltzuwqink2dq5
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.sjprqaclatqthzlh
+    - _id: 7IFlpApzU40Fd6eX
+      type: ItemGrant
+      title: Особливості
+      level: 2
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.pcm01sl6ypp5j0zz
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7898s0y00p4be1fw
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ec1turlvb2g9ivgd
+    - _id: BaslEebMZJ6DkINq
+      type: ItemGrant
+      title: Особливості
+      level: 3
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ous46a876n9yrgqi
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.k9a86qhku4stw0kg
+    - _id: gc786nJdCT0NJjqL
+      type: ItemGrant
+      title: Особливості
+      level: 5
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.nzvdvnq1bf86p3eb
+    - _id: 1zgk7Lm09DYvTW04
+      type: ItemGrant
+      title: Особливості
+      level: 7
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.u729rb1wfnlm6blo
+    - _id: oE4LegXFcOnxJOBZ
+      type: ItemGrant
+      title: Особливості
+      level: 13
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.g4v2e5tdwp4nc84o
+    - _id: f3YI9e6lu23CCYUJ
+      type: ItemGrant
+      title: Особливості
+      level: 15
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.6n9s9xjyovuwubmt
+    - _id: myx8LGijX4mvK0Yg
+      type: ItemGrant
+      title: Особливості
+      level: 20
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.erkupn5aotw8mkx2
+    - _id: ufUm7ECR4V2ZGTwH
+      type: ItemGrant
+      title: Особливості
+      level: 4
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7xjj4fdmu7qvbh72
+    - _id: lbbxtXmb3etv9uLM
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: c2R3pYeeKvMf5hsg
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: IC5gUHNoqnj2g1hi
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: XnHr3CusMlC3fNEg
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: hTOzX24bves3MDOZ
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: ruMsAePvi4DJ4Hsq
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: aJP9yO7cokHUMREm
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 5SRSrZZsLCzAe7hI
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: Sh57UMESZSxyw4C7
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: qPhFwgKD4LwzQYc0
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+  spellcasting:
+    ability: none
+    progression: martial
+  wealth: '30'
+effects: [ ]
+folder: null
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722026800161
+  modifiedTime: 1722027224452
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: wm7zgz8ck5c3e7c0
+_key: '!items!wm7zgz8ck5c3e7c0'

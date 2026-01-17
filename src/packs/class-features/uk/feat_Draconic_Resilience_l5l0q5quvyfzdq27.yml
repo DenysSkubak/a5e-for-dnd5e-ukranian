@@ -1,0 +1,36 @@
+name: Draconic Resilience
+type: feat
+img: icons/skills/melee/shield-block-fire-orange.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>The draconic magic that nestles within you has adapted your body to the harsh trials that lie&nbsp;between you and your destiny. Beginning at 1st level when you choose this archetype, your hit point maximum increases by 1, and increases by 1 again whenever you gain a level in this class. </p><p>In addition, when you aren’t wearing armor, your AC equals 13 + your Dexterity modifier. How exactly this fortitude manifests on your body can vary widely, but unless actively concealed it marks your connection to dragonkind.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723331832850
+  modifiedTime: 1723331896679
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: l5l0q5quvyfzdq27
+_key: '!items!l5l0q5quvyfzdq27'

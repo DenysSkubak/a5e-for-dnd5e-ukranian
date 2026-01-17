@@ -1,0 +1,46 @@
+name: Splint (Steel) +3
+type: equipment
+img: icons/equipment/chest/breastplate-layered-leather-studded-black.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: ''
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 30
+  price:
+    value: 24000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: veryRare
+  identified: true
+  armor:
+    value: 17
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 15
+  stealth: false
+  proficient: null
+  type:
+    value: heavy
+    baseItem: splint
+folder: TqzM6GRsfHr13lsw
+_id: 7oisdyu3fpi0lkdu
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!7oisdyu3fpi0lkdu'

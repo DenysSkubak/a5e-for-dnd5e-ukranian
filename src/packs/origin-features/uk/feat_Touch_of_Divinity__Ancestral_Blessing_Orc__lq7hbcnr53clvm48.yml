@@ -1,0 +1,33 @@
+name: Touch of Divinity (Ancestral Blessing Orc)
+type: feat
+img: icons/magic/defensive/shield-barrier-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You know the @UUID[Compendium.a5e-for-dnd5e.spells.Item.86re3h2jgfr45ml4]{Resistance} cantrip. In addition, you can cast the @UUID[Compendium.a5e-for-dnd5e.spells.Item.nlto7z4j14ips45w]{Shield} spell once per long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: z476XZt1iG4Mb7VJ
+_id: lq7hbcnr53clvm48
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!lq7hbcnr53clvm48'

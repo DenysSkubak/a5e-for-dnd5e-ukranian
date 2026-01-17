@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Stealthy Enchantment
+type: feat
+img: icons/magic/light/explosion-star-glow-silhouette.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You know the @UUID[Compendium.a5e-for-dnd5e.spells.Item.uyp8lageqgau1a4h]{Friends} cantrip. Once you reach 3rd level, you can cast @UUID[Compendium.a5e-for-dnd5e.spells.Item.zf1kpjwhg9fabe01]{Charm Person} once per long rest. You can cast these spells without components, and when casting them your spellcasting ability is your choice of Intelligence, Wisdom, or Charisma.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: takawh5dpaqnlscw
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!takawh5dpaqnlscw'

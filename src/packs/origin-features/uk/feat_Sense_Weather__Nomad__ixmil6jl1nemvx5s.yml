@@ -1,0 +1,33 @@
+name: Sense Weather (Nomad)
+type: feat
+img: icons/environment/settlement/tent.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>After observing an outside area for 1 minute, you can predict the weather within the next 24 hours. You cannot foresee magical changes, but you can use an action to make an Insight or Perception check to notice them.&nbsp;</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: ixmil6jl1nemvx5s
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ixmil6jl1nemvx5s'

@@ -1,0 +1,33 @@
+name: Merciless Mountaineering
+type: feat
+img: icons/environment/wilderness/terrain-rocks-brown.webp
+effects: [ ]
+folder: OpVlQm2oviOU6e9w
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency with either Acrobatics, Athletics, or Survival.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_id: zmf61dp0qajvtfwr
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!zmf61dp0qajvtfwr'

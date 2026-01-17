@@ -1,0 +1,97 @@
+name: Call to Arms
+type: feat
+img: icons/svg/item-bag.svg
+effects:
+  - icon: icons/svg/item-bag.svg
+    origin: Item.AuNTbpKWJSVi91JW
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: GqcYRA7iuqCLLcxF
+    transfer: false
+    name: Initiative Expertise
+    _id: DFWxG7uevzib6M1P
+    changes:
+      - key: system.attributes.initiative.expertiseDice
+        value: '1'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!er41ex4a0tofgbjk.DFWxG7uevzib6M1P'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at 6th level, when you roll initiative, you and each creature friendly to you that are within range of your Commanding Presence gain an expertise die to their initiative check. Additionally, when you roll for initiative, you can switch your result with that of any ally you can see.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: er41ex4a0tofgbjk
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!er41ex4a0tofgbjk'

@@ -1,0 +1,36 @@
+name: Weapon of Power
+type: feat
+img: icons/magic/symbols/runes-etched-steel-blade.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Your bonded artifact is a simple or martial weapon of your choice. You gain a +1 bonus to attack and damage rolls made with your bonded artifact. This bonus increases by 1 when you reach your 5th Wielder level (+2), 11th Wielder level (+3), and 17th Wielder level (+4).</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721931150252
+  modifiedTime: 1721931250622
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: uga2gmf3559332tw
+_key: '!items!uga2gmf3559332tw'

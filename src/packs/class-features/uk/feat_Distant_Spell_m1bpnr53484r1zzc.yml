@@ -1,0 +1,68 @@
+name: Distant Spell
+type: feat
+img: icons/magic/movement/trail-streak-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell. Alternatively, if you cast a spell that has a range of Touch, you can spend 1 sorcery point to make the range of the spell 20 feet.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721855838730
+  modifiedTime: 1721855880794
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: m1bpnr53484r1zzc
+_key: '!items!m1bpnr53484r1zzc'

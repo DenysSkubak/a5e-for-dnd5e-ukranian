@@ -1,0 +1,68 @@
+name: Parry and Thrust
+type: feat
+img: icons/skills/melee/strike-sword-slashing-red.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 7th level, you master the art of turning your opponent’s strikes against them. You treat any weapon with the Finesse property as if it also had the Parrying property. In addition, whenever you use your reaction to add an expertise die to your AC using a Parrying weapon and the triggering attack misses you, you may immediately spend an exertion point to make a melee weapon attack against the creature that attacked you.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723125294347
+  modifiedTime: 1723125343264
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 3g8z0lfqko61k8v6
+_key: '!items!3g8z0lfqko61k8v6'

@@ -1,0 +1,34 @@
+folder: OpVlQm2oviOU6e9w
+name: Necessary Skills
+type: feat
+img: icons/creatures/invertebrates/spider-web-black.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in either Deception or Insight and either Investigation or Perception.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#1'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: slhdispdj5j36r1m
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!slhdispdj5j36r1m'

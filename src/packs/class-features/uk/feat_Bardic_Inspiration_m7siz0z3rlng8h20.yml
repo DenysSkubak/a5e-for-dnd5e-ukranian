@@ -1,0 +1,112 @@
+name: Bardic Inspiration
+type: feat
+img: icons/skills/trades/music-singing-voice-blue.webp
+effects:
+  - origin: Item.kg6AcH4XpyTYFJJS
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: xwOUzSFb4AsBze4b
+        duration:
+          unit: minutes
+    transfer: false
+    name: Bardic Inspiration
+    _id: WstuQO0039Sg9M9t
+    changes: [ ]
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 600
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: "<p>Within the next 10 minutes, before or after\_rolling an ability check, attack roll, or saving<br />throw (but before the result is determined),\_the creature can roll the Bardic Inspiration<br />die and add the number rolled to the result. Once the Bardic Inspiration die is rolled, it is<br />expended. A creature can have only one\_Bardic Inspiration die at a time.</p>"
+    statuses: [ ]
+    img: icons/skills/trades/music-singing-voice-blue.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.329'
+      systemId: a5e
+      systemVersion: 0.19.18
+      createdTime: null
+      modifiedTime: 1721840940058
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!m7siz0z3rlng8h20.WstuQO0039Sg9M9t'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>A number of times equal to your Charisma&nbsp;modifier (minimum once) per long rest, you&nbsp;can use a bonus action to choose one&nbsp;creature other than yourself within 60 feet that can hear or see you. That creature&nbsp;gains a d6 Bardic Inspiration die.</p> 
+      <p>Within the next 10 minutes, before or after rolling an ability check, attack roll, or saving throw (but before the result is determined), the creature can roll the Bardic Inspiration&nbsp;die and add the number rolled to the result.&nbsp;Once the Bardic Inspiration die is rolled, it is&nbsp;expended. A creature can have only one&nbsp;Bardic Inspiration die at a time.&nbsp;</p> 
+      <p>At 5th level, your Bardic Inspiration die increases to a d8. At 10th level it increases&nbsp;to a d10, and at 15th level it increases to a&nbsp;d12.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: ''
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_stats:
+  coreVersion: '12.329'
+  systemId: a5e
+  systemVersion: 0.19.18
+  createdTime: 1721840693456
+  modifiedTime: 1721841076646
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: m7siz0z3rlng8h20
+_key: '!items!m7siz0z3rlng8h20'

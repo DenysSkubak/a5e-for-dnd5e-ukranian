@@ -1,0 +1,70 @@
+folder: null
+name: 'Channel Divinity: Forge Ahead'
+type: feat
+img: icons/environment/wilderness/cave-entrance-mountain-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 2nd level, you can use your Channel Divinity to remove afflictions from creatures you can see. As an action, you present your holy symbol and call out for guidance that removes the&nbsp;blinded</span>,&nbsp;charmed</span>,&nbsp;deafened</span>, and&nbsp;<span>frightened&nbsp;conditions, or one level of&nbsp;<span>fatigue&nbsp;or&nbsp;<span>strife, from one creature you choose within 30 feet of you.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 30
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722951415249
+  modifiedTime: 1722951470419
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: nnddjvhuiymynebk
+_key: '!items!nnddjvhuiymynebk'

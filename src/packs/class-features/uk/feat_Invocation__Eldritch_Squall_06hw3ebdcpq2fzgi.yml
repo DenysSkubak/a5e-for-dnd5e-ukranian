@@ -1,0 +1,33 @@
+name: 'Invocation: Eldritch Squall'
+type: feat
+img: icons/magic/lightning/bolt-strike-explosion-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You can use an action to unleash your Eldritch Blast against all creatures within a 30-foot cone. Each creature in the area makes a Dexterity saving throw, taking force damage equal to 1d10 &times; your proficiency bonus on a failure, or half damage on a success.</p><p>Once you use this feature, you cannot do so again until you finish a short or long rest. You also regain the use of this feature after you&rsquo;ve spent 5 spell points to cast a spell or use other features.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: 7th level, Eldritch Ray feature
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 06hw3ebdcpq2fzgi
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!06hw3ebdcpq2fzgi'

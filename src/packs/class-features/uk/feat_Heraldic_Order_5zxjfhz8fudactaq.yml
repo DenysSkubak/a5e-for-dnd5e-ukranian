@@ -1,0 +1,33 @@
+name: Heraldic Order
+type: feat
+img: icons/commodities/currency/coin-inset-crown-gold.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Whenever you would pay for a meal, room, or minor supplies (such as mundane ammunition) roll [[/r 1d6]]. On a result of 4 or higher the merchant recognizes you as a herald of an order they either fear or respect and charge you nothing. If you insist on paying, they may offer you information about individuals or places that might be of interest to your heraldic order.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 5zxjfhz8fudactaq
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5zxjfhz8fudactaq'

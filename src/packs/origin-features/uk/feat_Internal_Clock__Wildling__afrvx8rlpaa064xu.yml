@@ -1,0 +1,33 @@
+name: Internal Clock (Wildling)
+type: feat
+img: icons/environment/wilderness/island.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>By observing the environment when on your home plane, you can estimate the time of year down to within a week of the actual date. When you are outdoors, you know the time of day.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: afrvx8rlpaa064xu
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!afrvx8rlpaa064xu'

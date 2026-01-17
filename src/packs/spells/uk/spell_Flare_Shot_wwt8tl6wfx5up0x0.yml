@@ -1,0 +1,120 @@
+name: Flare Shot
+type: spell
+img: icons/magic/light/projectile-beam-yellow.webp
+system:
+  description:
+    value: >-
+      <p>Your shot glows brightly as it streaks toward its target.&nbsp;As part of the action used to cast this spell, make a ranged weapon attack against a target within range of your weapon. On a hit, the target takes normal weapon damage and sheds bright light to a range of 20 feet from its point of impact and dim light to a range of 40 feet from its point of impact.</p><p>Alternatively, you may fire the shot into the sky, where it slowly descends over the course of a minute, shedding bright light to a range of 100 feet and dim light to a range of 200 feet. If it impacts something, the ranges decrease to 20/40 feet as if you had fired it into a target.</p><p>You may only have one such light effect active at a time. If you cast the spell again, the prior target or shot stops glowing immediately.</p><p><strong><em>Cast at Higher Levels:</em></strong></p><p>At 5th level, the target takes an additional 1d4 points of <em>radiant</em> damage on a hit.&nbsp;At 11th level, the damage increases to 2d4.&nbsp;At 17th level, the damage increases to 3d4.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  level: 0
+  school: evo
+  properties:
+    - vocal
+    - somatic
+    - material
+  materials:
+    value: a ranged weapon
+    consumed: false
+    cost: 0
+    supply: 0
+  preparation:
+    mode: prepared
+    prepared: false
+  scaling:
+    mode: cantrip
+    formula: 1d4
+  activation:
+    type: action
+    cost: 1
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: 60
+    long: null
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - icon: icons/magic/light/projectile-beam-yellow.webp
+    origin: Item.wwt8tl6wfx5up0x0
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: JXdepH1j51zUPI3O
+        duration:
+          unit: minutes
+    transfer: false
+    name: Light
+    _id: R2sDkL9ZcWz4S6SQ
+    changes:
+      - key: '@token.light.bright'
+        value: '20'
+        mode: 6
+        priority: null
+      - key: '@token.light.dim'
+        value: '40'
+        mode: 6
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!wwt8tl6wfx5up0x0.R2sDkL9ZcWz4S6SQ'
+flags:
+  a5e-for-dnd5e:
+    secondarySchools:
+      - divine
+      - radiant
+      - weaponry
+    rareSpell: false
+folder: Tw5cqPbIxtfMfhDz
+_id: wwt8tl6wfx5up0x0
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!wwt8tl6wfx5up0x0'

@@ -1,0 +1,68 @@
+name: Overpowering Personality (Psych Out)
+type: feat
+img: icons/magic/control/buff-strength-muscle-damage-orange.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain an expertise die on Intimidation checks. As an action, you can make an Intimidation check opposed by the Charisma check of a creature that can see you. On a success, the next attack roll or opposed ability check you make against that creature within the next 10 minutes is made with advantage. Once you&rsquo;ve failed an opposed Intimidation check, you can&rsquo;t use this feature again until you finish a long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: cha
+  actionType: abil
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: ia33eofo2cz4dv7e
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ia33eofo2cz4dv7e'

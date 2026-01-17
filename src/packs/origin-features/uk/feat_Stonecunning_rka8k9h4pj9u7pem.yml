@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Stonecunning
+type: feat
+img: icons/skills/trades/construction-mason-stonecutter-sculpture.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Whenever you make a History check related to the origin of stonework, you are considered proficient in the History skill and gain an&nbsp;expertise die.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: rka8k9h4pj9u7pem
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!rka8k9h4pj9u7pem'

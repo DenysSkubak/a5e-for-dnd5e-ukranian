@@ -1,0 +1,33 @@
+name: 'Invocation: Versatile Blast'
+type: feat
+img: icons/magic/lightning/bolt-strike-purple-pink.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You learn an additional Eldritch Blast feature of your choice.</p><p>You can take this invocation a second and third time, each time learning a new Eldritch Blast feature.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: fqmwv2z4fabmfzsz
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!fqmwv2z4fabmfzsz'

@@ -1,0 +1,36 @@
+folder: null
+name: Inspired Explorer
+type: feat
+img: icons/environment/wilderness/cave-entrance-mountain-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 1st level, you always know which direction is north. You gain proficiency in Survival, and you gain an&nbsp;expertise die</span>&nbsp;on Survival checks you make to navigate through mazes.</p><p>Additionally, whenever you cast a divination spell of 1st-level or higher, you gain an&nbsp;<span>expertise die that you can apply to one Intelligence or Wisdom ability check you make within the next 10 minutes. You can possess only one expertise die gained in this way at a time.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722951352411
+  modifiedTime: 1722951371295
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ez5ygqhw0sjn4fye
+_key: '!items!ez5ygqhw0sjn4fye'

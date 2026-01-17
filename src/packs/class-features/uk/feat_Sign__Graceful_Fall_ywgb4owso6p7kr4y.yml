@@ -1,0 +1,33 @@
+name: 'Sign: Graceful Fall'
+type: feat
+img: icons/creatures/birds/songbird-yellow-flying.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Falling from a height greater than 30 feet causes your greater entity to intervene. You are protected as if by the <em>feather fall</em> spell. This sign does not use your reaction.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: ywgb4owso6p7kr4y
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ywgb4owso6p7kr4y'

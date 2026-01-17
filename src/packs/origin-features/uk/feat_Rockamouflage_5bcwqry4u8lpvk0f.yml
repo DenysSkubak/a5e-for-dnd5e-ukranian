@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Rockamouflage
+type: feat
+img: icons/magic/earth/barrier-stone-brown-green.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You are proficient with Stealth. You gain an&nbsp;expertise die</span>&nbsp;on Stealth checks made to hide in a rocky environment. Your companions also gain this&nbsp;<span>expertise die, provided you can see them and they are within 30 feet of you.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: 5bcwqry4u8lpvk0f
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5bcwqry4u8lpvk0f'

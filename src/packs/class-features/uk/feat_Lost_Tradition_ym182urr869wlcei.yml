@@ -1,0 +1,36 @@
+name: Lost Tradition
+type: feat
+img: icons/sundries/scrolls/scroll-yellow-teal.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 3rd level, choose a combat tradition you are not proficient in. You become proficient in that tradition. When you use a combat maneuver that requires a weapon with a particular property (such as finesse or heavy), your unarmed strikes count as having that property.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722287470248
+  modifiedTime: 1722287473129
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: ym182urr869wlcei
+_key: '!items!ym182urr869wlcei'

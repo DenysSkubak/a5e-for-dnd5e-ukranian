@@ -1,0 +1,33 @@
+folder: OpVlQm2oviOU6e9w
+name: Expert Forager
+type: feat
+img: icons/consumables/mushrooms/umbontae-green.webp
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Once per&nbsp;long rest</span>, you can spend 4 hours of time to locate&nbsp;<span>Supply for yourself and one other creature, or magical reagents worth up to 5 gold.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: r6sptkyp9pbe3qfs
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!r6sptkyp9pbe3qfs'

@@ -1,0 +1,490 @@
+folder: null
+name: Берсерк
+type: class
+img: icons/skills/melee/strike-hammer-destructive-orange.webp
+system:
+  description:
+    value: >-
+      <p><strong>Таблиця: Берсерк</strong></p> 
+      <table style="width: 100%;" border="1"><colgroup><col style="width: 8.89749%;"><col style="width: 9.8646%;"><col style="width: 13.7331%;"><col style="width: 9.67118%;"><col style="width: 13.5397%;"><col style="width: 11.412%;"><col style="width: 17.2147%;"><col style="width: 15.6673%;"></colgroup> 
+      <thead> 
+      <tr style="height: 33.5938px;"> 
+      <td style="text-align: center;">Рівень</td> 
+      <td style="text-align: center;">Бонус<br>майстерності</td> 
+      <td style="text-align: center;">Особливості</td> 
+      <td style="text-align: center;">Rages</td> 
+      <td style="text-align: center;">Rage&nbsp;Hit<br>Points</td> 
+      <td style="text-align: center;">Talents<br>Known</td> 
+      <td style="text-align: center;">Відомі<br>маневри</td> 
+      <td style="text-align: center;">Ступінь<br>маневру</td> 
+      </tr> 
+      </thead> 
+      <tbody> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.9s8qxfmcfqke6q0c]{Battle Defense} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.e588dy6ef1q49kq2]{Developed Talents} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.htgvror5v9twusgs]{Rage (X/long rest)}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.zrs8vkf574mvulkg]{Combat Maneuvers} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.jx8ahep4je8esb92]{Danger Sense} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl]{Furious Critical}</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">1</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.gn4kg877sckxtfn9]{Versatile Exploration} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.jrf21ub1qonhh11q]{Warrior Born} Berserker Archetype</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">Ability Score Improvement @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl]{Furious Critical}</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.ncx1gkqpz5dypxx8]{Crushing Blows} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.q1v63h8j4a87n3t0]{Extra Attack}</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">6ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">Berserker Archetype Feature @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl]{Furious Critical} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.irccnw9xj2ds9t79]{Martial Presence}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">7ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.5gz1xepkt48d2alg]{Advanced Battle Defense}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">8ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">Ability Score Improvement @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl]{Furious Critical}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">9ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.crfexgkjgjp5fcm0]{Battle Moxie}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">10ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">Berserker Archetype Feature @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl]{Furious Critical}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">11ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.8qpi6h8l8g3a52b1]{School of the Open Road}</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">12ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">Ability Score Improvement @UUID[Compendium.a5e-for-dnd5e.class-features.Item.ncx1gkqpz5dypxx8]{Crushing Blows} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl]{Furious Critical}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">13ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.6tvh98uofh8t7an9]{Notable Reputation}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">14ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">Berserker Archetype Feature @UUID[Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl]{Furious Critical}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">15ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.ysuu60w7hjdplhyk]{Prickly Mind}</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">16ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">Ability Score Improvement</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">17ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.ncx1gkqpz5dypxx8]{Crushing Blows}@UUID[Compendium.a5e-for-dnd5e.class-features.Item.1hlys25939krcp58]{Reliable Might}</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">18ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl]{Furious Critical}</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">19ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">Ability Score Improvement</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">11</td> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">20ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.4udjcfge83gs304g]{Paragon of Rage}</td> 
+      <td style="text-align: center;">Unlimited</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">11</td> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      </tr> 
+      </tbody> 
+      </table> 
+      <h3>Очки здоров’я</h3> 
+      <p><strong>Кістки здоров’я: </strong>1d12 за кожний рівень берсерка</p> 
+      <p><strong>Hit Points at 1st Рівень: 12</strong> + your Constitution модифікатор</p> 
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d12 (or 7) + your Constitution модифікатор per berserker level after first</p> 
+      <h3>Володіння</h3> 
+      <p><strong>Armor:&nbsp;</strong>Light armor, medium armor, shields</p> 
+      <p><strong>Weapons:&nbsp;</strong>Simple weapons, martial weapons</p> 
+      <p><strong>Tools:&nbsp;</strong>None</p> 
+      <p><strong>Saving Throws:&nbsp;</strong>Strength, Constitution</p> 
+      <p><strong>Skills:&nbsp;</strong>Choose four from Поводження з тваринами, Атлетика, Залякування, Природа, Увага, Скрадання, and Виживання</p> 
+      <h3>Спорядження</h3> 
+      <p>You begin the game with 120 gold which you can spend on your character&rsquo;s starting weapons, armor, and adventuring gear. You can select your own gear or choose one of the following equipment packages. Також звернися до розділу «Рекомендоване Equipment section of your chosen background.</p> 
+      <ul> 
+      <li><strong>Rugged Explorer&rsquo;s Set (Cost 118 gold): </strong>Greatsword, 4 javelins, spear, hide, medium shield, climbing gear, explorer&rsquo;s pack</li> 
+      <li><strong>Tracker&rsquo;s Set (Cost 117 gold): </strong>Greataxe, shortbow and quiver with 20 arrows, chain shirt, explorer&rsquo;s pack</li> 
+      </ul>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  startingEquipment:
+    - _id: YShVv0lqvkDvC2D0
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.d9api5kzm8udtv9d
+      count: 0
+      type: linked
+      group: ''
+    - _id: YShVv0lqvkDvC2D1
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.c1e6un51n45mql9g
+      count: 0
+      type: linked
+      group: ''
+  identifier: ''
+  levels: 1
+  hitDice: d12
+  hitDiceUsed: 0
+  advancement:
+    - _id: FRxVq2gmJq6bNazt
+      title: Очки здоров’я
+      type: HitPoints
+    - _id: iluMrcA2fyctCTUa
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - armor:lgt
+          - armor:med
+          - armor:shield
+        choices: [ ]
+    - _id: oIdKtqpngKnJd7kC
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - weapon:sim:*
+          - weapon:mar:*
+        choices: [ ]
+    - _id: A3I1gSDRVcTu6uIy
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - saves:str
+          - saves:con
+        choices: [ ]
+    - _id: 0YmrPVBbUF0YR6Eh
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - skills:ani
+              - skills:ath
+              - skills:itm
+              - skills:nat
+              - skills:prc
+              - skills:ste
+              - skills:sur
+            count: 4
+    - _id: uvOL7ZVe5Yh1e40f
+      type: ItemGrant
+      title: Особливості
+      level: 1
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.e588dy6ef1q49kq2
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.htgvror5v9twusgs
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.9s8qxfmcfqke6q0c
+    - _id: 4MC1SE8oDsL1m2oN
+      type: ItemGrant
+      title: Особливості
+      level: 2
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.zrs8vkf574mvulkg
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.jx8ahep4je8esb92
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.9txksq0xfe5sgspl
+    - _id: 6Kr3ak4ydetxo284
+      type: ItemGrant
+      title: Особливості
+      level: 3
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.gn4kg877sckxtfn9
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.jrf21ub1qonhh11q
+    - _id: mXjLpo5P1CZk9jlH
+      type: ItemGrant
+      title: Особливості
+      level: 5
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ncx1gkqpz5dypxx8
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.q1v63h8j4a87n3t0
+    - _id: z4KuPaM3nqnlR0yC
+      type: ItemGrant
+      title: Особливості
+      level: 6
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.irccnw9xj2ds9t79
+    - _id: Coch1CzhpJhH1BuL
+      type: ItemGrant
+      title: Особливості
+      level: 7
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.5gz1xepkt48d2alg
+    - _id: a0QLOWS28dwfRMY8
+      type: ItemGrant
+      title: Особливості
+      level: 9
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.crfexgkjgjp5fcm0
+    - _id: dhJOetfXAwq6frS7
+      type: ItemGrant
+      title: Особливості
+      level: 11
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.8qpi6h8l8g3a52b1
+    - _id: 8Na2xxIxq33SOflP
+      type: ItemGrant
+      title: Особливості
+      level: 13
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.6tvh98uofh8t7an9
+    - _id: EzMQ4cc4cnJlWBPJ
+      type: ItemGrant
+      title: Особливості
+      level: 15
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.ysuu60w7hjdplhyk
+    - _id: B0iis9tQqvztjZVb
+      type: ItemGrant
+      title: Особливості
+      level: 17
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.1hlys25939krcp58
+    - _id: GeYDXLYCyniqedTB
+      type: ItemGrant
+      title: Особливості
+      level: 20
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.4udjcfge83gs304g
+    - _id: 0RtmNIzGxuTyFEHx
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: l4XqyArmH2QqLyqJ
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 50VyyRGGHAEzd8Ax
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: dKeYS3Qng0ZXEsaF
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: lq0TxJuxpuHTWOqd
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: F1W4gvugqDYCGbCG
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: SCzH5ToX4lM9wTE8
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: TpJd8jLHT0czwwPv
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: Pw4nCK0eohvknsuX
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: SAA4EwntN0DSVzKJ
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+  spellcasting:
+    ability: none
+    progression: martial
+  wealth: '120'
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722027286717
+  modifiedTime: 1722027356758
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: njx7v93mw5bzpwwe
+_key: '!items!njx7v93mw5bzpwwe'

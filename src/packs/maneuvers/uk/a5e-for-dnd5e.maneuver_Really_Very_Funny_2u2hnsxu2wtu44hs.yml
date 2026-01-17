@@ -1,0 +1,64 @@
+folder: fYbSVyCCY3oCUp66
+name: Really Very Funny
+type: a5e-for-dnd5e.maneuver
+img: icons/consumables/fruit/tomato-ripe-red.webp
+system:
+  description:
+    value: >-
+      <p>A little bit of slipping, an ungainly flip, or a teetering and unlikely turn disorients even the most perceptive of opponents.</p><p>Until the end of your next turn, creatures able to see your routine have&nbsp;disadvantage on Insight checks and saving throws made against enchantment spells.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#19'
+  degree: 4
+  tradition: coj
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 4
+  activation:
+    type: action
+    cost: 1
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_id: 2u2hnsxu2wtu44hs
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!2u2hnsxu2wtu44hs'

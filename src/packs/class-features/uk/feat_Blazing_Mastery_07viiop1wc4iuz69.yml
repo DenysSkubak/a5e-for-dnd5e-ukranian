@@ -1,0 +1,33 @@
+name: Blazing Mastery
+type: feat
+img: icons/magic/fire/explosion-flame-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 10th level, your flames can scorch even those typically resilient to them. Fire damage from your spells treats immunity to fire as though it were fire resistance, and ignores fire resistance entirely. Additionally, you gain resistance to fire damage, and you ignore fire damage dealt by your own spells.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 07viiop1wc4iuz69
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!07viiop1wc4iuz69'

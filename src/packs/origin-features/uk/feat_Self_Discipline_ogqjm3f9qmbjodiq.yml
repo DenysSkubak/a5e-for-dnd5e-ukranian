@@ -1,0 +1,33 @@
+name: Self-Discipline
+type: feat
+img: icons/weapons/polearms/spear-flared-bronze-teal.webp
+effects: [ ]
+folder: OpVlQm2oviOU6e9w
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain an expertise die on saving throws made to resist being charmed or frightened.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+_id: ogqjm3f9qmbjodiq
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!ogqjm3f9qmbjodiq'

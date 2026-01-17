@@ -1,0 +1,68 @@
+name: Ambush Predator
+type: feat
+img: icons/creatures/invertebrates/spider-skull-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 6th level, once per turn when you hit a creature that is unaware of your presence with an unarmed strike or weapon attack made with an adept weapon, you can spend exertion to deal additional damage to it. Each point of exertion you spend increases the additional damage you deal by an amount equal to your martial arts die. When you use this ability, you can spend a number of exertion points up to your proficiency bonus.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+folder: null
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722269360255
+  modifiedTime: 1722269533041
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: bimndjkzw0l3qy0y
+_key: '!items!bimndjkzw0l3qy0y'

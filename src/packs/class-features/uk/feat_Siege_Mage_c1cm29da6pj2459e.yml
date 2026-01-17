@@ -1,0 +1,33 @@
+folder: null
+name: Siege Mage
+type: feat
+img: icons/magic/earth/projectile-spiked-stone-boulder-brown.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Additionally at level 6, your spells deal double damage to inanimate objects such as walls, doors, and structures.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: c1cm29da6pj2459e
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!c1cm29da6pj2459e'

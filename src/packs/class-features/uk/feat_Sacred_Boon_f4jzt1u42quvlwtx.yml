@@ -1,0 +1,42 @@
+name: Sacred Boon
+type: feat
+img: icons/magic/holy/projectiles-blades-salvo-yellow.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 11th level, when you perform specific acts of physical and martial prowess, you attract the attention of powerful otherworldly beings&mdash; entities that you can call upon for power. Choose three of the following benefits:</p> 
+      <p><strong>Boon of Death.</strong> The favor of gods of death falls upon you whenever you take a life. When you reduce a living creature to 0 hit points, you can use your reaction to spend 2 exertion and gain a number of temporary hit points equal to your martial arts die plus your proficiency bonus. In addition, you have advantage on death saving throws for 1 minute.</p> 
+      <p><strong>Boon of Hunting.</strong> When you succeed on a Survival check to Hunt and Gather, you find yourself under the favor of hunting gods and gather twice as much Supply.</p> 
+      <p><strong>Boon of Love.</strong> When you succeed on a Persuasion check against a creature indifferent to you, gods of love show you favor. You can spend 3 exertion to make an indifferent creature friendly towards you for 1 hour.</p> 
+      <p><strong>Boon of Speed.</strong> When you move more than your Speed during your turn, you find yourself under the favor of speed gods and can use your reaction to spend 2 exertion and take the Dodge action.</p> 
+      <p><strong>Boon of Tactics.</strong> When you make an opportunity attack against a creature, gods of battle show you favor. You can spend 2 exertion to gain advantage on the opportunity attack.</p> 
+      <p><strong>Boon of War.</strong> When you score a critical hit against a creature, you find yourself under the favor of war gods and can use your reaction to spend 2 exertion and acquire this boon. Your next successful melee weapon attack deals additional damage equal to your martial arts die plus your proficiency bonus.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722286737713
+  modifiedTime: 1722286852396
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: f4jzt1u42quvlwtx
+_key: '!items!f4jzt1u42quvlwtx'

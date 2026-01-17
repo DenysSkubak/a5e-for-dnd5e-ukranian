@@ -1,0 +1,36 @@
+folder: null
+name: Gut Feeling
+type: feat
+img: icons/skills/social/wave-halt-stop.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p id="docs-internal-guid-f654c4dc-7fff-7d26-8ff3-0bc95e71cb5e" dir="ltr">At 6th level, you instinctively know when something threatens your allies. You gain proficiency in Insight and Perception, or an expertise die with these skills if you are already proficient, and you may add your Constitution modifier to checks made with these skills (even if you already do, such as if you later choose the @UUID[Compendium.a5e-for-dnd5e.class-features.Item.q6eolf38s99c0df3]{Don&rsquo;t Get Fooled Again} feature). In addition, you cannot be surprised while you are conscious.</p>
+    chat: ''
+  source:
+    book: Secrets of the Selkies
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722796109981
+  modifiedTime: 1722796151476
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 22kbd0wscapyhk0a
+_key: '!items!22kbd0wscapyhk0a'

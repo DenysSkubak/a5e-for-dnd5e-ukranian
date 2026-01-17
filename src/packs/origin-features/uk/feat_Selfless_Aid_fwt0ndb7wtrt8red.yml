@@ -1,0 +1,68 @@
+name: Selfless Aid
+type: feat
+img: icons/magic/symbols/ring-circle-smoke-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: destiny
+    subtype: ''
+  description:
+    value: >-
+      <p>Your aid is a lifeline and a steadying source of resolve.</p><p>Whenever you take the Help action to aid an ally attacking a creature, you may spend your inspiration. If you do, in addition to the normal benefits of the Help action, that creature has disadvantage on attack rolls against creatures other than you until the start of your next turn.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: special
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: Czqb9fe3C11A0mge
+_id: fwt0ndb7wtrt8red
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!fwt0ndb7wtrt8red'

@@ -1,0 +1,37 @@
+name: Exceptional Poise
+type: feat
+img: icons/skills/melee/maneuver-daggers-paired-orange.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 13th level, your combat poise can achieve remarkable things. Choose one of the following, or one of the combat poise options available at 2nd or 5th level.</p> 
+      <h2>Confounding Defense</h2> 
+      <p>The first time each round that you use an aegis, you can immediately prepare another aegis trick.</p> 
+      <h2>The Opportune Moment</h2> 
+      <p>On your turn, you can take one additional action. You cannot use this ability on the first round of combat. After you use this feature, you cannot use it again until you complete a short or long rest.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: 31uvhl7cngfcia85
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!31uvhl7cngfcia85'

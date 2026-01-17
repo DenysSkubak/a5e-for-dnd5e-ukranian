@@ -1,0 +1,33 @@
+name: The Ken (Kithbáin Halfling)
+type: feat
+img: icons/environment/wilderness/terrain-forest-gray.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Once the voices of the ken fill your eyes they never truly leave you. You can cast telepathic bond without the need for material components once per long rest.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: 390skhepxrb67mjs
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!390skhepxrb67mjs'

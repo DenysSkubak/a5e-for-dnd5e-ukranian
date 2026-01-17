@@ -1,0 +1,47 @@
+name: Chain Shirt (Steel) +1
+type: equipment
+img: icons/commodities/metal/mail-chain-steel.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p><em>Low-Maintenance (Expertise Die)</em></p><p><strong>AC 13 (DEX +2 max)</strong></p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 15
+  price:
+    value: 150
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: uncommon
+  identified: true
+  armor:
+    value: 14
+    dex: 2
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: medium
+    baseItem: chainshirt
+folder: TqzM6GRsfHr13lsw
+_id: 5ye5wck6hbgu8ysa
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5ye5wck6hbgu8ysa'

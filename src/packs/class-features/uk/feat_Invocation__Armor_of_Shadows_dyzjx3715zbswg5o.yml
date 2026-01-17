@@ -1,0 +1,33 @@
+name: 'Invocation: Armor of Shadows'
+type: feat
+img: icons/magic/defensive/shield-barrier-glowing-triangle-magenta.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You are under the constant effects of the&nbsp;<em>mage armor</em>&nbsp;spell. This effect does not emit a magical aura.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: dyzjx3715zbswg5o
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!dyzjx3715zbswg5o'

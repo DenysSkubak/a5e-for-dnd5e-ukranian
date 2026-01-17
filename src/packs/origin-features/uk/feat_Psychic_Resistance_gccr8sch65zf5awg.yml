@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Psychic Resistance
+type: feat
+img: icons/creatures/slimes/bubbling-purple.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: >-
+      <p>You have&nbsp;resistance</span>&nbsp;to psychic damage. Additionally, you gain proficiency with Intelligence&nbsp;<span>saving throws.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: gccr8sch65zf5awg
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!gccr8sch65zf5awg'

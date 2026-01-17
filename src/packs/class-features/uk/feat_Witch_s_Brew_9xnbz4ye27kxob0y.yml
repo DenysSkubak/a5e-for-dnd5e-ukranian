@@ -1,0 +1,69 @@
+name: Witch’s Brew
+type: feat
+img: icons/tools/laboratory/cauldron-empty-black.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Witches have a unique mastery of magical potions and drawing out the eldritch properties of consumable draughts.</p> 
+      <p>At 5th<sup> </sup>level you gain proficiency with alchemist supplies, or an expertise die if already proficient. When crafting potions using alchemist supplies, you reduce the time and gold worth of basic materials required to do so by half.</p> 
+      <p>In addition, if you have access to a cauldron or alchemist supplies and basic ingredients of negligible cost, over the course of a short rest you can brew a number of <em style="mso-bidi-font-style: normal;">@UUID[Compendium.a5e-for-dnd5e.gear.Item.yla4i7uz4h58mfqb]{Healing Potions (Basic)} @UUID[Compendium.a5e-for-dnd5e.gear.Item.zo4qsvuerlmzhu6r]{Potions of Climbing} </em>or<em style="mso-bidi-font-style: normal;"> @UUID[Compendium.a5e-for-dnd5e.gear.Item.fizsr2r2cjjsshw5]{Vials of Beauty}</em>&nbsp;equal to your proficiency bonus. All potions brewed in this way must be the same type and they are unstable, losing their potency if unused when you complete a long rest, or after 24 hours. Once you have done so, you cannot do so again until you finish a long rest.</p> 
+      <p>Starting at level 13, you may instead brew @UUID[Compendium.a5e-for-dnd5e.gear.Item.nees9nzonritxzwe]{Healing Potions (Greater)}<em style="mso-bidi-font-style: normal;"> @UUID[Compendium.a5e-for-dnd5e.gear.Item.wa137h3xn5hxb1gr]{Potions of Animal Friendship} @UUID[Compendium.a5e-for-dnd5e.gear.Item.8lcxc857ufnzwsqj]{Potions of Water Breathing} </em>or<em style="mso-bidi-font-style: normal;"> @UUID[Compendium.a5e-for-dnd5e.gear.Item.l08cs22djbpd8n1z]{Philters of Love}</em>&nbsp;and each potion you brew with this ability may be a different type.</p> 
+      <p>At level 17, you may instead brew @UUID[Compendium.a5e-for-dnd5e.gear.Item.3gmfg4fsi8abv1ej]{Healing Potions (Superior)}<em style="mso-bidi-font-style: normal;"> @UUID[Compendium.a5e-for-dnd5e.gear.Item.964z2vpuz7rw6ykh]{Potions of Growth} @UUID[Compendium.a5e-for-dnd5e.gear.Item.tzxo6p6wsulunhij]{Potions of Diminution} @UUID[Compendium.a5e-for-dnd5e.gear.Item.jvuyu85h36fatbke]{Oils of Slipperiness} @UUID[Compendium.a5e-for-dnd5e.gear.Item.m0p6ej3tfj9kzjy6]{Potions of Hill Giant Strength} </em>or<em style="mso-bidi-font-style: normal;"> @UUID[Compendium.a5e-for-dnd5e.gear.Item.eg0klwzo704ointv]{Potions of Heroism}</em>.</p>
+    chat: ''
+  source:
+    book: Mysterious and Marvelous Miscellanea
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_id: 9xnbz4ye27kxob0y
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!9xnbz4ye27kxob0y'

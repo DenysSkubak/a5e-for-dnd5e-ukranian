@@ -1,0 +1,110 @@
+name: Wrath of the Gods
+type: feat
+img: icons/magic/light/explosion-beam-impact-silhouette.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 14th level, you gain the benefits of a @UUID[Compendium.a5e-for-dnd5e.spells.xnm2hvlfzqp792tz]{Bless} spell whenever you enter a rage. This version of the spell counts as 7th level, does not require concentration, and lasts for the duration of the rage or until dispelled.</p><p>In addition, if you chose radiant as your damage type you gain your choice of the Lawful, Good, or Lawful and Good alignment traits. If you chose necrotic damage you gain your choice of the Evil, Chaotic, or Chaotic and Evil alignment traits.</p>
+    chat: ''
+  source:
+    book: Heroes Old and New
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.tAH9Kb1ZS7Ofx91W
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: Hfy3ba6x5LbzqSCC
+        applyToSelf: true
+    transfer: false
+    name: Wrath of the Gods
+    img: icons/magic/light/explosion-beam-impact-silhouette.webp
+    _id: XUh3SgoOTvAyTmTZ
+    type: base
+    system: { }
+    changes:
+      - key: system.bonuses.mwak.attack
+        value: 1d4
+        mode: 0
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: <p>You gain the benefits of a bless spell whenever you enter a rage.</p>
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722945131816
+      modifiedTime: 1722945214111
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!kftl6gpngac5i260.XUh3SgoOTvAyTmTZ'
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722944202452
+  modifiedTime: 1722945131868
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: kftl6gpngac5i260
+_key: '!items!kftl6gpngac5i260'

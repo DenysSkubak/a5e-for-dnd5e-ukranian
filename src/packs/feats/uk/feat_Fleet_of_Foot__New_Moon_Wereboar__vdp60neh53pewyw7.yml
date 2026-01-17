@@ -1,0 +1,33 @@
+name: Fleet of Foot (New Moon Wereboar)
+type: feat
+img: icons/creatures/mammals/livestock-pig-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: feat
+    subtype: ''
+  description:
+    value: <p>Your Speed increases by 10 feet.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: vdp60neh53pewyw7
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!vdp60neh53pewyw7'

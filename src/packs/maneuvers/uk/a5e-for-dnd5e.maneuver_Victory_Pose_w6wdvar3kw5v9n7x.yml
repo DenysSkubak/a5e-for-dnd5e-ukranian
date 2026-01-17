@@ -1,0 +1,64 @@
+name: Victory Pose
+type: a5e-for-dnd5e.maneuver
+img: icons/magic/perception/eye-ringed-green.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>Your victory pose spurs your allies.</p><p>Choose a weapon when you learn this combat maneuver. When you score a critical hit with this weapon, you can use your reaction to pose dramatically as you finish the strike.</p><p>As you dramatically pose, choose a number of allies equal to your proficiency bonus that you can see within 30 feet. The chosen allies have advantage on the next death saving throw each makes before the end of combat.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  degree: 1
+  tradition: uwh
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 1
+  activation:
+    type: reaction
+    cost: 1
+    condition: When you score a critical hit with this weapon.
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 30
+    long: null
+    units: ft
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: In1zulOFJwEg6Dnl
+_id: w6wdvar3kw5v9n7x
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!w6wdvar3kw5v9n7x'

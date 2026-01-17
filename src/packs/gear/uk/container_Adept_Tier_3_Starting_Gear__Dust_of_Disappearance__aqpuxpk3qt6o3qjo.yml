@@ -1,0 +1,39 @@
+folder: juYjTH85siuKSM9j
+name: Adept Tier 3 Starting Gear (Dust of Disappearance)
+type: container
+img: icons/skills/melee/unarmed-punch-fist-yellow-red.webp
+system:
+  description:
+    value: <p>Also includes 1500 gp.</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 7000
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: rare
+  identified: true
+  capacity:
+    type: weight
+    value: null
+    weightless: false
+  currency:
+    cp: 0
+    sp: 0
+    ep: 0
+    gp: 0
+    pp: 0
+effects: [ ]
+flags: { }
+_id: aqpuxpk3qt6o3qjo
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!aqpuxpk3qt6o3qjo'

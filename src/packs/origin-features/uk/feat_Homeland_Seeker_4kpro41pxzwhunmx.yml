@@ -1,0 +1,33 @@
+name: Homeland Seeker
+type: feat
+img: icons/environment/settlement/wagon-black.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>Stories of a lost magical homeland are constantly on the minds of your community. Like many others, you have joined the effort to locate this place of legends. You gain proficiency in Arcana and History.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: 4kpro41pxzwhunmx
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!4kpro41pxzwhunmx'

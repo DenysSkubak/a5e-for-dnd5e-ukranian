@@ -1,0 +1,68 @@
+name: Guardian of the Depths
+type: feat
+img: icons/magic/water/water-elemental-blue-teeth.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At level 14, you can transform yourself into a powerful denizen of the depths. When you use Wild Shape, you can instead spend 2 uses to transform into a @UUID[Compendium.a5e.a5e-monsters.Actor.m6oqt6ck11niwcff]{Plesiosaurus}, or 4 uses to transform into a @UUID[Compendium.a5e.a5e-monsters.Actor.ev664zs4nll03ybn]{Young River Dragon}. At level 20, when you use Wild Shape you can spend 6 uses to transform into an @UUID[Compendium.a5e.a5e-monsters.Actor.89ons9dm94ikkb1l]{Adult River Dragon}.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation: { }
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722968849864
+  modifiedTime: 1722968927220
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 47jpuhd7wuslhegh
+_key: '!items!47jpuhd7wuslhegh'

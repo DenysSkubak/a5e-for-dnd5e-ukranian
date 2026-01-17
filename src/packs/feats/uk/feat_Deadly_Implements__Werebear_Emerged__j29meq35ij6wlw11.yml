@@ -1,0 +1,33 @@
+name: Deadly Implements (Werebear Emerged)
+type: feat
+img: icons/creatures/abilities/bear-roar-bite-brown-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: feat
+    subtype: ''
+  description:
+    value: <p>Your bite and claw attacks both deal an extra 1d6 slashing damage.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: j29meq35ij6wlw11
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!j29meq35ij6wlw11'

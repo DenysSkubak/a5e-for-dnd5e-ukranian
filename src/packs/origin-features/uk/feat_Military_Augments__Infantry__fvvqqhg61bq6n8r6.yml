@@ -1,0 +1,33 @@
+folder: z476XZt1iG4Mb7VJ
+name: Military Augments (Infantry)
+type: feat
+img: icons/commodities/metal/arrowhead-steel.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: <p>You have a crawl speed equal to your Speed.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: fvvqqhg61bq6n8r6
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!fvvqqhg61bq6n8r6'

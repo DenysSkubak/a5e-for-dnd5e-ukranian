@@ -1,0 +1,33 @@
+name: Studied Discipline - Mathematics (Collegiate)
+type: feat
+img: icons/environment/settlement/city-hall.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in Engineering. In addition, once between rests, you can spend a full uninterrupted minute observing an environment, at the end of which you can use the Ricochet combat maneuver without spending exertion.</p><p>You always choose which ability score to use for rolls (Intelligence, Wisdom, or Charisma).</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: m65wiyosofr4n5j4
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!m65wiyosofr4n5j4'

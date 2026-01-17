@@ -1,0 +1,68 @@
+name: Necrotic Grip
+type: a5e-for-dnd5e.maneuver
+img: icons/magic/unholy/hand-claw-glow-orange.webp
+system:
+  description:
+    value: >-
+      <p>Your grip can wither flesh from bone. When you are&nbsp;grappling&nbsp;an opponent, you can use your reaction to deal necrotic damage equal to 1d8 + your Charisma modifier in place of basic melee damage.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#11'
+  degree: 2
+  tradition: elb
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 2
+  activation:
+    type: reaction
+    cost: 1
+    condition: When you are grappling an opponent
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts:
+      - 
+        - 1d8 + @mod
+        - necrotic
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+folder: oc9TgcO2cuDhwbK3
+flags: { }
+_id: nuo0pwy265i4v1p5
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!nuo0pwy265i4v1p5'

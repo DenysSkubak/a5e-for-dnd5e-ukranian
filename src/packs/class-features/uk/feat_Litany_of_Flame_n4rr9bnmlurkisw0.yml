@@ -1,0 +1,158 @@
+name: Litany of Flame
+type: feat
+img: icons/magic/fire/beam-jet-stream-yellow.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p dir="ltr">At 14th level, you learn the Litany of Flame. To use it, you must spend a use of your Wild Shape and an action. Once it has begun, you must concentrate on it like a spell, and you may keep it active for up to 10 minutes. While the Litany of Flame is active you gain the following effects:</p> 
+      <ul> 
+      <li dir="ltr" aria-level="1"> 
+      <p dir="ltr" role="presentation">You continuously chant the Litany, precluding you from casting spells.</p> 
+      </li> 
+      <li dir="ltr" aria-level="1"> 
+      <p dir="ltr" role="presentation">You gain immunity to fire damage.</p> 
+      </li> 
+      <li dir="ltr" aria-level="1"> 
+      <p dir="ltr" role="presentation">You shed bright light in a 50-foot radius around you and dim light a further 50 feet beyond that. The light is considered daylight.</p> 
+      </li> 
+      <li dir="ltr" aria-level="1"> 
+      <p dir="ltr" role="presentation">You gain unlimited use of @UUID[Compendium.a5e-for-dnd5e.class-features.Item.brs5ieevwfasrb6u]{Brand of Flame}.&nbsp;</p> 
+      </li> 
+      <li dir="ltr" aria-level="1"> 
+      <p dir="ltr" role="presentation">You gain the benefits of @UUID[Compendium.a5e-for-dnd5e.class-features.Item.hm481xz98jml7nbb]{Eyes of Piercing Flame}.</p> 
+      </li> 
+      <li dir="ltr" aria-level="1"> 
+      <p dir="ltr" role="presentation">As an action you may cause a creature within 30 feet of you to ignite, taking 3d6 fire damage and 1d6 ongoing fire damage. A creature may spend an action to put the fire out, ending the ongoing damage.</p> 
+      </li> 
+      <li dir="ltr" aria-level="1"> 
+      <p dir="ltr" role="presentation">As a bonus action, you may ignite a 10-foot square into flames, within 30 feet of you. It is affected as per the Fire encounter element.</p> 
+      </li> 
+      <li dir="ltr" aria-level="1"> 
+      <p dir="ltr" role="presentation">As a reaction, you may cause a creature within 60 feet of you whose presence you are aware of to be outlined in ghostly flames as if it were affected by @UUID[Compendium.a5e-for-dnd5e.spells.Item.z7r6plq6vyesck07]{Faerie Fire}. If you stop chanting or lose concentration, the effect ends.</p> 
+      </li> 
+      </ul> 
+      <p>&nbsp;</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties:
+    - concentration
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: reaction
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.m7HPL4XWhqyyLmha
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: QhKJUVORrEsMbVy7
+        applyToSelf: true
+        duration:
+          unit: minutes
+    transfer: false
+    name: Litany of Flame
+    img: icons/magic/fire/beam-jet-stream-yellow.webp
+    _id: qlqImJQ3XX79Q60F
+    type: base
+    system: { }
+    changes:
+      - key: system.traits.di.value
+        value: fire
+        mode: 2
+        priority: null
+      - key: '@token.light.bright'
+        value: '50'
+        mode: 6
+        priority: null
+      - key: '@token.light.dim'
+        value: '100'
+        mode: 6
+        priority: null
+      - key: flags.a5e.effects.rollMode.skillCheck.ste
+        value: '-1'
+        mode: 6
+        priority: null
+      - key: system.traits.conditionImmunities
+        value: '["invisible"]'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 600
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: "<ul>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">You continuously chant the Litany, precluding you from casting spells.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">You gain immunity to fire damage.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">You shed bright light in a 50-foot radius around you and dim light a further 50 feet beyond that. The light is considered daylight.</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">You gain unlimited use of Brand of Flame.\_</p>\n</li>\n<li dir=\"ltr\" aria-level=\"1\">\n<p dir=\"ltr\" role=\"presentation\">You gain the benefits of Eyes of Piercing Flame.</p>\n</li>\n</ul>"
+    tint: '#ffffff'
+    statuses: [ ]
+    sort: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.21
+      createdTime: 1722963725177
+      modifiedTime: 1722964845165
+      lastModifiedBy: Glw114cHAVexdKTu
+    folder: null
+    _key: '!items.effects!n4rr9bnmlurkisw0.qlqImJQ3XX79Q60F'
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722963636381
+  modifiedTime: 1722964949173
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: n4rr9bnmlurkisw0
+_key: '!items!n4rr9bnmlurkisw0'

@@ -1,0 +1,64 @@
+name: Bodyguard
+type: a5e-for-dnd5e.maneuver
+img: icons/skills/social/diplomacy-unity-alliance.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>You interpose yourself to take a hit for your ally.</p><p>When an ally within your reach is hit by an attack, you can use your reaction to swap places with them and become the target of that attack, taking half as much damage as normal.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  degree: 4
+  tradition: sk
+  prerequisite: ''
+  properties: [ ]
+  consume:
+    type: charges
+    target: null
+    amount: 3
+  activation:
+    type: reaction
+    cost: 1
+    condition: When an ally within your reach is hit by an attack.
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: 1
+    width: null
+    units: ''
+    type: creature
+  range:
+    value: null
+    long: null
+    units: touch
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: beGrH5K8SBmrzzgF
+_id: xxff2bl2f6ootcdg
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!xxff2bl2f6ootcdg'

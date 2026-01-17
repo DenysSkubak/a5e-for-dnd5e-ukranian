@@ -1,0 +1,70 @@
+folder: null
+name: Decomposing Touch
+type: feat
+img: icons/magic/death/skull-poison-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 6th level, you learn to use your unique connection to the cycle of death and rebirth to your advantage. While in your normal form or swarm form, you can use an action to touch the corpse of a Medium or larger creature that has been dead for 10 days or less and magically regain one expended spell slot. The spell slot you regain can&rsquo;t be higher than 5th&nbsp; level or half your character level, whichever is lower. When you use this ability, the corpse you touch rapidly decomposes and becomes unrecognizable. You can&rsquo;t use this feature again until you finish a&nbsp;short or long rest.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: action
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722952957857
+  modifiedTime: 1722952997854
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: zrcepca19alawkhc
+_key: '!items!zrcepca19alawkhc'

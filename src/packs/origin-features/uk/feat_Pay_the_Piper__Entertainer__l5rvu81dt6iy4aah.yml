@@ -1,0 +1,33 @@
+name: Pay the Piper (Entertainer)
+type: feat
+img: icons/tools/instruments/pipe-flute-brown.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: background
+    subtype: ''
+  description:
+    value: >-
+      <p>In any settlement in which you haven’t made yourself unpopular, your performances can earn enough money to support yourself and your companions: the bigger the settlement, the higher your standard of living, up to a moderate lifestyle in a city.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: n7MBM7lcayeaiQdF
+_id: l5rvu81dt6iy4aah
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!l5rvu81dt6iy4aah'

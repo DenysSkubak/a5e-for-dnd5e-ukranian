@@ -1,0 +1,35 @@
+name: Grandmaster
+type: feat
+img: icons/magic/symbols/cross-circle-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 20th level, you finally achieve true mastery and become more than adept&mdash;you are a grandmaster. You gain the following features:</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.pdg89u5i5zkz1omm]{Grandmaster: Death Blow}</p> 
+      <p>@UUID[Compendium.a5e-for-dnd5e.class-features.Item.07h1l0fb9dki3e3u]{Grandmaster: Perfection Achieved}</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: erkupn5aotw8mkx2
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!erkupn5aotw8mkx2'

@@ -1,0 +1,103 @@
+name: 'Critical: Vitalizing Force'
+type: feat
+img: icons/skills/movement/feet-winged-sandals-tan.webp
+effects:
+  - icon: icons/skills/movement/feet-winged-sandals-tan.webp
+    origin: Item.3Jb1alaEXLBZCnlt
+    flags:
+      a5e:
+        sort: 0
+        transferType: onUse
+        actionId: 4RfMDe87SKXNmZgc
+        applyToSelf: true
+        duration:
+          unit: minutes
+    transfer: false
+    name: Vitalizing Force
+    _id: db63eI1JIPjhZF5o
+    changes:
+      - key: system.attributes.movement.walk
+        value: '20'
+        mode: 2
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: 60
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    folder: null
+    _stats:
+      coreVersion: '12'
+      systemId: a5e
+      systemVersion: 0.19.17
+    _key: '!items.effects!rof86q7ykt9yhkun.db63eI1JIPjhZF5o'
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>The thrill of your attack drives you to greater feats. When you score a critical hit your base speed increases by 20 feet for 1 minute or until you use this Critical Focus again.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: special
+    cost: ''
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: effect
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+folder: null
+_id: rof86q7ykt9yhkun
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!rof86q7ykt9yhkun'

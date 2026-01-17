@@ -1,0 +1,47 @@
+name: Ring of Resistance
+type: equipment
+img: icons/equipment/finger/ring-band-engraved-spirals-gold.webp
+effects: [ ]
+flags: { }
+system:
+  description:
+    value: >-
+      <p>While wearing this ring, you have resistance to one type of damage based on the ring’s gemstone (either chosen by the Narrator or determined randomly). </p><hr class="a5e-rule u-my-md"><p>[[/r 1d10]]</p><ol><li>Acid</li><li>Cold</li><li>Fire</li><li>Force</li><li>Lightning</li><li>Necrotic</li><li>Poison</li><li>Psychic</li><li>Radiant</li><li>Thunder</li></ol>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Trials and Treasures
+    license: OGL 1.0a
+  quantity: 1
+  weight: 0
+  price:
+    value: 750
+    denomination: gp
+  attunement: 0
+  equipped: false
+  rarity: rare
+  identified: true
+  armor:
+    value: .nan
+    dex: 0
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  speed:
+    value: null
+    conditions: ''
+  strength: 0
+  stealth: false
+  proficient: null
+  type:
+    value: clothing
+    baseItem: ''
+folder: 9k4UVzCiMuqj62ea
+_id: 73p9az16aph3cgy6
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!73p9az16aph3cgy6'

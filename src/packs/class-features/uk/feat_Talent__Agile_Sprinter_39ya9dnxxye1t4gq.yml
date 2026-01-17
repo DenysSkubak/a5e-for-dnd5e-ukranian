@@ -1,0 +1,33 @@
+name: 'Talent: Agile Sprinter'
+type: feat
+img: icons/creatures/mammals/rabbit-movement-glowing-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You are adept at traversing obstacles while running, able to efficiently and rapidly climb and leap between trees, vines, rooftops, and ropes. You gain an expertise die on Athletics and Acrobatics checks made to climb, run, and swing.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 39ya9dnxxye1t4gq
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!39ya9dnxxye1t4gq'

@@ -1,0 +1,40 @@
+folder: null
+name: Shadow Sense
+type: feat
+img: icons/magic/earth/barrier-stone-explosion-spiked.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Starting at 10th level, you are at home in pitch darkness and fight even more effectively without light.</p> 
+      <ul> 
+      <li>You gain blindsight with a radius of 10 feet.</li> 
+      <li>You gain an&nbsp;expertise die&nbsp;to&nbsp;attack rolls while in darkness.</li> 
+      </ul>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723417738316
+  modifiedTime: 1723417788594
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: i2w3wqx84y9x9rzx
+_key: '!items!i2w3wqx84y9x9rzx'

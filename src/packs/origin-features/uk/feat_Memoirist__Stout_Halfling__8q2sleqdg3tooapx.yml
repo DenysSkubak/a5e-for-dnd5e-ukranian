@@ -1,0 +1,33 @@
+name: Memoirist (Stout Halfling)
+type: feat
+img: icons/skills/trades/farming-planet-bulb-orange.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: culture
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency with calligrapher’s supplies. In addition, you can gain an expertise die on Intelligence checks to recall details about past events you took part in by first checking your journals.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: OpVlQm2oviOU6e9w
+_id: 8q2sleqdg3tooapx
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!8q2sleqdg3tooapx'

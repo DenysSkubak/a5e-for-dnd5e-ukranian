@@ -1,0 +1,39 @@
+name: Battle Hymn Focus
+type: feat
+img: icons/magic/sonic/projectile-sound-rings-wave.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Also at 4th level, at the end of another&nbsp;creature&rsquo;s turn, you can use your reaction to&nbsp;activate a battle hymn. This battle hymn&nbsp;replaces any currently activated battle&nbsp;hymns. Replacing an activated battle hymn&nbsp;does not require expending a use of Bardic&nbsp;Inspiration if the previously activated hymn&nbsp;doesn&rsquo;t have a target.&nbsp;In addition, choose one of the following.</p> 
+      <ul> 
+      <li>Your battle hymns don&rsquo;t require&nbsp;concentration.</li> 
+      <li>Your battle hymns can affect a&nbsp;number of additional creatures equal&nbsp;to your Charisma modifier (minimum&nbsp;one).</li> 
+      <li>You learn an additional battle hymn, which doesn&rsquo;t count against the number of battle hymns you know. When choosing this battle hymn, treat your bard level as four higher for the purposes of meeting the hymn&rsquo;s prerequisites. If you change this Battle Hymn Focus, you forget&nbsp;the additional battle hymn.</li> 
+      </ul> 
+      <p>Whenever you gain a bard level, you can&nbsp;change your Battle Hymn Focus.</p>
+    chat: ''
+  source:
+    book: ''
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: n1y7l6usa4j8sjnn
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!n1y7l6usa4j8sjnn'

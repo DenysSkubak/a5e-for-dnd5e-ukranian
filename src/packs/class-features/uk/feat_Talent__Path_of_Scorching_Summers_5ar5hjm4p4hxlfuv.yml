@@ -1,0 +1,33 @@
+name: 'Talent: Path of Scorching Summers'
+type: feat
+img: icons/magic/light/orb-beams-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>By emulating the beasts of the desert you are above the concerns of heat and thirst. You gain advantage on saving throws made to resist the effects of hot weather as though you were wearing hot weather gear, but without the disadvantages in cold weather. You also gain advantage on saving throws made to resist the effects of thirst.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 5ar5hjm4p4hxlfuv
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!5ar5hjm4p4hxlfuv'

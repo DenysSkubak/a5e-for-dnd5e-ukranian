@@ -1,0 +1,32 @@
+name: Darkvision
+type: feat
+img: icons/magic/light/explosion-star-small-blue-yellow.webp
+system:
+  type:
+    value: race
+    subtype: ''
+  description:
+    value: <p>You have darkvision out to 60&nbsp;feet.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+folder: z476XZt1iG4Mb7VJ
+flags: { }
+_id: 71rrfuwva6r4bt7y
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!71rrfuwva6r4bt7y'

@@ -1,0 +1,33 @@
+name: Keen Smell (New Moon Wererat)
+type: feat
+img: icons/creatures/mammals/rodent-rat-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: feat
+    subtype: ''
+  description:
+    value: <p>You have advantage on Perception checks that rely on smell.</p>
+    chat: ''
+  source:
+    book: Gate Pass Gazette
+    license: OGL 1.0a
+    page: '#0'
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: vhey6u0n3jyw7pay
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!vhey6u0n3jyw7pay'

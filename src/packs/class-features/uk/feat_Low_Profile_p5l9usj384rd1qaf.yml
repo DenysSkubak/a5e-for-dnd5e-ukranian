@@ -1,0 +1,33 @@
+name: Low Profile
+type: feat
+img: icons/magic/nature/stealth-hide-beast-eyes-green.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Beginning at 10th level, you can avoid notice when you wish. Choose one of the following options. You must be proficient in a skill or tool in order to gain an expertise die from Low Profile.</p><h2>Costumer</h2><p>You gain an expertise die on checks made with a disguise kit. When you use a disguise kit on yourself or another person, creatures have disadvantage on checks made to see through the disguise.</p><h2>Social Expertise</h2><p>You gain an expertise die on checks made with one of the following skills: Insight, Intimidation, Performance, or Sleight of Hand.</p><h2>True Lie</h2><p>You gain an expertise die on Persuasion checks. Your lies are so convincing that you half believe them yourself. You can use Persuasion instead of Deception when you are telling a lie.</p><h2>Walk it Back</h2><p>You gain an expertise die on Deception checks. When an ally fails a Deception check to tell a lie, you can use your reaction to add a supporting detail. Make a Deception check and use your result instead of theirs.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: p5l9usj384rd1qaf
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!p5l9usj384rd1qaf'

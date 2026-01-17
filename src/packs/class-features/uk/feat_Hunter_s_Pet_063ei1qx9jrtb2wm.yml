@@ -1,0 +1,39 @@
+name: Hunter's Pet
+type: feat
+img: icons/creatures/mammals/dog-husky-white-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 7th level, any beast you are the guardian ranger of treats its natural weapons as magical, and gains one of the following features:</p> 
+      <p><em><strong>Camouflage.</strong> </em>The beast can take the Hide action as a bonus action.&nbsp;</p> 
+      <p><em><strong>Celerity.</strong></em> The beast can take the Dash action as a bonus action.</p> 
+      <p><em><strong>Evasion. </strong></em>The beast can take the Dodge action as a bonus action.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723331444586
+  modifiedTime: 1723331513166
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 063ei1qx9jrtb2wm
+_key: '!items!063ei1qx9jrtb2wm'

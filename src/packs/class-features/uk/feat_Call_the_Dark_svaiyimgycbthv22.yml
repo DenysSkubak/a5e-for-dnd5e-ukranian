@@ -1,0 +1,112 @@
+folder: null
+name: Call the Dark
+type: feat
+img: icons/magic/unholy/beam-ringed-impact-purple.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 15th level, you can summon darkness at will. You can use a bonus action to cast the @UUID[Compendium.a5e-for-dnd5e.spells.Item.0ou0qutr7p2bedg0] spell without components. You can use this feature a number of times equal to your proficiency bonus, regaining all uses when you finish a long rest.</p>
+    chat: ''
+  source:
+    book: Dungeon Delver's Guide
+    license: OGL 1.0a
+  properties:
+    - concentration
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+    condition: ''
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: '15'
+    width: null
+    units: ft
+    type: sphere
+  range:
+    value: 60
+    long: null
+    units: ft
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects:
+  - origin: Item.V2pPJok7dTS7seC0
+    flags:
+      a5e:
+        sort: 0
+        transferType: passive
+    transfer: false
+    name: Wisdom STP
+    _id: DvGJxE9ywYF4WQC6
+    changes:
+      - key: system.abilities.wis.save.proficient
+        value: 'true'
+        mode: 6
+        priority: null
+    disabled: false
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    description: ''
+    statuses: [ ]
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      coreVersion: '12.330'
+      systemId: a5e
+      systemVersion: 0.19.22
+      createdTime: null
+      modifiedTime: 1723492998938
+      lastModifiedBy: Glw114cHAVexdKTu
+    img: icons/magic/unholy/beam-ringed-impact-purple.webp
+    type: base
+    system: { }
+    tint: '#ffffff'
+    sort: 0
+    folder: null
+    _key: '!items.effects!svaiyimgycbthv22.DvGJxE9ywYF4WQC6'
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.22
+  createdTime: 1723492998910
+  modifiedTime: 1723493035721
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: svaiyimgycbthv22
+_key: '!items!svaiyimgycbthv22'

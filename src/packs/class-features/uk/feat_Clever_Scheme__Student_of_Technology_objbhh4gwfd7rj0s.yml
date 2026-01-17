@@ -1,0 +1,33 @@
+name: 'Clever Scheme: Student of Technology'
+type: feat
+img: icons/commodities/tech/cog-brass.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You instead gain an expertise die on Engineering checks and when using tools to build, repair, or understand a technological device.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: objbhh4gwfd7rj0s
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!objbhh4gwfd7rj0s'

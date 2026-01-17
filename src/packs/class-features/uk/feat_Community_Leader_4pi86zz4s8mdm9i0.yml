@@ -1,0 +1,36 @@
+name: Community Leader
+type: feat
+img: icons/environment/settlement/house-manor.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At level 1, your focus on your community makes you more versatile than a typical cleric. You gain a second @UUID[Compendium.a5e-for-dnd5e.class-features.Item.l9kvw4n809k17gsy]{Sacred Call} option.</p>
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Itinerant'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+folder: null
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722978272609
+  modifiedTime: 1722978298897
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: 4pi86zz4s8mdm9i0
+_key: '!items!4pi86zz4s8mdm9i0'

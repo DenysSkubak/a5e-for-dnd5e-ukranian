@@ -1,0 +1,33 @@
+name: Wilderness Training
+type: feat
+img: icons/creatures/mammals/spirit-deer-herd-blue.webp
+effects: [ ]
+flags: { }
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>You gain proficiency in the Survival skill. For the purposes of adept class features, you consider beasts to be martial artists.</p>
+    chat: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+folder: null
+_id: 8l0pvdflj342a259
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!8l0pvdflj342a259'

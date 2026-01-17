@@ -1,0 +1,32 @@
+folder: null
+name: Extra Attack (Tactician)
+type: feat
+img: icons/skills/melee/blade-tips-triple-steel.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: ''
+    chat: ''
+  source:
+    book: 'Thematic Toolkit: Carry the Darkness'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+_id: kj8eo79jl1oyj3aa
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!kj8eo79jl1oyj3aa'

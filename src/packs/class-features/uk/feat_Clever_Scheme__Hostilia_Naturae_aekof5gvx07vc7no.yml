@@ -1,0 +1,33 @@
+name: 'Clever Scheme: Hostilia Naturae'
+type: feat
+img: icons/creatures/tentacles/tentacle-earth-green.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>Following the path trod by Drakran naturalist Karl Evol, author of<em> A Theory of Noetic Field Adaptation Toward Terrifyingness Among Malice Ecologies</em>, you have studied the many perils of wild flora and fauna. You gain an expertise die on checks to avoid, locate, or understand the abilities of aberrations, beasts, and monstrosities.</p>
+    chat: ''
+  source:
+    book: Adventures in ZEITGEIST
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: null
+  uses:
+    per: null
+    max: null
+effects: [ ]
+flags: { }
+folder: null
+_id: aekof5gvx07vc7no
+_stats:
+  coreVersion: '12'
+  systemId: a5e
+  systemVersion: 0.19.17
+_key: '!items!aekof5gvx07vc7no'

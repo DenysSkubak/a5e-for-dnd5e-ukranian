@@ -1,0 +1,70 @@
+name: Mold Weapon
+type: feat
+img: icons/magic/water/strike-weapon-blade-ice-blue.webp
+system:
+  type:
+    value: class
+    subtype: ''
+  description:
+    value: >-
+      <p>At 3rd level, as a bonus action you can shape a weapon out of pure elemental energy. Choose a type of damage that your @UUID[Compendium.a5e-for-dnd5e.class-features.Item.uit7l3mc64l5h8h1]{Elemental Blast} can do. The weapon takes the form of any simple or martial melee weapon you are proficient with and has the normal properties of a weapon of its type, but instead of dealing its normal damage, it deals the damage of the elemental blast you selected.</p>
+    chat: ''
+  source:
+    book: 'Manual of Adventurous Resources: Complete'
+    license: OGL 1.0a
+  properties: [ ]
+  requirements: ''
+  recharge:
+    value: null
+    charged: true
+  activation:
+    type: bonus
+    cost: 1
+  uses:
+    value: null
+    max: ''
+    per: null
+    recovery: ''
+  duration: { }
+  cover: null
+  crewed: false
+  target:
+    value: null
+    width: null
+    units: ''
+    type: ''
+  range:
+    value: null
+    long: null
+    units: ''
+  consume:
+    type: ''
+    target: null
+    amount: null
+  ability: null
+  actionType: null
+  attackBonus: ''
+  chatFlavor: ''
+  critical:
+    threshold: null
+    damage: ''
+  damage:
+    parts: [ ]
+    versatile: ''
+  formula: ''
+  save:
+    ability: ''
+    dc: null
+    scaling: spell
+effects: [ ]
+flags: { }
+folder: null
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.21
+  createdTime: 1722973743078
+  modifiedTime: 1722973772000
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: twka4yq5df8uwxq6
+_key: '!items!twka4yq5df8uwxq6'

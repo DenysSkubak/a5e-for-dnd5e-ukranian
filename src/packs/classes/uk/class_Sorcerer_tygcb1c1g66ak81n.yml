@@ -1,0 +1,393 @@
+folder: null
+name: Чародій
+type: class
+img: icons/magic/fire/flame-burning-fist-strike.webp
+system:
+  description:
+    value: >-
+      <p><strong>Таблиця: Чародій</strong></p> 
+      <table style="border-width: 1px; width: 100%;" border="1"><colgroup><col style="width: 9.10853%;"><col style="width: 14.1473%;"><col style="width: 10.6589%;"><col style="width: 50.1964%;"><col style="width: 15.8888%;"></colgroup> 
+      <thead> 
+      <tr style="height: 33.5938px;"> 
+      <td style="text-align: center;">Рівень</td> 
+      <td style="text-align: center;">Proficiency<br>Bonus</td> 
+      <td style="text-align: center;">Sorcery<br>Points</td> 
+      <td style="text-align: center;">Особливості</td> 
+      <td style="text-align: center;">Innovations<br>Known</td> 
+      </tr> 
+      </thead> 
+      <tbody> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">1ˢᵗ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">Sorcerer Archetype @UUID[Compendium.a5e-for-dnd5e.class-features.Item.whx7ar38i1nr1js4]{Spellcasting (Sorcerer)}</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">2ⁿᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">2</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.8lf349fflv8456yj]{Font of Magic} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.h2tobazibq72ybdo]{Manifestation}</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">3ʳᵈ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">3</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.a39b0sdy2grpw5sn]{Latent Power} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.q162ah61o4pgc1dd]{Metamagic}</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">4ᵗʰ</td> 
+      <td style="text-align: center;">+2</td> 
+      <td style="text-align: center;">4</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.7jxnq4in81dmi93t]{Arcane Innovations}</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">5ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">5</td> 
+      <td style="text-align: center;">Additional Metamagics</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">6ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">6</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.huephhrybue9iiws]{Arcane Refinement} Sorcerer Archetype Feature</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">7ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">7</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">1</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">8ᵗʰ</td> 
+      <td style="text-align: center;">+3</td> 
+      <td style="text-align: center;">8</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">9ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">9</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.q3gqqfr37rumjbf6]{Rapturous Presence}</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">10ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">10</td> 
+      <td style="text-align: center;">Additional Metamagics</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">11ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">11</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">2</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">12ᵗʰ</td> 
+      <td style="text-align: center;">+4</td> 
+      <td style="text-align: center;">12</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.3cccwpqerr3v215w]{Evolving Manifestation}</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">13ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">13</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">14ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">14</td> 
+      <td style="text-align: center;">Sorcerer Archetype Feature</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">15ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">15</td> 
+      <td style="text-align: center;">Additional Metamagics @UUID[Compendium.a5e-for-dnd5e.class-features.Item.s1ii8g1x1bdgoc0v]{Major Metamagic}</td> 
+      <td style="text-align: center;">3</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">16ᵗʰ</td> 
+      <td style="text-align: center;">+5</td> 
+      <td style="text-align: center;">16</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement}&nbsp;</td> 
+      <td style="text-align: center;">4</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">17ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">17</td> 
+      <td style="text-align: center;">&mdash;</td> 
+      <td style="text-align: center;">4</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">18ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">18</td> 
+      <td style="text-align: center;">Sorcerer Archetype Feature</td> 
+      <td style="text-align: center;">4</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">19ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">19</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.izdnt7eqytkwgb1d]{Ability Score Improvement} Additional Metamagics</td> 
+      <td style="text-align: center;">4</td> 
+      </tr> 
+      <tr style="height: 16.7969px;"> 
+      <td style="text-align: center;">20ᵗʰ</td> 
+      <td style="text-align: center;">+6</td> 
+      <td style="text-align: center;">20</td> 
+      <td style="text-align: center;">@UUID[Compendium.a5e-for-dnd5e.class-features.Item.tj2fyu1ttwk6sfxc]{Arcane Clutch} @UUID[Compendium.a5e-for-dnd5e.class-features.Item.pvgi4rdr5rptetзм]{Explosive Magics}</td> 
+      <td style="text-align: center;">5</td> 
+      </tr> 
+      </tbody> 
+      </table> 
+      <h3>Очки здоров’я</h3> 
+      <p><strong>Hit Dice:</strong> 1d6 за кожний рівень чародія</p> 
+      <p><strong>Hit Points at 1st Рівень: </strong>6 + your Constitution модифікатор</p> 
+      <p><strong>Hit Points at Higher Рівеньs: </strong>1d6 (or 4) + your Constitution модифікатор за кожний рівень чародія після 1-го</p> 
+      <h3>Володіння</h3> 
+      <p><strong>Armor:</strong> None</p> 
+      <p><strong>Зброя: </strong>Daggers, darts, light crossbows, quarterstaffs, slings&nbsp;</p> 
+      <p><strong>Інструменти: </strong>None</p> 
+      <p><strong>Ряткидки: </strong>Constitution, Charisma</p> 
+      <p><strong>Навички: </strong>Choose two from Аркана, Обман, Проникливість, Залякування, Виступ, Переконання, and Релігія</p> 
+      <h3>Спорядження</h3> 
+      <p>You begin the game with 100 зм. Ти можеш обрати власне спорядження або взяти one of the following equipment packages. Також звернися до розділу «Рекомендоване Equipment section of your chosen background.</p> 
+      <p><strong>Light Traveler&rsquo;s Set (Cost 37 зм):</strong> Quarterstaff, sling and 20 sling bullets, component pouch, explorer&rsquo;s pack</p> 
+      <p><strong>Troublemaker&rsquo;s Set (Cost 71 зм): </strong>2 daggers, light crossbow and quiver with 20 bolts, explorer&rsquo;s pack, wand arcane focus</p>
+    chat: ''
+    unidentified: ''
+  source:
+    book: Adventurer's Guide
+    license: OGL 1.0a
+  startingEquipment:
+    - _id: O1PyQhHm0pYQ5T20
+      sort: 10000
+      key: Compendium.a5e-for-dnd5e.gear.Item.xw41gwkwbh6tauip
+      count: 0
+      type: linked
+      group: ''
+    - _id: O1PyQhHm0pYQ5T21
+      sort: 20000
+      key: Compendium.a5e-for-dnd5e.gear.Item.b3548d5v4tejp1mv
+      count: 0
+      type: linked
+      group: ''
+  identifier: ''
+  levels: 1
+  hitDice: d6
+  hitDiceUsed: 0
+  advancement:
+    - _id: FRxVq2gmJq6bNazt
+      title: Очки здоров’я
+      type: HitPoints
+    - _id: kfuy8tmH46PMJm5R
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - weapon:sim:dagger
+          - weapon:sim:quarterstaff
+          - weapon:sim:lightcrossbow
+          - weapon:sim:sling
+          - weapon:mar:dart
+        choices: [ ]
+    - _id: 6Gi5O40vuHICduXx
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - saves:con
+          - saves:cha
+        choices: [ ]
+    - _id: n3Du9456vN5s48CM
+      type: Trait
+      level: 1
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: [ ]
+        choices:
+          - 
+          pool:
+              - skills:arc
+              - skills:dec
+              - skills:ins
+              - skills:itm
+              - skills:prf
+              - skills:per
+              - skills:rel
+            count: 2
+    - _id: 903n1Bgqsq5wLFvy
+      type: ItemGrant
+      title: Особливості
+      level: 1
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.whx7ar38i1nr1js4
+    - _id: 2zpkVnJH543PwyD9
+      type: ItemGrant
+      title: Особливості
+      level: 2
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.8lf349fflv8456yj
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.h2tobazibq72ybdo
+    - _id: noTCnHuPvBEHH34G
+      type: ItemGrant
+      title: Особливості
+      level: 3
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.a39b0sdy2grpw5sn
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.q162ah61o4pgc1dd
+    - _id: lTl5m2pqvnr6EC5A
+      type: ItemGrant
+      title: Особливості
+      level: 4
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.7jxnq4in81dmi93t
+    - _id: pT3SRKUnVL2GC7Xz
+      type: ItemGrant
+      title: Особливості
+      level: 6
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.huephhrybue9iiws
+    - _id: bvPInBMgo7tOcP6W
+      type: ItemGrant
+      title: Особливості
+      level: 9
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.q3gqqfr37rumjbf6
+    - _id: l7PkxoyZj25HtlvU
+      type: ItemGrant
+      title: Особливості
+      level: 12
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.3cccwpqerr3v215w
+    - _id: YfHxUSNtoJFW6UFB
+      type: ItemGrant
+      title: Особливості
+      level: 15
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.s1ii8g1x1bdgoc0v
+    - _id: Za0rde8BQap8QPRj
+      type: ItemGrant
+      title: Особливості
+      level: 20
+      configuration:
+        items:
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.tj2fyu1ttwk6sfxc
+          - uuid: Compendium.a5e-for-dnd5e.class-features.Item.pvgi4rdr5rptetgp
+    - _id: YO8u0kApqG82IS51
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: 1c0Qn3ySs1BxVPH6
+      type: AbilityScoreImprovement
+      level: 4
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: MJbbvfB1s85IRYvP
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: qydusHiZ1kMEAkKF
+      type: AbilityScoreImprovement
+      level: 8
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: MwSr5T1c2ccw5k8d
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: rRxfpZrDEge2xWFZ
+      type: AbilityScoreImprovement
+      level: 12
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: cnOXZF6HetpXjQFE
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: LtnCBTJ9VT8fYNGn
+      type: AbilityScoreImprovement
+      level: 16
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: lyeiOzESTU5orWfY
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+    - _id: vnK3g1GyRZYJBskm
+      type: AbilityScoreImprovement
+      level: 19
+      configuration:
+        points: 1
+        fixed: { }
+        cap: 1
+  spellcasting:
+    ability: cha
+    progression: full
+  wealth: '100'
+effects: [ ]
+flags: { }
+_stats:
+  coreVersion: '12.330'
+  systemId: a5e
+  systemVersion: 0.19.19
+  createdTime: 1722027764986
+  modifiedTime: 1722027782353
+  lastModifiedBy: Glw114cHAVexdKTu
+_id: tygcb1c1g66ak81n
+_key: '!items!tygcb1c1g66ak81n'
