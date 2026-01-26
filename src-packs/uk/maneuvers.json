@@ -1,0 +1,7 @@
+[
+  {
+    "key": "TEST.maneuver.001",
+    "name": "Precise Strike",
+    "description": "<p>When you make a weapon attack, you can…</p><p>@UUID[$1]{Precise Strike}</p>"
+  }
+]
