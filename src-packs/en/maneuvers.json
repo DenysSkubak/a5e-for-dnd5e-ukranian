@@ -1,7 +1,0 @@
-[
-  {
-    "key": "TEST.maneuver.001",
-    "name": "Precise Strike",
-    "description": "<p>When you make a weapon attack, you can…</p><p>@UUID[Compendium.a5e.maneuvers.Item.ABC123]{Precise Strike}</p>"
-  }
-]
